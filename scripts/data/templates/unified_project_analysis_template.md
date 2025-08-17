@@ -13,6 +13,9 @@
 ### Executive Summary
 {EXECUTIVE_SUMMARY}
 
+![Project Overview Diagram]({PROJECT_OVERVIEW_IMAGE_PATH})
+*Caption: Visual overview of {PROJECT_NAME} key metrics and positioning*
+
 **Key Findings:**
 - {KEY_FINDING_1}
 - {KEY_FINDING_2}
@@ -66,12 +69,18 @@
 - **Feasibility Score**: {FEASIBILITY_SCORE}/10
 - **Recommendation**: {INVESTMENT_RECOMMENDATION}
 
+![Financial Performance Chart]({FINANCIAL_PERFORMANCE_CHART_PATH})
+*Caption: Financial performance metrics comparison with industry benchmarks*
+
 ### Risk-Return Profile
 | Risk Level | Projects | Avg ROI | Avg DSCR | Success Rate |
 |------------|----------|---------|----------|--------------|
 | Low Risk | {LOW_RISK_COUNT} | {LOW_RISK_ROI}% | {LOW_RISK_DSCR} | {LOW_RISK_SUCCESS}% |
 | Medium Risk | {MED_RISK_COUNT} | {MED_RISK_ROI}% | {MED_RISK_DSCR} | {MED_RISK_SUCCESS}% |
 | High Risk | {HIGH_RISK_COUNT} | {HIGH_RISK_ROI}% | {HIGH_RISK_DSCR} | {HIGH_RISK_SUCCESS}% |
+
+![Risk-Return Matrix]({RISK_RETURN_MATRIX_PATH})
+*Caption: Risk-return profile visualization across different project categories*
 
 ---
 
@@ -101,6 +110,9 @@
 {PROCESS_STEP_1} → {PROCESS_STEP_2} → {PROCESS_STEP_3} → {PROCESS_STEP_4}
 ```
 
+![Manufacturing Process Flowchart]({PROCESS_FLOWCHART_PATH})
+*Caption: Detailed manufacturing process flow diagram for {PROJECT_NAME}*
+
 **Process Details:**
 1. **{PROCESS_1}**: {PROCESS_1_DESCRIPTION}
 2. **{PROCESS_2}**: {PROCESS_2_DESCRIPTION}  
@@ -110,6 +122,9 @@
 ---
 
 ## 🏭 Supply Chain & Vendor Analysis
+
+![Supply Chain Network Diagram]({SUPPLY_CHAIN_DIAGRAM_PATH})
+*Caption: Supply chain network and vendor ecosystem for {PROJECT_NAME}*
 
 ### Raw Material Suppliers
 | Material | Primary Supplier | Contact Details | Backup Supplier | Price Range | Quality Rating |
@@ -150,6 +165,9 @@
 - **Market Maturity**: {MARKET_MATURITY} (Emerging/Growing/Mature/Declining)
 - **Competition Level**: {COMPETITION_LEVEL} (Low/Medium/High)
 
+![Market Size and Growth Trends]({MARKET_TRENDS_CHART_PATH})
+*Caption: Market size evolution and growth projections for the industry*
+
 ### Market Drivers & Restraints
 **Market Drivers:**
 1. **{DRIVER_1}**
@@ -176,6 +194,9 @@
 | **Medium Enterprises** | {MEDIUM_ENT_SHARE}% | {MEDIUM_ENT_ADVANTAGE} | {MEDIUM_ENT_THREAT}/10 | {MEDIUM_ENT_MITIGATION} |
 | **Small Enterprises** | {SMALL_ENT_SHARE}% | {SMALL_ENT_ADVANTAGE} | {SMALL_ENT_THREAT}/10 | {SMALL_ENT_MITIGATION} |
 
+![Competitive Landscape Map]({COMPETITIVE_LANDSCAPE_PATH})
+*Caption: Competitive positioning and market share distribution*
+
 ### Market Opportunities & Threats
 **Opportunities:**
 - {OPPORTUNITY_1}
@@ -191,6 +212,9 @@
 
 ## 🗺️ Geographic Analysis
 
+![Geographic Distribution Map]({GEOGRAPHIC_DISTRIBUTION_MAP_PATH})
+*Caption: Geographic distribution of projects and investment hotspots*
+
 ### Location Assessment
 - **Primary Location**: {PRIMARY_LOCATION}
 - **Geographic Advantage**: {GEOGRAPHIC_ADVANTAGE}
@@ -204,12 +228,18 @@
 | {REGION_2} | {REGION_2_PROJECTS} | ₹{REGION_2_INVESTMENT} | {REGION_2_EMPLOYMENT} | {REGION_2_SUCCESS}% | {REGION_2_ROI}% | {REGION_2_INFRA}/10 |
 | {REGION_3} | {REGION_3_PROJECTS} | ₹{REGION_3_INVESTMENT} | {REGION_3_EMPLOYMENT} | {REGION_3_SUCCESS}% | {REGION_3_ROI}% | {REGION_3_INFRA}/10 |
 
+![Regional Performance Dashboard]({REGIONAL_PERFORMANCE_DASHBOARD_PATH})
+*Caption: Comparative analysis of regional performance metrics*
+
 ### Investment Hotspots
 | District | Growth Rate | Investment Potential | Key Advantages | Risk Factors |
 |----------|-------------|---------------------|----------------|--------------|
 | {HOTSPOT_1} | {HOTSPOT_1_GROWTH}% | ₹{HOTSPOT_1_POTENTIAL} | {HOTSPOT_1_ADVANTAGES} | {HOTSPOT_1_RISKS} |
 | {HOTSPOT_2} | {HOTSPOT_2_GROWTH}% | ₹{HOTSPOT_2_POTENTIAL} | {HOTSPOT_2_ADVANTAGES} | {HOTSPOT_2_RISKS} |
 | {HOTSPOT_3} | {HOTSPOT_3_GROWTH}% | ₹{HOTSPOT_3_POTENTIAL} | {HOTSPOT_3_ADVANTAGES} | {HOTSPOT_3_RISKS} |
+
+![Investment Hotspots Heatmap]({INVESTMENT_HOTSPOTS_HEATMAP_PATH})
+*Caption: Investment hotspots and growth potential mapping*
 
 ### Urban vs Rural Analysis
 | Metric | Urban | Rural | Difference |
@@ -223,6 +253,9 @@
 
 ## ⚠️ Risk Assessment
 
+![Risk Analysis Matrix Visualization]({RISK_MATRIX_VISUALIZATION_PATH})
+*Caption: Comprehensive risk assessment matrix with probability vs impact analysis*
+
 ### Risk Analysis Matrix
 | Risk Category | Probability | Impact | Mitigation Strategy | Cost of Mitigation |
 |---------------|-------------|--------|-------------------|-------------------|
@@ -233,6 +266,10 @@
 | **Geographic Risk** | {GEO_RISK_PROB}% | {GEO_RISK_IMPACT}/10 | {GEO_RISK_MITIGATION} | ₹{GEO_RISK_COST} |
 
 ### SWOT Analysis
+
+![SWOT Analysis Matrix]({SWOT_ANALYSIS_MATRIX_PATH})
+*Caption: Comprehensive SWOT analysis for strategic planning*
+
 **Strengths:**
 - {STRENGTH_1}
 - {STRENGTH_2}
@@ -267,6 +304,10 @@
 | **Geographic Feasibility** | {GEO_FEASIBILITY}/10 | {GEO_CRITICAL_FACTORS} | {GEO_RECOMMENDATIONS} |
 
 ### Implementation Timeline
+
+![Implementation Gantt Chart]({IMPLEMENTATION_GANTT_CHART_PATH})
+*Caption: Project implementation timeline and milestone tracking*
+
 | Phase | Duration | Key Activities | Success Criteria | Resource Requirements |
 |-------|----------|----------------|------------------|---------------------|
 | **Phase 1: Planning** | {PHASE1_DURATION} | {PHASE1_ACTIVITIES} | {PHASE1_CRITERIA} | {PHASE1_RESOURCES} |
@@ -323,6 +364,9 @@
 
 ## 📊 Performance Projections
 
+![5-Year Financial Projections Chart]({FINANCIAL_PROJECTIONS_CHART_PATH})
+*Caption: Five-year financial performance projections and trends*
+
 ### 5-Year Financial Projections
 | Year | Revenue | Cost | Profit | ROI | DSCR |
 |------|---------|------|--------|-----|------|
@@ -333,6 +377,10 @@
 | Year 5 | ₹{REVENUE_Y5} | ₹{COST_Y5} | ₹{PROFIT_Y5} | {ROI_Y5}% | {DSCR_Y5} |
 
 ### Market Projections
+
+![Market Growth Projections Chart]({MARKET_PROJECTIONS_CHART_PATH})
+*Caption: Market size evolution and growth trend projections*
+
 | Year | Market Size (₹ Cr) | Growth Rate | Key Trends |
 |------|-------------------|-------------|------------|
 | 2024 | {MARKET_2024} | {GROWTH_2024}% | {TRENDS_2024} |
@@ -379,6 +427,10 @@
 - **Product Code**: {PRODUCT_CODE}
 
 ### Implementation Timeline
+
+![Project Implementation Roadmap]({PROJECT_IMPLEMENTATION_ROADMAP_PATH})
+*Caption: Step-by-step project implementation roadmap and dependencies*
+
 | Phase | Duration | Key Activities | Milestones | Dependencies |
 |-------|----------|----------------|------------|--------------|
 | **Project Report Preparation** | {PREP_DURATION} | {PREP_ACTIVITIES} | {PREP_MILESTONES} | {PREP_DEPENDENCIES} |
