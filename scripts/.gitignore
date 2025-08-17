@@ -31,7 +31,6 @@ logs/
 
 # Data files (large files)
 data/source/pdfs/
-*.pdf
 *.zip
 data/solutions/*/processed-reports/
 data/solutions/*/insights/
