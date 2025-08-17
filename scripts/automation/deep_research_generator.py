@@ -181,6 +181,12 @@ CRITICAL REQUIREMENTS:
    - Replace ![Project Implementation Roadmap](URL) → Mermaid gantt chart
 
 3. **Mermaid Syntax**: Use proper Mermaid syntax with clear titles, labels, and data
+   - Use `xychart-beta` for bar and line charts (not `bar` or `line`)
+   - Use `quadrantChart` for quadrant charts (not `quadrant`)
+   - Use `pie` for pie charts
+   - Use `graph TD` for flowcharts
+   - Use `gantt` for timeline charts
+   - Use `mindmap` for mind maps
 4. **Data Accuracy**: Use actual numbers from the PDF for all diagrams
 5. **Professional Quality**: Ensure diagrams are informative and visually appealing
 6. **Indian Context**: Use ₹ currency and Indian market data where applicable
@@ -194,7 +200,9 @@ OUTPUT FORMAT:
 - Maintain professional formatting and structure
 - NO image placeholders should remain in the final output
 
-EXAMPLE MERMAID DIAGRAM FORMAT:
+EXAMPLE MERMAID DIAGRAM FORMATS:
+
+**Flowchart:**
 ```mermaid
 graph TD
     A[Raw Materials] --> B[Manufacturing]
@@ -203,7 +211,75 @@ graph TD
     D --> E[Distribution]
 ```
 
-Generate comprehensive analysis with intelligent, data-driven Mermaid visualizations for each placeholder.
+**Bar Chart:**
+```mermaid
+xychart-beta
+    title "Financial Performance"
+    x-axis [DSCR, ROI, Break-even, Payback]
+    y-axis "Value" 0 --> 50
+    bar [2.36, 25, 39, 5]
+```
+
+**Line Chart:**
+```mermaid
+xychart-beta
+    title "Market Growth Trends"
+    x-axis [2017, 2018, 2019, 2020, 2025]
+    y-axis "Market Size (₹ Million)" 0 --> 7000
+    line [4060, 4300, 4560, 4830, 6650]
+```
+
+**Pie Chart:**
+```mermaid
+pie title "Project Cost Breakdown"
+    "Land & Building" : 22.15
+    "Plant & Machinery" : 41.65
+    "Working Capital" : 30.75
+    "Other Assets" : 5.55
+```
+
+**Quadrant Chart:**
+```mermaid
+quadrantChart
+    title Risk Analysis Matrix
+    x-axis Probability --> Impact
+    y-axis Low --> High
+    quadrant-1 High Probability, High Impact
+    quadrant-2 Low Probability, High Impact
+    quadrant-3 Low Probability, Low Impact
+    quadrant-4 High Probability, Low Impact
+    "Market Risk": [0.8, 0.7]
+    "Technical Risk": [0.6, 0.5]
+    "Financial Risk": [0.5, 0.6]
+```
+
+**Gantt Chart:**
+```mermaid
+gantt
+    title Project Implementation Timeline
+    dateFormat  YYYY-MM-DD
+    section Planning
+    Site Selection    :a1, 2023-10-01, 30d
+    section Setup
+    Equipment Procurement :a2, after a1, 60d
+    section Operations
+    Production Start  :a3, after a2, 30d
+```
+
+**Mind Map:**
+```mermaid
+mindmap
+  root((Surgical 3 Ply Mask))
+    Project Overview
+      Key Metrics
+        Cost: ₹18.05L
+        Employment: 10
+    Market Potential
+      Growth: 6.1% CAGR
+      Size: ₹4060M
+```
+
+Generate comprehensive analysis with intelligent, data-driven Mermaid visualizations using proper syntax for each placeholder.
 """
 
 
