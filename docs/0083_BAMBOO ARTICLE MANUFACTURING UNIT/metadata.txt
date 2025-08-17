@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0083_BAMBOO ARTICLE MANUFACTURING UNIT.pdf
+Generated: 2025-08-18T01:48:22.299986
+Status: success
+Model: gpt-4o

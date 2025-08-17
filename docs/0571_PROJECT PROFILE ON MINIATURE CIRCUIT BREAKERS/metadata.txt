@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0571_PROJECT PROFILE ON MINIATURE CIRCUIT BREAKERS.pdf
+Generated: 2025-08-18T03:55:00.986744
+Status: failed
+Model: gpt-4o

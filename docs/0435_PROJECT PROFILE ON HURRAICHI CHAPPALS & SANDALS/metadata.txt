@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0435_PROJECT PROFILE ON HURRAICHI CHAPPALS & SANDALS.pdf
+Generated: 2025-08-18T03:48:44.280029
+Status: failed
+Model: gpt-4o

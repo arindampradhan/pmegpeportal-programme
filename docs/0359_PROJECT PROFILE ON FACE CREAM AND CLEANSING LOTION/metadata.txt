@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0359_PROJECT PROFILE ON FACE CREAM AND CLEANSING LOTION.pdf
+Generated: 2025-08-18T03:45:02.067304
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0477_PROJECT PROFILE ON KNITTED SOCKS.pdf
+Generated: 2025-08-18T03:50:52.642646
+Status: failed
+Model: gpt-4o

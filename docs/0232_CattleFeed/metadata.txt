@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0232_CattleFeed.pdf
+Generated: 2025-08-18T03:38:55.692169
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0573_MODEL PROJECT PROFILE ON PLASTIC BOTTLE (PCBI).pdf
+Generated: 2025-08-18T03:55:05.979724
+Status: failed
+Model: gpt-4o

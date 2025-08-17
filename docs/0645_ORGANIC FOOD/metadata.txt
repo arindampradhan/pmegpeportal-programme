@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0645_ORGANIC FOOD.pdf
+Generated: 2025-08-18T03:58:39.436565
+Status: failed
+Model: gpt-4o

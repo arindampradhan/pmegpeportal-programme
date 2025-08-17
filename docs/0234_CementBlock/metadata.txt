@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0234_CementBlock.pdf
+Generated: 2025-08-18T03:39:02.265406
+Status: failed
+Model: gpt-4o

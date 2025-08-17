@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0776_PlasticButtons.pdf
+Generated: 2025-08-18T04:03:26.265700
+Status: failed
+Model: gpt-4o

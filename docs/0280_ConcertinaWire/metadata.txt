@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0280_ConcertinaWire.pdf
+Generated: 2025-08-18T03:41:18.351456
+Status: failed
+Model: gpt-4o

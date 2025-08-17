@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0361_PROJECT PROFILE ON FANCY LEATHER GLOVES.pdf
+Generated: 2025-08-18T03:45:06.969237
+Status: failed
+Model: gpt-4o

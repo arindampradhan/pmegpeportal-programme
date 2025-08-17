@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0745_PackagingUnit.pdf
+Generated: 2025-08-18T04:01:50.194242
+Status: failed
+Model: gpt-4o

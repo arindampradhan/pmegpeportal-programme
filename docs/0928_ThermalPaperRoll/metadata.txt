@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0928_ThermalPaperRoll.pdf
+Generated: 2025-08-18T04:10:45.116490
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0089_PROJECT PROFILE ON BEE - METALLURGICAL COKE.pdf
+Generated: 2025-08-18T02:01:53.095469
+Status: success
+Model: gpt-4o

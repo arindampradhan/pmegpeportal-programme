@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0363_FANCY TERRACOTTA & UTILITY ARTICLES.pdf
+Generated: 2025-08-18T03:45:11.992691
+Status: failed
+Model: gpt-4o

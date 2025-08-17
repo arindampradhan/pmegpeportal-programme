@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0058_ApricotOilProcessingUnit.pdf
+Generated: 2025-08-18T00:46:39.840763
+Status: success
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0103_BUBBLE PACKING PAPER.pdf
+Generated: 2025-08-18T02:29:28.759313
+Status: success
+Model: gpt-4o

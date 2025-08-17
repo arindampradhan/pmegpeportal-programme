@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0767_PetroleumJelly.pdf
+Generated: 2025-08-18T04:02:59.393364
+Status: failed
+Model: gpt-4o

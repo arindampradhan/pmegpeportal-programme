@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0197_PROJECT PROFILE ON CHILDREN SHOE.pdf
+Generated: 2025-08-18T03:37:15.129515
+Status: failed
+Model: gpt-4o

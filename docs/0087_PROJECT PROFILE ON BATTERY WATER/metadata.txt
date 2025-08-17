@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0087_PROJECT PROFILE ON BATTERY WATER.pdf
+Generated: 2025-08-18T01:57:48.323182
+Status: success
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0308_PROJECT PROFILE ON DRAWING BOARDS.pdf
+Generated: 2025-08-18T03:42:32.442981
+Status: failed
+Model: gpt-4o

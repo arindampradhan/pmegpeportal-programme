@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0531_LeatherJacketsDPR.pdf
+Generated: 2025-08-18T03:53:11.236680
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1011_chickpeas.pdf
+Generated: 2025-08-18T04:14:37.555451
+Status: failed
+Model: gpt-4o

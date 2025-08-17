@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0853_SchoolBag.pdf
+Generated: 2025-08-18T04:07:09.497215
+Status: failed
+Model: gpt-4o

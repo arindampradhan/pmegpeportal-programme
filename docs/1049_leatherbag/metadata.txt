@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1049_leatherbag.pdf
+Generated: 2025-08-18T04:16:34.780153
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0511_LEDLampassemblyunit.pdf
+Generated: 2025-08-18T03:52:14.030711
+Status: failed
+Model: gpt-4o

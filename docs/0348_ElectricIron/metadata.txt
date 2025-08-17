@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0348_ElectricIron.pdf
+Generated: 2025-08-18T03:44:29.683328
+Status: failed
+Model: gpt-4o

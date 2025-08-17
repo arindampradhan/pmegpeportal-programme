@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0283_CookiesProject.pdf
+Generated: 2025-08-18T03:41:27.816582
+Status: failed
+Model: gpt-4o

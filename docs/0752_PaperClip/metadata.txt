@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0752_PaperClip.pdf
+Generated: 2025-08-18T04:02:11.137613
+Status: failed
+Model: gpt-4o

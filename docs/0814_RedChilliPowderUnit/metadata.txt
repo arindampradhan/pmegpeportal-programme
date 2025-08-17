@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0814_RedChilliPowderUnit.pdf
+Generated: 2025-08-18T04:05:18.786740
+Status: failed
+Model: gpt-4o

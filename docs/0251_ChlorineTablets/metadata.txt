@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0251_ChlorineTablets.pdf
+Generated: 2025-08-18T03:39:51.381584
+Status: failed
+Model: gpt-4o

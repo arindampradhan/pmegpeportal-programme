@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0285_CopperBottles&Jugs.pdf
+Generated: 2025-08-18T03:41:34.630935
+Status: failed
+Model: gpt-4o

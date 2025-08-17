@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0129_BananaSilkFabric.pdf
+Generated: 2025-08-18T03:16:37.524562
+Status: failed
+Model: gpt-4o

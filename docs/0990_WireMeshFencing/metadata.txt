@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0990_WireMeshFencing.pdf
+Generated: 2025-08-18T04:13:34.143061
+Status: failed
+Model: gpt-4o

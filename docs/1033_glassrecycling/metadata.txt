@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1033_glassrecycling.pdf
+Generated: 2025-08-18T04:15:44.851390
+Status: failed
+Model: gpt-4o

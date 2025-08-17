@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0415_GraphiteCrucibles.pdf
+Generated: 2025-08-18T03:47:41.292577
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0987_WheelRimDPR.pdf
+Generated: 2025-08-18T04:13:25.182169
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0517_LLDPEAgriculturalMulch.pdf
+Generated: 2025-08-18T03:52:30.588015
+Status: failed
+Model: gpt-4o

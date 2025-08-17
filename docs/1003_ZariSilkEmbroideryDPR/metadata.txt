@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1003_ZariSilkEmbroideryDPR.pdf
+Generated: 2025-08-18T04:14:14.128358
+Status: failed
+Model: gpt-4o

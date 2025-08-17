@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0588_Mayonnaise.pdf
+Generated: 2025-08-18T03:55:51.918271
+Status: failed
+Model: gpt-4o

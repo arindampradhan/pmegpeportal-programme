@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0077_AutomotiveAirFilter.pdf
+Generated: 2025-08-18T01:32:40.611341
+Status: success
+Model: gpt-4o

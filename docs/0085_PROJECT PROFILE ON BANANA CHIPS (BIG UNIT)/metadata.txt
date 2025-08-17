@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0085_PROJECT PROFILE ON BANANA CHIPS (BIG UNIT).pdf
+Generated: 2025-08-18T01:53:13.249414
+Status: success
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0493_PROJECT PROFILE ON LAMINATED SAFETY GLASS.pdf
+Generated: 2025-08-18T03:51:26.525593
+Status: failed
+Model: gpt-4o

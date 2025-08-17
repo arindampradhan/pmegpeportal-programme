@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0137_BayLeafEssentialOil.pdf
+Generated: 2025-08-18T03:20:38.739371
+Status: failed
+Model: gpt-4o

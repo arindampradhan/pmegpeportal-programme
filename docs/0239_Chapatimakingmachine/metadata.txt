@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0239_Chapatimakingmachine.pdf
+Generated: 2025-08-18T03:39:18.339154
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0057_AntistaticConningOil.pdf
+Generated: 2025-08-18T00:44:37.394142
+Status: success
+Model: gpt-4o

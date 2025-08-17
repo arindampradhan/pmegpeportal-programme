@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0220_Cardustcleaner.pdf
+Generated: 2025-08-18T03:38:17.061133
+Status: failed
+Model: gpt-4o

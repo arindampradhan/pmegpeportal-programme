@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0972_PROJECT PROFILE ON WOODEN CRAFTS.pdf
+Generated: 2025-08-18T04:12:46.112049
+Status: failed
+Model: gpt-4o

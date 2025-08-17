@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0119_BambooShootPickleUnit.pdf
+Generated: 2025-08-18T02:58:36.008704
+Status: success
+Model: gpt-4o

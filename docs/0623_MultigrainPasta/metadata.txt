@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0623_MultigrainPasta.pdf
+Generated: 2025-08-18T03:57:36.131018
+Status: failed
+Model: gpt-4o

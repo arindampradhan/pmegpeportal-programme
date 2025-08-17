@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0288_CorianderPowderfinal.pdf
+Generated: 2025-08-18T03:41:43.432507
+Status: failed
+Model: gpt-4o

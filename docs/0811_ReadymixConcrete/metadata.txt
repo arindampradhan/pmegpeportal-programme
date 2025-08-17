@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0811_ReadymixConcrete.pdf
+Generated: 2025-08-18T04:05:09.735116
+Status: failed
+Model: gpt-4o

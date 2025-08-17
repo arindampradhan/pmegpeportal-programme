@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0152_Biogas.pdf
+Generated: 2025-08-18T03:35:10.468116
+Status: success
+Model: gpt-4o

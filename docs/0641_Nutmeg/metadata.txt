@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0641_Nutmeg.pdf
+Generated: 2025-08-18T03:58:28.917979
+Status: failed
+Model: gpt-4o

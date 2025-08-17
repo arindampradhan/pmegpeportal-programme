@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0131_BandageMaking.pdf
+Generated: 2025-08-18T03:16:43.721067
+Status: failed
+Model: gpt-4o

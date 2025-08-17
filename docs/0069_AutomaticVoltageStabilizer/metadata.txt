@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0069_AutomaticVoltageStabilizer.pdf
+Generated: 2025-08-18T01:12:45.882166
+Status: success
+Model: gpt-4o

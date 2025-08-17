@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0298_CuminCleaning&ProcessingUnit.pdf
+Generated: 2025-08-18T03:42:04.677556
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0412_GlassBowlDPR.pdf
+Generated: 2025-08-18T03:47:32.294679
+Status: failed
+Model: gpt-4o

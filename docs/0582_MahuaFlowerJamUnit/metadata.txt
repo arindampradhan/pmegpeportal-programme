@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0582_MahuaFlowerJamUnit.pdf
+Generated: 2025-08-18T03:55:33.322571
+Status: failed
+Model: gpt-4o

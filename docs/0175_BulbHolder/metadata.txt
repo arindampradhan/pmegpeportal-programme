@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0175_BulbHolder.pdf
+Generated: 2025-08-18T03:36:18.609654
+Status: failed
+Model: gpt-4o

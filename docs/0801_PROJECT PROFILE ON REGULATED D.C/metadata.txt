@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0801_PROJECT PROFILE ON REGULATED D.C.pdf
+Generated: 2025-08-18T04:04:41.504235
+Status: failed
+Model: gpt-4o

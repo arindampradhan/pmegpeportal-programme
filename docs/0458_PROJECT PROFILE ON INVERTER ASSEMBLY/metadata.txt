@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0458_PROJECT PROFILE ON INVERTER ASSEMBLY.pdf
+Generated: 2025-08-18T03:49:53.631340
+Status: failed
+Model: gpt-4o

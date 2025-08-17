@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0535_LeatherwaistBelts.pdf
+Generated: 2025-08-18T03:53:23.457935
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0343_EVChargingStation.pdf
+Generated: 2025-08-18T03:44:14.956972
+Status: failed
+Model: gpt-4o

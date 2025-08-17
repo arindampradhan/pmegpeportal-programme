@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0096_PROJECT PROFILE ON BIO- DIGESTED SLURRY.pdf
+Generated: 2025-08-18T02:17:30.524764
+Status: success
+Model: gpt-4o

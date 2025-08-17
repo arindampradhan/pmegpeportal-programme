@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1048_LaminateWoodFlooring.pdf
+Generated: 2025-08-18T04:16:31.653060
+Status: failed
+Model: gpt-4o

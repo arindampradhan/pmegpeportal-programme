@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0962_PROJECT PROFILE ON WAFER BISCUITS BIG TYPE.pdf
+Generated: 2025-08-18T04:12:20.842252
+Status: failed
+Model: gpt-4o

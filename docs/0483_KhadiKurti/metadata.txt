@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0483_KhadiKurti.pdf
+Generated: 2025-08-18T03:51:03.291573
+Status: failed
+Model: gpt-4o

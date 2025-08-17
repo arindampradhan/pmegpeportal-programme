@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0605_MobileChargerFinal.pdf
+Generated: 2025-08-18T03:56:41.190166
+Status: failed
+Model: gpt-4o

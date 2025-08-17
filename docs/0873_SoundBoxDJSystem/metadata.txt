@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0873_SoundBoxDJSystem.pdf
+Generated: 2025-08-18T04:08:10.282748
+Status: failed
+Model: gpt-4o

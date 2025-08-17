@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0462_Interlockingbricks.pdf
+Generated: 2025-08-18T03:50:05.845945
+Status: failed
+Model: gpt-4o

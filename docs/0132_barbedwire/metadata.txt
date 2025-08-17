@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0132_barbedwire.pdf
+Generated: 2025-08-18T03:18:29.971648
+Status: success
+Model: gpt-4o

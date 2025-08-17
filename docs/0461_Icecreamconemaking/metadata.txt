@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0461_Icecreamconemaking.pdf
+Generated: 2025-08-18T03:50:02.861582
+Status: failed
+Model: gpt-4o

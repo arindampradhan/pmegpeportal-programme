@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0728_Compostable Bag.pdf
+Generated: 2025-08-18T04:01:14.442023
+Status: failed
+Model: gpt-4o

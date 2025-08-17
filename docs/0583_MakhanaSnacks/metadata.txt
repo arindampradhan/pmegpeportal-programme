@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0583_MakhanaSnacks.pdf
+Generated: 2025-08-18T03:55:36.415240
+Status: failed
+Model: gpt-4o

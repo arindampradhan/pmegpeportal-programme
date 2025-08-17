@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0317_DetergentPowder.pdf
+Generated: 2025-08-18T03:43:00.180957
+Status: failed
+Model: gpt-4o

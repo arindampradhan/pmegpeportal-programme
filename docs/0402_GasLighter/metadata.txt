@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0402_GasLighter.pdf
+Generated: 2025-08-18T03:47:05.222667
+Status: failed
+Model: gpt-4o

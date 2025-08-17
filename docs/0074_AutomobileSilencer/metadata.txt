@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0074_AutomobileSilencer.pdf
+Generated: 2025-08-18T01:24:47.751705
+Status: success
+Model: gpt-4o

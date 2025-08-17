@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0372_FabricationofGrills.pdf
+Generated: 2025-08-18T03:45:35.613428
+Status: failed
+Model: gpt-4o

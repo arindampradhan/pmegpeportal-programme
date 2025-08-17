@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1028_floorwiper.pdf
+Generated: 2025-08-18T04:15:29.283525
+Status: failed
+Model: gpt-4o

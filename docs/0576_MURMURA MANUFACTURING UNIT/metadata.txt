@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0576_MURMURA MANUFACTURING UNIT.pdf
+Generated: 2025-08-18T03:55:14.472603
+Status: failed
+Model: gpt-4o

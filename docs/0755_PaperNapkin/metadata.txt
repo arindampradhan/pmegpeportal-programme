@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0755_PaperNapkin.pdf
+Generated: 2025-08-18T04:02:20.328907
+Status: failed
+Model: gpt-4o

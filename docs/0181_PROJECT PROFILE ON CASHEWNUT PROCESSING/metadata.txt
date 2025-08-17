@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0181_PROJECT PROFILE ON CASHEWNUT PROCESSING.pdf
+Generated: 2025-08-18T03:36:33.999642
+Status: failed
+Model: gpt-4o

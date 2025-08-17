@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0584_MangoPulp.pdf
+Generated: 2025-08-18T03:55:39.529677
+Status: failed
+Model: gpt-4o

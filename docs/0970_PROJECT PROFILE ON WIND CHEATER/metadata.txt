@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0970_PROJECT PROFILE ON WIND CHEATER.pdf
+Generated: 2025-08-18T04:12:41.048901
+Status: failed
+Model: gpt-4o

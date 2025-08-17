@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0748_PalmOilDPR.pdf
+Generated: 2025-08-18T04:01:58.904513
+Status: failed
+Model: gpt-4o

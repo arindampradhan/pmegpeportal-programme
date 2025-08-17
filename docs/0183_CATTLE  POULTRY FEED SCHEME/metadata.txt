@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0183_CATTLE  POULTRY FEED SCHEME.pdf
+Generated: 2025-08-18T03:36:39.304354
+Status: failed
+Model: gpt-4o

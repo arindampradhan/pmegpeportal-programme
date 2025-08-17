@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0243_ChickenNuggets.pdf
+Generated: 2025-08-18T03:39:30.373949
+Status: failed
+Model: gpt-4o

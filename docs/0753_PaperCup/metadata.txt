@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0753_PaperCup.pdf
+Generated: 2025-08-18T04:02:14.052818
+Status: failed
+Model: gpt-4o

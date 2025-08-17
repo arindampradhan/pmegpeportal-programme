@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0797_PROJECT PROFILE ON R.C.C.pdf
+Generated: 2025-08-18T04:04:30.737771
+Status: failed
+Model: gpt-4o

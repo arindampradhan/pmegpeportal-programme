@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0981_WashingMachineDPR.pdf
+Generated: 2025-08-18T04:13:09.597792
+Status: failed
+Model: gpt-4o

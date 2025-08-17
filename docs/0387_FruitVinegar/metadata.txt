@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0387_FruitVinegar.pdf
+Generated: 2025-08-18T03:46:21.938413
+Status: failed
+Model: gpt-4o

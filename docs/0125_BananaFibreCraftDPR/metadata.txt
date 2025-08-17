@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0125_BananaFibreCraftDPR.pdf
+Generated: 2025-08-18T03:14:12.931403
+Status: success
+Model: gpt-4o

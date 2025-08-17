@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0682_PRODUCTION OF BAMBOO MAT BOARD UNIT.pdf
+Generated: 2025-08-18T04:00:22.752747
+Status: failed
+Model: gpt-4o

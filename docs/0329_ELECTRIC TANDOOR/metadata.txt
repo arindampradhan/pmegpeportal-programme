@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0329_ELECTRIC TANDOOR.pdf
+Generated: 2025-08-18T03:43:37.141165
+Status: failed
+Model: gpt-4o

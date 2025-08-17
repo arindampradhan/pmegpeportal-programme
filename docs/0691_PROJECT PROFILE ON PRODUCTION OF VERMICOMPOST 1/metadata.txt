@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0691_PROJECT PROFILE ON PRODUCTION OF VERMICOMPOST 1.pdf
+Generated: 2025-08-18T04:00:45.603360
+Status: failed
+Model: gpt-4o

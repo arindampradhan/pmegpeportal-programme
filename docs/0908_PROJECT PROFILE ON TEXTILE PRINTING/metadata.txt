@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0908_PROJECT PROFILE ON TEXTILE PRINTING.pdf
+Generated: 2025-08-18T04:09:48.780689
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0995_WoodRecycling.pdf
+Generated: 2025-08-18T04:13:48.876153
+Status: failed
+Model: gpt-4o

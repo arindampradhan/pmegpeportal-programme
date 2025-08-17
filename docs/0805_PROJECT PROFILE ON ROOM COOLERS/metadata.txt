@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0805_PROJECT PROFILE ON ROOM COOLERS.pdf
+Generated: 2025-08-18T04:04:51.663823
+Status: failed
+Model: gpt-4o

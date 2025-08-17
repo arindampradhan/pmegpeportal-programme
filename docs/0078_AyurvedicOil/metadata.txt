@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0078_AyurvedicOil.pdf
+Generated: 2025-08-18T01:35:10.761594
+Status: success
+Model: gpt-4o

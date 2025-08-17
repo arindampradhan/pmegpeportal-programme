@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0485_KhakhraSemiautomatic.pdf
+Generated: 2025-08-18T03:51:09.320270
+Status: failed
+Model: gpt-4o

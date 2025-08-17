@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0935_TomatoPuree.pdf
+Generated: 2025-08-18T04:11:06.823264
+Status: failed
+Model: gpt-4o

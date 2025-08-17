@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0702_areca leaf_cutlery.pdf
+Generated: 2025-08-18T04:00:58.605049
+Status: failed
+Model: gpt-4o

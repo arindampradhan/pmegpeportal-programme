@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0820_RoseCultivation.pdf
+Generated: 2025-08-18T04:05:36.646393
+Status: failed
+Model: gpt-4o

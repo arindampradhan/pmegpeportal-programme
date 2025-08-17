@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1056_solderingwire.pdf
+Generated: 2025-08-18T04:16:56.526079
+Status: failed
+Model: gpt-4o

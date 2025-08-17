@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0188_PROJECT PROFILE ON CERAMIC CANDLES (FOR WATER FILTER).pdf
+Generated: 2025-08-18T03:36:52.296249
+Status: failed
+Model: gpt-4o

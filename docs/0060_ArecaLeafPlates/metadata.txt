@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0060_ArecaLeafPlates.pdf
+Generated: 2025-08-18T00:51:27.377232
+Status: success
+Model: gpt-4o

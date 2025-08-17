@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0760_Peanutbutterfinal.pdf
+Generated: 2025-08-18T04:02:36.835928
+Status: failed
+Model: gpt-4o

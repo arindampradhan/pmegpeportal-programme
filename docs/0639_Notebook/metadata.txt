@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0639_Notebook.pdf
+Generated: 2025-08-18T03:58:23.039990
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0806_PROJECT PROFILE ON RUBBER STAMPS.pdf
+Generated: 2025-08-18T04:04:54.162255
+Status: failed
+Model: gpt-4o

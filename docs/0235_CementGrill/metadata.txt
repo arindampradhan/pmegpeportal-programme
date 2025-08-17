@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0235_CementGrill.pdf
+Generated: 2025-08-18T03:39:05.182661
+Status: failed
+Model: gpt-4o

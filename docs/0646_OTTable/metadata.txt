@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0646_OTTable.pdf
+Generated: 2025-08-18T03:58:42.497439
+Status: failed
+Model: gpt-4o

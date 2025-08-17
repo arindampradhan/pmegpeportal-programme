@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0498_PROJECT PROFILE ON LEATHER APRONS.pdf
+Generated: 2025-08-18T03:51:39.295951
+Status: failed
+Model: gpt-4o

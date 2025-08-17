@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0347_ElectricDoorChimes.pdf
+Generated: 2025-08-18T03:44:26.685134
+Status: failed
+Model: gpt-4o

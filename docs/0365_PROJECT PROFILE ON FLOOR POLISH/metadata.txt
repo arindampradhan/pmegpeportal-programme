@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0365_PROJECT PROFILE ON FLOOR POLISH.pdf
+Generated: 2025-08-18T03:45:17.086357
+Status: failed
+Model: gpt-4o

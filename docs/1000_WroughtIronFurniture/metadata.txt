@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1000_WroughtIronFurniture.pdf
+Generated: 2025-08-18T04:14:04.443995
+Status: failed
+Model: gpt-4o

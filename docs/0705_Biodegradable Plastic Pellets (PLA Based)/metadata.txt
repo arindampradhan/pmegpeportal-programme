@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0705_Biodegradable Plastic Pellets (PLA Based).pdf
+Generated: 2025-08-18T04:01:05.655788
+Status: failed
+Model: gpt-4o

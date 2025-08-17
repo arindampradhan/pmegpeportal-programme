@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0166_BouffantCaps.pdf
+Generated: 2025-08-18T03:35:51.045965
+Status: failed
+Model: gpt-4o

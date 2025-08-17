@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0611_Moonjbaskets&Bags.pdf
+Generated: 2025-08-18T03:56:59.006987
+Status: failed
+Model: gpt-4o

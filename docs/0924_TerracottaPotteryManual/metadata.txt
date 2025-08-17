@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0924_TerracottaPotteryManual.pdf
+Generated: 2025-08-18T04:10:32.749064
+Status: failed
+Model: gpt-4o

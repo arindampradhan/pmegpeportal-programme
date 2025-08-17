@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0209_PROJECT PROFILE ON COTTON MATTRESSES & PILLOW.pdf
+Generated: 2025-08-18T03:37:45.292838
+Status: failed
+Model: gpt-4o

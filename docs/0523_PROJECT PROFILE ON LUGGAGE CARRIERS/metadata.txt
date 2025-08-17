@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0523_PROJECT PROFILE ON LUGGAGE CARRIERS.pdf
+Generated: 2025-08-18T03:52:46.921826
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0434_HONEY PROCESSING PLANT & HONEY HOUSE.pdf
+Generated: 2025-08-18T03:48:41.809207
+Status: failed
+Model: gpt-4o

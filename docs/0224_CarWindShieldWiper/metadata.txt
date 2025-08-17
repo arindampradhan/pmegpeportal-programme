@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0224_CarWindShieldWiper.pdf
+Generated: 2025-08-18T03:38:29.732507
+Status: failed
+Model: gpt-4o

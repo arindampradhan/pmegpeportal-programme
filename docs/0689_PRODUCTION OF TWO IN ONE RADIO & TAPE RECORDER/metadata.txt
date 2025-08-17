@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0689_PRODUCTION OF TWO IN ONE RADIO & TAPE RECORDER.pdf
+Generated: 2025-08-18T04:00:40.651298
+Status: failed
+Model: gpt-4o

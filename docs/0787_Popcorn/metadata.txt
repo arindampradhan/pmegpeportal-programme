@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0787_Popcorn.pdf
+Generated: 2025-08-18T04:03:59.986472
+Status: failed
+Model: gpt-4o

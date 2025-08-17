@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0681_PROJECT PROFILE ON PRE-FABRICATAD BUILDING MATERIALS.pdf
+Generated: 2025-08-18T04:00:20.134525
+Status: failed
+Model: gpt-4o

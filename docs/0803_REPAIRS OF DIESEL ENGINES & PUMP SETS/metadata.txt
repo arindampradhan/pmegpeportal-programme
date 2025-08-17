@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0803_REPAIRS OF DIESEL ENGINES & PUMP SETS.pdf
+Generated: 2025-08-18T04:04:46.547588
+Status: failed
+Model: gpt-4o

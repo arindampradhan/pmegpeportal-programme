@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0670_PLUMBING.pdf
+Generated: 2025-08-18T03:59:50.004523
+Status: failed
+Model: gpt-4o

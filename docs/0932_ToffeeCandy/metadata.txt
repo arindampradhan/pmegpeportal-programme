@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0932_ToffeeCandy.pdf
+Generated: 2025-08-18T04:10:56.984228
+Status: failed
+Model: gpt-4o

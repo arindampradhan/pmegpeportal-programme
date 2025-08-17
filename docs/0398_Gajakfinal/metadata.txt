@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0398_Gajakfinal.pdf
+Generated: 2025-08-18T03:46:53.151240
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0507_PROJECT PROFILE ON LEATHER WALLETS AND PURSES.pdf
+Generated: 2025-08-18T03:52:02.764209
+Status: failed
+Model: gpt-4o

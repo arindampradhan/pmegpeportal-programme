@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0358_ExtensionBoard.pdf
+Generated: 2025-08-18T03:44:59.470557
+Status: failed
+Model: gpt-4o

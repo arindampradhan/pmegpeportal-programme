@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0497_PROJECT PROFILE ON LEAD PENCILS.pdf
+Generated: 2025-08-18T03:51:36.941840
+Status: failed
+Model: gpt-4o

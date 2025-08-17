@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0839_PROJECT   PROFILE   ON   SOYA   MILK.pdf
+Generated: 2025-08-18T04:06:30.861865
+Status: failed
+Model: gpt-4o

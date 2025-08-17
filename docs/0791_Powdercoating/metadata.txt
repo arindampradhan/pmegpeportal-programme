@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0791_Powdercoating.pdf
+Generated: 2025-08-18T04:04:12.978217
+Status: failed
+Model: gpt-4o

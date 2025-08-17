@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0390_PROJECT PROFILE ON GEM CUTTING AND POLISHING.pdf
+Generated: 2025-08-18T03:46:30.143670
+Status: failed
+Model: gpt-4o

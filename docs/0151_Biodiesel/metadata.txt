@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0151_Biodiesel.pdf
+Generated: 2025-08-18T03:32:21.870042
+Status: failed
+Model: gpt-4o

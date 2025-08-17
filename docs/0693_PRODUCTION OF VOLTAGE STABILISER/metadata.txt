@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0693_PRODUCTION OF VOLTAGE STABILISER.pdf
+Generated: 2025-08-18T04:00:50.490728
+Status: failed
+Model: gpt-4o

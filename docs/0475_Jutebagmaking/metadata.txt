@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0475_Jutebagmaking.pdf
+Generated: 2025-08-18T03:50:47.414281
+Status: failed
+Model: gpt-4o

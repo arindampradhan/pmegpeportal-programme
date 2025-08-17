@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0267_CoirMattress.pdf
+Generated: 2025-08-18T03:40:38.867394
+Status: failed
+Model: gpt-4o

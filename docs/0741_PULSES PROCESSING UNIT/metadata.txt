@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0741_PULSES PROCESSING UNIT.pdf
+Generated: 2025-08-18T04:01:37.496041
+Status: failed
+Model: gpt-4o

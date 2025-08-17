@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0231_CastorOil.pdf
+Generated: 2025-08-18T03:38:52.098133
+Status: failed
+Model: gpt-4o

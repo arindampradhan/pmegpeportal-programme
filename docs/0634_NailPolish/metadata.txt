@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0634_NailPolish.pdf
+Generated: 2025-08-18T03:58:06.722824
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0651_PADDY PROCESSING UNIT.pdf
+Generated: 2025-08-18T03:58:57.525913
+Status: failed
+Model: gpt-4o

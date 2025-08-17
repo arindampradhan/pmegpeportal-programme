@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0157_BlackPepper.pdf
+Generated: 2025-08-18T03:35:25.562569
+Status: failed
+Model: gpt-4o

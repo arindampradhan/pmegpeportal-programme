@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0812_Readytoeatnoodles.pdf
+Generated: 2025-08-18T04:05:13.047383
+Status: failed
+Model: gpt-4o

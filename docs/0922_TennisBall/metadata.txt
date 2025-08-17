@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0922_TennisBall.pdf
+Generated: 2025-08-18T04:10:26.259478
+Status: failed
+Model: gpt-4o

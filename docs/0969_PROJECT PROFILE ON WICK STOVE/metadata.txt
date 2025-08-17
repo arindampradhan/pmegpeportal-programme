@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0969_PROJECT PROFILE ON WICK STOVE.pdf
+Generated: 2025-08-18T04:12:38.424536
+Status: failed
+Model: gpt-4o

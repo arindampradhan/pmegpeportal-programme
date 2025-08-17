@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0870_SofttoysMaking.pdf
+Generated: 2025-08-18T04:08:00.822907
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0233_CeilingFan.pdf
+Generated: 2025-08-18T03:38:58.997925
+Status: failed
+Model: gpt-4o

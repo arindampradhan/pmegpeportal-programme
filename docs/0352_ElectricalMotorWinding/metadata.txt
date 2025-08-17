@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0352_ElectricalMotorWinding.pdf
+Generated: 2025-08-18T03:44:41.974142
+Status: failed
+Model: gpt-4o

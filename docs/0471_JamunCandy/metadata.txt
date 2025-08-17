@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0471_JamunCandy.pdf
+Generated: 2025-08-18T03:50:34.344423
+Status: failed
+Model: gpt-4o

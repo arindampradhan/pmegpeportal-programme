@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0848_SafetyPin.pdf
+Generated: 2025-08-18T04:06:53.834517
+Status: failed
+Model: gpt-4o

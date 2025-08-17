@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0207_COMPUTERIZED ADVERTISEMENT DESIGN.pdf
+Generated: 2025-08-18T03:37:40.240360
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0144_BesanPlant.pdf
+Generated: 2025-08-18T03:20:53.300666
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0189_CERAMIC COLOURS SCHEME.pdf
+Generated: 2025-08-18T03:36:54.715508
+Status: failed
+Model: gpt-4o

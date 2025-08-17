@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0764_Perfume.pdf
+Generated: 2025-08-18T04:02:50.402231
+Status: failed
+Model: gpt-4o

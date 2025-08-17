@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1021_cuminpowderfinal.pdf
+Generated: 2025-08-18T04:15:07.854966
+Status: failed
+Model: gpt-4o

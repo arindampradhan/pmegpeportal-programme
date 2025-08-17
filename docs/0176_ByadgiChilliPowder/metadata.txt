@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0176_ByadgiChilliPowder.pdf
+Generated: 2025-08-18T03:36:21.552581
+Status: failed
+Model: gpt-4o

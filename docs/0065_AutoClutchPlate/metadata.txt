@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0065_AutoClutchPlate.pdf
+Generated: 2025-08-18T01:02:36.404175
+Status: success
+Model: gpt-4o

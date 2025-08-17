@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0393_PROJECT PROFILE ON GINGER AND GARLIC PROCESSING.pdf
+Generated: 2025-08-18T03:46:38.537496
+Status: failed
+Model: gpt-4o

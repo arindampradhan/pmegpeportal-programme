@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0509_PROJECT PROFILE ON LEATHR BRIEFCASE.pdf
+Generated: 2025-08-18T03:52:07.872966
+Status: failed
+Model: gpt-4o

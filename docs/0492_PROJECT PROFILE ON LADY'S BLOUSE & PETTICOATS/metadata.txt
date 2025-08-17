@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0492_PROJECT PROFILE ON LADY'S BLOUSE & PETTICOATS.pdf
+Generated: 2025-08-18T03:51:23.926999
+Status: failed
+Model: gpt-4o

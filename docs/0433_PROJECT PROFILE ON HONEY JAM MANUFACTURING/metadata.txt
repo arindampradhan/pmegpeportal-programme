@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0433_PROJECT PROFILE ON HONEY JAM MANUFACTURING.pdf
+Generated: 2025-08-18T03:48:39.303256
+Status: failed
+Model: gpt-4o

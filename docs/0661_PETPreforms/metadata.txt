@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0661_PETPreforms.pdf
+Generated: 2025-08-18T03:59:27.131531
+Status: failed
+Model: gpt-4o

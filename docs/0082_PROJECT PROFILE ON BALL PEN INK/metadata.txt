@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0082_PROJECT PROFILE ON BALL PEN INK.pdf
+Generated: 2025-08-18T01:45:52.822046
+Status: success
+Model: gpt-4o

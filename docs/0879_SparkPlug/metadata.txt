@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0879_SparkPlug.pdf
+Generated: 2025-08-18T04:08:28.227684
+Status: failed
+Model: gpt-4o

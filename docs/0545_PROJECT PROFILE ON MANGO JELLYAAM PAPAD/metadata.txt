@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0545_PROJECT PROFILE ON MANGO JELLYAAM PAPAD.pdf
+Generated: 2025-08-18T03:53:53.020056
+Status: failed
+Model: gpt-4o

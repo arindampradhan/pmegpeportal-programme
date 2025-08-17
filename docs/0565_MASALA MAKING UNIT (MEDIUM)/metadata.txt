@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0565_MASALA MAKING UNIT (MEDIUM).pdf
+Generated: 2025-08-18T03:54:45.466985
+Status: failed
+Model: gpt-4o

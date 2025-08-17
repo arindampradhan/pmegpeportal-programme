@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0687_PRODUCTION OF OXALIC ACID.pdf
+Generated: 2025-08-18T04:00:35.317865
+Status: failed
+Model: gpt-4o

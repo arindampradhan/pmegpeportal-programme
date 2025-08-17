@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0268_CoirMouldedTraymaking.pdf
+Generated: 2025-08-18T03:40:41.938848
+Status: failed
+Model: gpt-4o

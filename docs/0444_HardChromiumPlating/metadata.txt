@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0444_HardChromiumPlating.pdf
+Generated: 2025-08-18T03:49:09.376827
+Status: failed
+Model: gpt-4o

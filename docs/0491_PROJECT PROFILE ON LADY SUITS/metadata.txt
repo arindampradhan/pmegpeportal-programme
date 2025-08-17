@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0491_PROJECT PROFILE ON LADY SUITS.pdf
+Generated: 2025-08-18T03:51:21.260935
+Status: failed
+Model: gpt-4o

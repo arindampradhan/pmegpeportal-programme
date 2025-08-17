@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0349_ElectricKettle.pdf
+Generated: 2025-08-18T03:44:32.538125
+Status: failed
+Model: gpt-4o

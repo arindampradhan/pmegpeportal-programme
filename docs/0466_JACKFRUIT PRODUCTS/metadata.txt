@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0466_JACKFRUIT PRODUCTS.pdf
+Generated: 2025-08-18T03:50:18.938513
+Status: failed
+Model: gpt-4o

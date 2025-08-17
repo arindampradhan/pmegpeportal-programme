@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0134_BasilProcessing.pdf
+Generated: 2025-08-18T03:18:35.790932
+Status: failed
+Model: gpt-4o

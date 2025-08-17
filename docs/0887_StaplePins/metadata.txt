@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0887_StaplePins.pdf
+Generated: 2025-08-18T04:08:52.222396
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0431_PROJECT PROFILE ON HIGH DUTY IRON CASTINGS.pdf
+Generated: 2025-08-18T03:48:34.038010
+Status: failed
+Model: gpt-4o

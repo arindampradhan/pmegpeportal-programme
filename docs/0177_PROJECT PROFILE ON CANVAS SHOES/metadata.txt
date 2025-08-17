@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0177_PROJECT PROFILE ON CANVAS SHOES.pdf
+Generated: 2025-08-18T03:36:23.972240
+Status: failed
+Model: gpt-4o

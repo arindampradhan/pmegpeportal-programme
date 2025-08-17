@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0624_MushroomProcessing.pdf
+Generated: 2025-08-18T03:57:39.263031
+Status: failed
+Model: gpt-4o

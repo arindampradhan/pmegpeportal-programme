@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0867_SodiumHypochlorite.pdf
+Generated: 2025-08-18T04:07:51.749019
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0464_IsabgolDPR.pdf
+Generated: 2025-08-18T03:50:11.363667
+Status: failed
+Model: gpt-4o

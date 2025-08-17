@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0607_MobilePhoneStand.pdf
+Generated: 2025-08-18T03:56:46.764083
+Status: failed
+Model: gpt-4o

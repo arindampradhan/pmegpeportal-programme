@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0133_BarbequeTandooriGrill.pdf
+Generated: 2025-08-18T03:18:33.093167
+Status: failed
+Model: gpt-4o

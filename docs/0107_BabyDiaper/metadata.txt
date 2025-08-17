@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0107_BabyDiaper.pdf
+Generated: 2025-08-18T02:37:44.930434
+Status: success
+Model: gpt-4o

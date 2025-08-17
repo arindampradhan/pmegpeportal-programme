@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1054_rPetBottleRecycling.pdf
+Generated: 2025-08-18T04:16:50.080897
+Status: failed
+Model: gpt-4o

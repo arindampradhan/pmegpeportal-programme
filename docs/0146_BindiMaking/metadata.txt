@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0146_BindiMaking.pdf
+Generated: 2025-08-18T03:25:12.292715
+Status: success
+Model: gpt-4o

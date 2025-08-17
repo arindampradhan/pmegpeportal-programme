@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0798_PROJECT PROFILE ON RCC SPUN PIPE.pdf
+Generated: 2025-08-18T04:04:33.151403
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0763_PeppermintOil.pdf
+Generated: 2025-08-18T04:02:46.818455
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0501_PROJECT PROFILE ON LEATHER JEWELLERY.pdf
+Generated: 2025-08-18T03:51:47.089558
+Status: failed
+Model: gpt-4o

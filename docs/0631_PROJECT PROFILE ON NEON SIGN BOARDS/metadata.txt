@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0631_PROJECT PROFILE ON NEON SIGN BOARDS.pdf
+Generated: 2025-08-18T03:57:57.787928
+Status: failed
+Model: gpt-4o

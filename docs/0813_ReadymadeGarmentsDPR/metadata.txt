@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0813_ReadymadeGarmentsDPR.pdf
+Generated: 2025-08-18T04:05:15.977291
+Status: failed
+Model: gpt-4o

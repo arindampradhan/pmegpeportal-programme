@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0546_MANUFACTURE OF AYURVEDIC ASAVA, ARISTA, KWATHA, SYRUP.pdf
+Generated: 2025-08-18T03:53:56.665082
+Status: failed
+Model: gpt-4o

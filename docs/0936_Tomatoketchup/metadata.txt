@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0936_Tomatoketchup.pdf
+Generated: 2025-08-18T04:11:10.469518
+Status: failed
+Model: gpt-4o

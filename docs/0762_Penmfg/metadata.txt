@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0762_Penmfg.pdf
+Generated: 2025-08-18T04:02:43.896695
+Status: failed
+Model: gpt-4o

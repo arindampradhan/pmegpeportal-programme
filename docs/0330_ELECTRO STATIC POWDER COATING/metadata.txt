@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0330_ELECTRO STATIC POWDER COATING.pdf
+Generated: 2025-08-18T03:43:39.772277
+Status: failed
+Model: gpt-4o

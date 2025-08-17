@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0173_BroomStick.pdf
+Generated: 2025-08-18T03:36:12.527792
+Status: failed
+Model: gpt-4o

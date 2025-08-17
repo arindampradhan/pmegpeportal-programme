@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0230_CassiaSeeds.pdf
+Generated: 2025-08-18T03:38:49.147739
+Status: failed
+Model: gpt-4o

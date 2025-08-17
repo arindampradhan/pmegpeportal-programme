@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0909_TEXTURISED SOYA PROTEIN.pdf
+Generated: 2025-08-18T04:09:51.725488
+Status: failed
+Model: gpt-4o

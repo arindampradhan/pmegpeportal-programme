@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0975_PROJECT PROFILE ON WOODEN TOYS AND DECORATIVE PIECES.pdf
+Generated: 2025-08-18T04:12:53.809299
+Status: failed
+Model: gpt-4o

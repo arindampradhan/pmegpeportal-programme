@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0965_PROJECT PROFILE ON WEB DESIGNING.pdf
+Generated: 2025-08-18T04:12:28.615844
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0384_FoodTruckBusiness.pdf
+Generated: 2025-08-18T03:46:13.196992
+Status: failed
+Model: gpt-4o

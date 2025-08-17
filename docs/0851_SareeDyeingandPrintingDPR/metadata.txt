@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0851_SareeDyeingandPrintingDPR.pdf
+Generated: 2025-08-18T04:07:03.196958
+Status: failed
+Model: gpt-4o

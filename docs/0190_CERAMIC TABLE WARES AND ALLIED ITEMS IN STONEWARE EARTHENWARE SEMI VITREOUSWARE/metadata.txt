@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0190_CERAMIC TABLE WARES AND ALLIED ITEMS IN STONEWARE EARTHENWARE SEMI VITREOUSWARE.pdf
+Generated: 2025-08-18T03:36:57.205147
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0439_HandicraftJwellery.pdf
+Generated: 2025-08-18T03:48:57.286400
+Status: failed
+Model: gpt-4o

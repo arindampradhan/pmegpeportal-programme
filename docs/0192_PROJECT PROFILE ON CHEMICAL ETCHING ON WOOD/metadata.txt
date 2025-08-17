@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0192_PROJECT PROFILE ON CHEMICAL ETCHING ON WOOD.pdf
+Generated: 2025-08-18T03:37:02.497965
+Status: failed
+Model: gpt-4o

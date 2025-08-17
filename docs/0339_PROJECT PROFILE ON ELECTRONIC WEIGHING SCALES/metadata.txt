@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0339_PROJECT PROFILE ON ELECTRONIC WEIGHING SCALES.pdf
+Generated: 2025-08-18T03:44:02.965645
+Status: failed
+Model: gpt-4o

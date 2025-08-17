@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0496_PROJECT PROFILE ON LAUNDRY SOAP.pdf
+Generated: 2025-08-18T03:51:34.343158
+Status: failed
+Model: gpt-4o

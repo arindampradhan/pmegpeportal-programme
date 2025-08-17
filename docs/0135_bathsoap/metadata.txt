@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0135_bathsoap.pdf
+Generated: 2025-08-18T03:18:39.239438
+Status: failed
+Model: gpt-4o

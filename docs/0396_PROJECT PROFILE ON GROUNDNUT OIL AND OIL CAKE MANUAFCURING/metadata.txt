@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0396_PROJECT PROFILE ON GROUNDNUT OIL AND OIL CAKE MANUAFCURING.pdf
+Generated: 2025-08-18T03:46:46.570460
+Status: failed
+Model: gpt-4o

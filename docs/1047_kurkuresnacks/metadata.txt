@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1047_kurkuresnacks.pdf
+Generated: 2025-08-18T04:16:28.741535
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0200_PROJECT PROFILE ON CLEANING POWDER.pdf
+Generated: 2025-08-18T03:37:22.843637
+Status: failed
+Model: gpt-4o

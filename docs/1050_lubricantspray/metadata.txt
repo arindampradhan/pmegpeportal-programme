@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1050_lubricantspray.pdf
+Generated: 2025-08-18T04:16:37.680698
+Status: failed
+Model: gpt-4o

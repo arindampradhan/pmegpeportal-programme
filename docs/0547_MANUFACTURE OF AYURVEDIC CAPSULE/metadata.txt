@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0547_MANUFACTURE OF AYURVEDIC CAPSULE.pdf
+Generated: 2025-08-18T03:53:59.410217
+Status: failed
+Model: gpt-4o

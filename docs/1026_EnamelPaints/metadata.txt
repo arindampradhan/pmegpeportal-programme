@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1026_EnamelPaints.pdf
+Generated: 2025-08-18T04:15:23.464598
+Status: failed
+Model: gpt-4o

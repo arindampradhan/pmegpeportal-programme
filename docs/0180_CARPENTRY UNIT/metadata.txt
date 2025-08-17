@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0180_CARPENTRY UNIT.pdf
+Generated: 2025-08-18T03:36:31.353501
+Status: failed
+Model: gpt-4o

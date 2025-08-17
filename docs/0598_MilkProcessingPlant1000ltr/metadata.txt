@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0598_MilkProcessingPlant1000ltr.pdf
+Generated: 2025-08-18T03:56:19.737032
+Status: failed
+Model: gpt-4o

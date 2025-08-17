@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0827_RubberRicePolisher.pdf
+Generated: 2025-08-18T04:05:58.545678
+Status: failed
+Model: gpt-4o

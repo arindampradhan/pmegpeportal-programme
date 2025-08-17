@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0906_PROJECT PROFILE ON TALCUM POWDER.pdf
+Generated: 2025-08-18T04:09:43.776887
+Status: failed
+Model: gpt-4o

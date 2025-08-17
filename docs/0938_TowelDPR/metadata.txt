@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0938_TowelDPR.pdf
+Generated: 2025-08-18T04:11:16.326839
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0609_Mograoil.pdf
+Generated: 2025-08-18T03:56:52.491996
+Status: failed
+Model: gpt-4o

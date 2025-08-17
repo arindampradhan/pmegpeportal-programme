@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0659_PROJECT PROFILE ON PERSONNELCOMPUTERS ASSEMBLY.pdf
+Generated: 2025-08-18T03:59:18.454696
+Status: failed
+Model: gpt-4o

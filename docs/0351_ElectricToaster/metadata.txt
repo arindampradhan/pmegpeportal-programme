@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0351_ElectricToaster.pdf
+Generated: 2025-08-18T03:44:38.700776
+Status: failed
+Model: gpt-4o

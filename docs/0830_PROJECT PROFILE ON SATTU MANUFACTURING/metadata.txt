@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0830_PROJECT PROFILE ON SATTU MANUFACTURING.pdf
+Generated: 2025-08-18T04:06:06.657618
+Status: failed
+Model: gpt-4o

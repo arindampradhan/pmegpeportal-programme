@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0127_BananaPowder.pdf
+Generated: 2025-08-18T03:16:31.671730
+Status: failed
+Model: gpt-4o

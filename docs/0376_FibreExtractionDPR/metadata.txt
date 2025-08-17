@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0376_FibreExtractionDPR.pdf
+Generated: 2025-08-18T03:45:47.513101
+Status: failed
+Model: gpt-4o

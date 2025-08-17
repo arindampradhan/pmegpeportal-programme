@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0059_ArecaLeafCutlery.pdf
+Generated: 2025-08-18T00:48:57.623086
+Status: success
+Model: gpt-4o

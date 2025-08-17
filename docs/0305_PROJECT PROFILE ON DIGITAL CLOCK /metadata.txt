@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0305_PROJECT PROFILE ON DIGITAL CLOCK .pdf
+Generated: 2025-08-18T03:42:24.705812
+Status: failed
+Model: gpt-4o

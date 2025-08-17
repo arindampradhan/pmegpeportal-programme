@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1008_CeramicSanitarywareWashBasin.pdf
+Generated: 2025-08-18T04:14:28.429396
+Status: failed
+Model: gpt-4o

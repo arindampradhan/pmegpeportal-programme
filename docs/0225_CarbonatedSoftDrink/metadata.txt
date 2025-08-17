@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0225_CarbonatedSoftDrink.pdf
+Generated: 2025-08-18T03:38:32.890605
+Status: failed
+Model: gpt-4o

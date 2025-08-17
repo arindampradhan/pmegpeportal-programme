@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0890_StoneHandicraftFinal.pdf
+Generated: 2025-08-18T04:09:01.475074
+Status: failed
+Model: gpt-4o

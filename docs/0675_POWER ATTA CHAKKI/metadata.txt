@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0675_POWER ATTA CHAKKI.pdf
+Generated: 2025-08-18T04:00:02.605069
+Status: failed
+Model: gpt-4o

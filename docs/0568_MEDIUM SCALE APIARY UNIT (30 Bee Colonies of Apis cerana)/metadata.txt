@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0568_MEDIUM SCALE APIARY UNIT (30 Bee Colonies of Apis cerana).pdf
+Generated: 2025-08-18T03:54:52.768881
+Status: failed
+Model: gpt-4o

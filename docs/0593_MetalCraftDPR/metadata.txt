@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0593_MetalCraftDPR.pdf
+Generated: 2025-08-18T03:56:07.072697
+Status: failed
+Model: gpt-4o

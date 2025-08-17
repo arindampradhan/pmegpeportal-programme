@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0604_MobileAppdevelopment.pdf
+Generated: 2025-08-18T03:56:38.000242
+Status: failed
+Model: gpt-4o

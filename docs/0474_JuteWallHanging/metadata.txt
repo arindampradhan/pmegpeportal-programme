@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0474_JuteWallHanging.pdf
+Generated: 2025-08-18T03:50:44.152362
+Status: failed
+Model: gpt-4o

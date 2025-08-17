@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0322_DisposablePlatesDona.pdf
+Generated: 2025-08-18T03:43:16.300422
+Status: failed
+Model: gpt-4o

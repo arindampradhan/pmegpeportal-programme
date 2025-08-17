@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0172_BreadMaking.pdf
+Generated: 2025-08-18T03:36:09.441321
+Status: failed
+Model: gpt-4o

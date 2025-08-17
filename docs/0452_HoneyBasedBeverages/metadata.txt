@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0452_HoneyBasedBeverages.pdf
+Generated: 2025-08-18T03:49:36.099077
+Status: failed
+Model: gpt-4o

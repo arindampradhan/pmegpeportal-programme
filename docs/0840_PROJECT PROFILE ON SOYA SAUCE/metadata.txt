@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0840_PROJECT PROFILE ON SOYA SAUCE.pdf
+Generated: 2025-08-18T04:06:33.278950
+Status: failed
+Model: gpt-4o

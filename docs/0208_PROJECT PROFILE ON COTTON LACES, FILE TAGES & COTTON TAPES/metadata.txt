@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0208_PROJECT PROFILE ON COTTON LACES, FILE TAGES & COTTON TAPES.pdf
+Generated: 2025-08-18T03:37:42.903930
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0944_UPVCDoors.pdf
+Generated: 2025-08-18T04:11:31.871817
+Status: failed
+Model: gpt-4o

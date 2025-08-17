@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0654_PALM LEAF FANCY AND UTILITY ARTICLES MAKING UNIT.pdf
+Generated: 2025-08-18T03:59:05.268068
+Status: failed
+Model: gpt-4o

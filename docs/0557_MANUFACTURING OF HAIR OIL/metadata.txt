@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0557_MANUFACTURING OF HAIR OIL.pdf
+Generated: 2025-08-18T03:54:24.883190
+Status: failed
+Model: gpt-4o

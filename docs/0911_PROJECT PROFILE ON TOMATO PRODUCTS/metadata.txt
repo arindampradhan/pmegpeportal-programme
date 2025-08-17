@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0911_PROJECT PROFILE ON TOMATO PRODUCTS.pdf
+Generated: 2025-08-18T04:09:56.867102
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1034_gripewaterplant.pdf
+Generated: 2025-08-18T04:15:47.782100
+Status: failed
+Model: gpt-4o

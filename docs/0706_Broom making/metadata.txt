@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0706_Broom making.pdf
+Generated: 2025-08-18T04:01:07.996747
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0124_BananaCultivation.pdf
+Generated: 2025-08-18T03:11:35.978742
+Status: success
+Model: gpt-4o

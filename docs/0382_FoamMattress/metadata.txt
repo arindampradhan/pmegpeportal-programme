@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0382_FoamMattress.pdf
+Generated: 2025-08-18T03:46:06.975536
+Status: failed
+Model: gpt-4o

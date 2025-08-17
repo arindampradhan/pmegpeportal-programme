@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0120_BambooshootProducts.pdf
+Generated: 2025-08-18T03:00:59.108249
+Status: success
+Model: gpt-4o

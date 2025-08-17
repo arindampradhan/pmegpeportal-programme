@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0350_ElectricTandoor.pdf
+Generated: 2025-08-18T03:44:35.689195
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0963_PROJECT   PROFILE   ON  WATER   METER.pdf
+Generated: 2025-08-18T04:12:23.478213
+Status: failed
+Model: gpt-4o

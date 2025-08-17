@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0195_PROJECT PROFILE ON CHILDREN GARMENTS.pdf
+Generated: 2025-08-18T03:37:10.062765
+Status: failed
+Model: gpt-4o

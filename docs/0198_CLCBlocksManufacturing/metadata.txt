@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0198_CLCBlocksManufacturing.pdf
+Generated: 2025-08-18T03:37:17.923643
+Status: failed
+Model: gpt-4o

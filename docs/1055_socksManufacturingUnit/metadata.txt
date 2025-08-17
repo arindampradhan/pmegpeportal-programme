@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1055_socksManufacturingUnit.pdf
+Generated: 2025-08-18T04:16:53.589670
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0413_GlassBulbShellDPR.pdf
+Generated: 2025-08-18T03:47:35.101756
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0426_PROJECT PROFILE ON HAIR CONDITIONER.pdf
+Generated: 2025-08-18T03:48:11.351605
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0186_CEMENT JALLI , DOORS, WINDOWS AND ALLIED PRODUCTS.pdf
+Generated: 2025-08-18T03:36:47.255183
+Status: failed
+Model: gpt-4o

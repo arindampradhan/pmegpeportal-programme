@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0145_BesavSevBhujia.pdf
+Generated: 2025-08-18T03:23:04.185067
+Status: success
+Model: gpt-4o

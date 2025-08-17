@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0704_Biodegradable Plastic Bags (PLA Based).pdf
+Generated: 2025-08-18T04:01:02.054902
+Status: failed
+Model: gpt-4o

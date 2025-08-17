@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0850_SanitaryNapkin.pdf
+Generated: 2025-08-18T04:07:00.283179
+Status: failed
+Model: gpt-4o

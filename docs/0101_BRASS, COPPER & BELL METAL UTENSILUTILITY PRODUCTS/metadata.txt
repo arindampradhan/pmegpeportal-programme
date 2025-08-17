@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0101_BRASS, COPPER & BELL METAL UTENSILUTILITY PRODUCTS.pdf
+Generated: 2025-08-18T02:27:25.786019
+Status: success
+Model: gpt-4o

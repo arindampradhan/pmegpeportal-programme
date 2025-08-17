@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0603_MizoChilliPickle.pdf
+Generated: 2025-08-18T03:56:35.204568
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0779_PlasticJerryCans.pdf
+Generated: 2025-08-18T04:03:35.426790
+Status: failed
+Model: gpt-4o

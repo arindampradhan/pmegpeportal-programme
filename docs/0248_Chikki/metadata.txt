@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0248_Chikki.pdf
+Generated: 2025-08-18T03:39:41.666217
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0424_GypsumPlasterBoard.pdf
+Generated: 2025-08-18T03:48:06.253224
+Status: failed
+Model: gpt-4o

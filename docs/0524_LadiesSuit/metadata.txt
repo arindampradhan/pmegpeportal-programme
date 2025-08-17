@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0524_LadiesSuit.pdf
+Generated: 2025-08-18T03:52:49.756810
+Status: failed
+Model: gpt-4o

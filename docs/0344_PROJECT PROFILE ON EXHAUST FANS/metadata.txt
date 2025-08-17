@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0344_PROJECT PROFILE ON EXHAUST FANS.pdf
+Generated: 2025-08-18T03:44:17.557896
+Status: failed
+Model: gpt-4o

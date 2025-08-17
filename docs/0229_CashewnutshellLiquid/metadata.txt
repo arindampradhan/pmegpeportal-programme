@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0229_CashewnutshellLiquid.pdf
+Generated: 2025-08-18T03:38:46.193881
+Status: failed
+Model: gpt-4o

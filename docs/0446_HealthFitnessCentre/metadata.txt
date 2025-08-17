@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0446_HealthFitnessCentre.pdf
+Generated: 2025-08-18T03:49:17.508921
+Status: failed
+Model: gpt-4o

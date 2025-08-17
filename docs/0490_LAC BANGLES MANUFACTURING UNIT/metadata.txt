@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0490_LAC BANGLES MANUFACTURING UNIT.pdf
+Generated: 2025-08-18T03:51:18.681164
+Status: failed
+Model: gpt-4o

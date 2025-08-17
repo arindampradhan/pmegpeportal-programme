@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0765_PersonalWeighingMachine.pdf
+Generated: 2025-08-18T04:02:53.251117
+Status: failed
+Model: gpt-4o

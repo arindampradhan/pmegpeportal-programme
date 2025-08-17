@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0459_IVStand.pdf
+Generated: 2025-08-18T03:49:56.466891
+Status: failed
+Model: gpt-4o

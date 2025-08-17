@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0529_Leadacidbattery.pdf
+Generated: 2025-08-18T03:53:05.712620
+Status: failed
+Model: gpt-4o

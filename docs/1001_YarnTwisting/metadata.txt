@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1001_YarnTwisting.pdf
+Generated: 2025-08-18T04:14:07.652854
+Status: failed
+Model: gpt-4o

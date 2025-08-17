@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0164_BookBindingUnit.pdf
+Generated: 2025-08-18T03:35:44.736023
+Status: failed
+Model: gpt-4o

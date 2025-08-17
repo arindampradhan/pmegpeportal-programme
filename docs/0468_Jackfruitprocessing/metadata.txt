@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0468_Jackfruitprocessing.pdf
+Generated: 2025-08-18T03:50:24.694095
+Status: failed
+Model: gpt-4o

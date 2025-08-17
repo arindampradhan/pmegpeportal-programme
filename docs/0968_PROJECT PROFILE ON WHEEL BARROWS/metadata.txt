@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0968_PROJECT PROFILE ON WHEEL BARROWS.pdf
+Generated: 2025-08-18T04:12:35.934936
+Status: failed
+Model: gpt-4o

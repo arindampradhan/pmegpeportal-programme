@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0357_EvaporatedMilk.pdf
+Generated: 2025-08-18T03:44:56.773075
+Status: failed
+Model: gpt-4o

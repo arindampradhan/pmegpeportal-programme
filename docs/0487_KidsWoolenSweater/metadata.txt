@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0487_KidsWoolenSweater.pdf
+Generated: 2025-08-18T03:51:12.554253
+Status: failed
+Model: gpt-4o

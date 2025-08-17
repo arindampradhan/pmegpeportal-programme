@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0777_PlasticEggTray.pdf
+Generated: 2025-08-18T04:03:29.044375
+Status: failed
+Model: gpt-4o

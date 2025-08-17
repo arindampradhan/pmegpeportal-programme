@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0553_MANUFACTURE OF SAFETY PINS.pdf
+Generated: 2025-08-18T03:54:14.840993
+Status: failed
+Model: gpt-4o

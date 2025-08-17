@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0647_OffsetPrintingunit.pdf
+Generated: 2025-08-18T03:58:45.675891
+Status: failed
+Model: gpt-4o

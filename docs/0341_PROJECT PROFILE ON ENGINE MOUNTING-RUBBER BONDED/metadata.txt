@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0341_PROJECT PROFILE ON ENGINE MOUNTING-RUBBER BONDED.pdf
+Generated: 2025-08-18T03:44:07.943469
+Status: failed
+Model: gpt-4o

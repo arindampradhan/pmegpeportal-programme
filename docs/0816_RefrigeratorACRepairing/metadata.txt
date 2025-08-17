@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0816_RefrigeratorACRepairing.pdf
+Generated: 2025-08-18T04:05:24.480106
+Status: failed
+Model: gpt-4o

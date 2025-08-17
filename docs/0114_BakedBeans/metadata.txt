@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0114_BakedBeans.pdf
+Generated: 2025-08-18T02:49:37.770668
+Status: success
+Model: gpt-4o

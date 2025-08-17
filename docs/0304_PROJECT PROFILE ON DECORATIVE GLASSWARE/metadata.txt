@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0304_PROJECT PROFILE ON DECORATIVE GLASSWARE.pdf
+Generated: 2025-08-18T03:42:22.208238
+Status: failed
+Model: gpt-4o

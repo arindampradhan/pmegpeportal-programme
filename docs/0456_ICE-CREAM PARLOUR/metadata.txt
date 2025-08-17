@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0456_ICE-CREAM PARLOUR.pdf
+Generated: 2025-08-18T03:49:48.641275
+Status: failed
+Model: gpt-4o

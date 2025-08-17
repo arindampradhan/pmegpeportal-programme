@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0187_CERAMIC ART WARES SCHEME.pdf
+Generated: 2025-08-18T03:36:49.768433
+Status: failed
+Model: gpt-4o

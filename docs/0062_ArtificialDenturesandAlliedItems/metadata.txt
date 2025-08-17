@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0062_ArtificialDenturesandAlliedItems.pdf
+Generated: 2025-08-18T00:55:15.281325
+Status: success
+Model: gpt-4o

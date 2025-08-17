@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0432_HIRING OF AUDIO SYSTEM.pdf
+Generated: 2025-08-18T03:48:36.628877
+Status: failed
+Model: gpt-4o

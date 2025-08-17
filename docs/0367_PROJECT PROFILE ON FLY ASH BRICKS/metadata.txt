@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0367_PROJECT PROFILE ON FLY ASH BRICKS.pdf
+Generated: 2025-08-18T03:45:22.244422
+Status: failed
+Model: gpt-4o

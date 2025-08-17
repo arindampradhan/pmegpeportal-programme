@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0903_SweetDarkChocolate.pdf
+Generated: 2025-08-18T04:09:35.694431
+Status: failed
+Model: gpt-4o

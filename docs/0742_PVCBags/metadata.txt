@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0742_PVCBags.pdf
+Generated: 2025-08-18T04:01:40.617326
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0088_PROJECT PROFILE ON BATTING GLOVES.pdf
+Generated: 2025-08-18T01:59:45.722687
+Status: success
+Model: gpt-4o

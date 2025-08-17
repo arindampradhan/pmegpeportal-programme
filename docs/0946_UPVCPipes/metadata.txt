@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0946_UPVCPipes.pdf
+Generated: 2025-08-18T04:11:38.175147
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0673_POTATO CHIPSWAFER MANUFACTURING.pdf
+Generated: 2025-08-18T03:59:57.622990
+Status: failed
+Model: gpt-4o

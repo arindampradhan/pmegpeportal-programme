@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0998_WoodenToymaking.pdf
+Generated: 2025-08-18T04:13:58.250813
+Status: failed
+Model: gpt-4o

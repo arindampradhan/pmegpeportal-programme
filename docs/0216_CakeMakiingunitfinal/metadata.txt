@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0216_CakeMakiingunitfinal.pdf
+Generated: 2025-08-18T03:38:04.291128
+Status: failed
+Model: gpt-4o

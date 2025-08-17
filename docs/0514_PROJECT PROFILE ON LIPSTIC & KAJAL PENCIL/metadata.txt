@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0514_PROJECT PROFILE ON LIPSTIC & KAJAL PENCIL.pdf
+Generated: 2025-08-18T03:52:22.114621
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0642_PROJECT PROFILE ON OIL CRUSHER  EXPELLER.pdf
+Generated: 2025-08-18T03:58:31.564865
+Status: failed
+Model: gpt-4o

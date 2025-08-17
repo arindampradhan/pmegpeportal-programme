@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1042_imlisauce.pdf
+Generated: 2025-08-18T04:16:13.628681
+Status: failed
+Model: gpt-4o

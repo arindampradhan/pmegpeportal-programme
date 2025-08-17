@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0834_PROJECT PROFILE ON SNAP FASTENERS.pdf
+Generated: 2025-08-18T04:06:16.746798
+Status: failed
+Model: gpt-4o

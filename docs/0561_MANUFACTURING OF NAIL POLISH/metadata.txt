@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0561_MANUFACTURING OF NAIL POLISH.pdf
+Generated: 2025-08-18T03:54:35.221883
+Status: failed
+Model: gpt-4o

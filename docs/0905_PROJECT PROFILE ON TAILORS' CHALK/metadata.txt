@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0905_PROJECT PROFILE ON TAILORS' CHALK.pdf
+Generated: 2025-08-18T04:09:41.239425
+Status: failed
+Model: gpt-4o

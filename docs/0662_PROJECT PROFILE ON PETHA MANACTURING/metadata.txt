@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0662_PROJECT PROFILE ON PETHA MANACTURING.pdf
+Generated: 2025-08-18T03:59:29.731986
+Status: failed
+Model: gpt-4o

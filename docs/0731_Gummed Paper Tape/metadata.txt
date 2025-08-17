@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0731_Gummed Paper Tape.pdf
+Generated: 2025-08-18T04:01:21.323844
+Status: failed
+Model: gpt-4o

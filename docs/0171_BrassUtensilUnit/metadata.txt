@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0171_BrassUtensilUnit.pdf
+Generated: 2025-08-18T03:36:06.432875
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0837_PROJECT PROFILE ON SOLAR COOKER.pdf
+Generated: 2025-08-18T04:06:25.424257
+Status: failed
+Model: gpt-4o

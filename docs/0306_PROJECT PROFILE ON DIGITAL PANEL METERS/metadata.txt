@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0306_PROJECT PROFILE ON DIGITAL PANEL METERS.pdf
+Generated: 2025-08-18T03:42:27.171313
+Status: failed
+Model: gpt-4o

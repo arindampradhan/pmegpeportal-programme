@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0520_PROJECT PROFILE ON LPG COOKING RANGE.pdf
+Generated: 2025-08-18T03:52:38.291094
+Status: failed
+Model: gpt-4o

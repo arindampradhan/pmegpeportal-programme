@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0919_TankTruck.pdf
+Generated: 2025-08-18T04:10:16.453458
+Status: failed
+Model: gpt-4o

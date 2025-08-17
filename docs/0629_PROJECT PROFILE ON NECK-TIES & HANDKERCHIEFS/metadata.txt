@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0629_PROJECT PROFILE ON NECK-TIES & HANDKERCHIEFS.pdf
+Generated: 2025-08-18T03:57:52.529931
+Status: failed
+Model: gpt-4o

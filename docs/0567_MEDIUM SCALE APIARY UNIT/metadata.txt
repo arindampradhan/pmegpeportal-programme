@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0567_MEDIUM SCALE APIARY UNIT.pdf
+Generated: 2025-08-18T03:54:50.306241
+Status: failed
+Model: gpt-4o

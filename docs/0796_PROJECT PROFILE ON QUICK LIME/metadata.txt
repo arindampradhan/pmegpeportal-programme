@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0796_PROJECT PROFILE ON QUICK LIME.pdf
+Generated: 2025-08-18T04:04:28.302952
+Status: failed
+Model: gpt-4o

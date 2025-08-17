@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0292_CottonBags.pdf
+Generated: 2025-08-18T03:41:52.777998
+Status: failed
+Model: gpt-4o

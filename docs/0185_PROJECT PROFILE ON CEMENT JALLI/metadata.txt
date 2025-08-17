@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0185_PROJECT PROFILE ON CEMENT JALLI.pdf
+Generated: 2025-08-18T03:36:44.893280
+Status: failed
+Model: gpt-4o

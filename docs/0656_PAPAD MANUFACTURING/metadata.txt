@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0656_PAPAD MANUFACTURING.pdf
+Generated: 2025-08-18T03:59:10.571670
+Status: failed
+Model: gpt-4o

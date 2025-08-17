@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0201_PROJECT PROFILE ON COCONUT OIL AND OIL CAKE MANUAFCURING.pdf
+Generated: 2025-08-18T03:37:25.458466
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0949_Uniform.pdf
+Generated: 2025-08-18T04:11:46.802676
+Status: failed
+Model: gpt-4o

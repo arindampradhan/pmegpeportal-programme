@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0947_USBCord.pdf
+Generated: 2025-08-18T04:11:41.041659
+Status: failed
+Model: gpt-4o

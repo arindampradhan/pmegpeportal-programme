@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0454_HoneyPackagingUnit.pdf
+Generated: 2025-08-18T03:49:42.735845
+Status: failed
+Model: gpt-4o

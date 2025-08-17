@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0472_Jegging.pdf
+Generated: 2025-08-18T03:50:37.907742
+Status: failed
+Model: gpt-4o

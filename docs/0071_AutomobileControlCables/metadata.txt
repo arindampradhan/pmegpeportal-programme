@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0071_AutomobileControlCables.pdf
+Generated: 2025-08-18T01:17:47.590984
+Status: success
+Model: gpt-4o

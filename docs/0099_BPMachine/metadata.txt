@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0099_BPMachine.pdf
+Generated: 2025-08-18T02:23:32.498982
+Status: success
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0684_PROJECT PROFILE ON PRODUCTION OF ENRICHED BIODIGESTED 1.pdf
+Generated: 2025-08-18T04:00:27.773564
+Status: failed
+Model: gpt-4o

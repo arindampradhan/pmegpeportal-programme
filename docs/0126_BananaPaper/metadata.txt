@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0126_BananaPaper.pdf
+Generated: 2025-08-18T03:16:27.386326
+Status: success
+Model: gpt-4o

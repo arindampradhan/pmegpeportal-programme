@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0893_SugarCandy.pdf
+Generated: 2025-08-18T04:09:08.048316
+Status: failed
+Model: gpt-4o

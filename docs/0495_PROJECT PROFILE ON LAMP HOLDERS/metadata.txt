@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0495_PROJECT PROFILE ON LAMP HOLDERS.pdf
+Generated: 2025-08-18T03:51:31.568773
+Status: failed
+Model: gpt-4o

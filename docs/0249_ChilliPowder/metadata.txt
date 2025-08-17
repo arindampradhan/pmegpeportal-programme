@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0249_ChilliPowder.pdf
+Generated: 2025-08-18T03:39:45.691320
+Status: failed
+Model: gpt-4o

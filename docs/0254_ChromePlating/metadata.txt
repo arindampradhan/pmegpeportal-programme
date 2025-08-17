@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0254_ChromePlating.pdf
+Generated: 2025-08-18T03:39:59.956965
+Status: failed
+Model: gpt-4o

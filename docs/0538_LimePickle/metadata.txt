@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0538_LimePickle.pdf
+Generated: 2025-08-18T03:53:32.305482
+Status: failed
+Model: gpt-4o

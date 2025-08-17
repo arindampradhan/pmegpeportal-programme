@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0326_DryDistemper.pdf
+Generated: 2025-08-18T03:43:29.201692
+Status: failed
+Model: gpt-4o

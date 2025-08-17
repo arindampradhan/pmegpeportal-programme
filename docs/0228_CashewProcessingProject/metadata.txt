@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0228_CashewProcessingProject.pdf
+Generated: 2025-08-18T03:38:43.207870
+Status: failed
+Model: gpt-4o

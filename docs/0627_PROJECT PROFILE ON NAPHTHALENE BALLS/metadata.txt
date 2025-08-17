@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0627_PROJECT PROFILE ON NAPHTHALENE BALLS.pdf
+Generated: 2025-08-18T03:57:47.570509
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0072_AutomobileGear.pdf
+Generated: 2025-08-18T01:20:02.621918
+Status: success
+Model: gpt-4o

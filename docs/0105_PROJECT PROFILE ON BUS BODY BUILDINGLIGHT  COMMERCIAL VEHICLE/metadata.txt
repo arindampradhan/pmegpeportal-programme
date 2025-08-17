@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0105_PROJECT PROFILE ON BUS BODY BUILDINGLIGHT  COMMERCIAL VEHICLE.pdf
+Generated: 2025-08-18T02:33:32.246525
+Status: success
+Model: gpt-4o

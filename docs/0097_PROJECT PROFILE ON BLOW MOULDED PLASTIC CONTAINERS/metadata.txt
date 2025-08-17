@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0097_PROJECT PROFILE ON BLOW MOULDED PLASTIC CONTAINERS.pdf
+Generated: 2025-08-18T02:19:28.219137
+Status: success
+Model: gpt-4o

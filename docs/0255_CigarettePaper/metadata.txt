@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0255_CigarettePaper.pdf
+Generated: 2025-08-18T03:40:02.822550
+Status: failed
+Model: gpt-4o

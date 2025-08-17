@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0768_Phenyle.pdf
+Generated: 2025-08-18T04:03:02.565960
+Status: failed
+Model: gpt-4o

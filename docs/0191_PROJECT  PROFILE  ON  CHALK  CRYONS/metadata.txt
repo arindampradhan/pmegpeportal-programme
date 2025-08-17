@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0191_PROJECT  PROFILE  ON  CHALK  CRYONS.pdf
+Generated: 2025-08-18T03:36:59.915597
+Status: failed
+Model: gpt-4o

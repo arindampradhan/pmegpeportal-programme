@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0218_CannedMushroom.pdf
+Generated: 2025-08-18T03:38:10.486024
+Status: failed
+Model: gpt-4o

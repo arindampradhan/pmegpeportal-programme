@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0238_Chalkmaking.pdf
+Generated: 2025-08-18T03:39:14.809858
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0222_CarRadiator.pdf
+Generated: 2025-08-18T03:38:22.845629
+Status: failed
+Model: gpt-4o

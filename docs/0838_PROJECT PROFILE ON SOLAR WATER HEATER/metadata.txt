@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0838_PROJECT PROFILE ON SOLAR WATER HEATER.pdf
+Generated: 2025-08-18T04:06:28.235149
+Status: failed
+Model: gpt-4o

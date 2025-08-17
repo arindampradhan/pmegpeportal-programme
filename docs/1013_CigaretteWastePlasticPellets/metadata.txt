@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1013_CigaretteWastePlasticPellets.pdf
+Generated: 2025-08-18T04:14:43.479710
+Status: failed
+Model: gpt-4o

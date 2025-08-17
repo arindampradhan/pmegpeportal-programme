@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0453_HoneyBeeFarming.pdf
+Generated: 2025-08-18T03:49:39.291464
+Status: failed
+Model: gpt-4o

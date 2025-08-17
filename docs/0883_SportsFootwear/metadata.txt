@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0883_SportsFootwear.pdf
+Generated: 2025-08-18T04:08:39.909916
+Status: failed
+Model: gpt-4o

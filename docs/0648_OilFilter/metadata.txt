@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0648_OilFilter.pdf
+Generated: 2025-08-18T03:58:48.698005
+Status: failed
+Model: gpt-4o

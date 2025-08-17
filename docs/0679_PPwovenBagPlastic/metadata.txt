@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0679_PPwovenBagPlastic.pdf
+Generated: 2025-08-18T04:00:15.272998
+Status: failed
+Model: gpt-4o

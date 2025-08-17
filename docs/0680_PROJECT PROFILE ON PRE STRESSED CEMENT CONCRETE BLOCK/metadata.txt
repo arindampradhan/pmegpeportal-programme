@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0680_PROJECT PROFILE ON PRE STRESSED CEMENT CONCRETE BLOCK.pdf
+Generated: 2025-08-18T04:00:17.635414
+Status: failed
+Model: gpt-4o

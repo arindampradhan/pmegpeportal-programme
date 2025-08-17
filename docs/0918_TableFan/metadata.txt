@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0918_TableFan.pdf
+Generated: 2025-08-18T04:10:13.211574
+Status: failed
+Model: gpt-4o

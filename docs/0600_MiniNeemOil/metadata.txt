@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0600_MiniNeemOil.pdf
+Generated: 2025-08-18T03:56:26.435506
+Status: failed
+Model: gpt-4o

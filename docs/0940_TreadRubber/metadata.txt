@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0940_TreadRubber.pdf
+Generated: 2025-08-18T04:11:22.282537
+Status: failed
+Model: gpt-4o

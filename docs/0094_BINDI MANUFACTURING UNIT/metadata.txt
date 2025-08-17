@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0094_BINDI MANUFACTURING UNIT.pdf
+Generated: 2025-08-18T02:12:46.951982
+Status: success
+Model: gpt-4o

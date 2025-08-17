@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0559_MANUFACTURING OF MEHANDI.pdf
+Generated: 2025-08-18T03:54:30.076256
+Status: failed
+Model: gpt-4o

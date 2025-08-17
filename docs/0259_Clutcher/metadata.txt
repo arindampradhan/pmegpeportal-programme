@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0259_Clutcher.pdf
+Generated: 2025-08-18T03:40:14.786059
+Status: failed
+Model: gpt-4o

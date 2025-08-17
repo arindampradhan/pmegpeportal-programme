@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0470_JamJelly.pdf
+Generated: 2025-08-18T03:50:31.554071
+Status: failed
+Model: gpt-4o

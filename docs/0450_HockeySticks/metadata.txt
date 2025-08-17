@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0450_HockeySticks.pdf
+Generated: 2025-08-18T03:49:29.791219
+Status: failed
+Model: gpt-4o

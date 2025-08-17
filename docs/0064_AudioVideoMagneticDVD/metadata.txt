@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0064_AudioVideoMagneticDVD.pdf
+Generated: 2025-08-18T01:00:05.258916
+Status: success
+Model: gpt-4o

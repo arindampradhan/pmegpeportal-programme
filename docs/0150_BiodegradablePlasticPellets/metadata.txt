@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0150_BiodegradablePlasticPellets.pdf
+Generated: 2025-08-18T03:32:18.192188
+Status: success
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0241_CharcoalBodyWash.pdf
+Generated: 2025-08-18T03:39:24.490778
+Status: failed
+Model: gpt-4o

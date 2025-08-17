@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0449_HirdaOilProcessingUnit.pdf
+Generated: 2025-08-18T03:49:26.795800
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0644_PROJECT PROFILE ON OPHTHALMIC LENS GRINDING.pdf
+Generated: 2025-08-18T03:58:36.927002
+Status: failed
+Model: gpt-4o

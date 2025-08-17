@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0149_BiodegradablePlasticBags.pdf
+Generated: 2025-08-18T03:29:34.027641
+Status: success
+Model: gpt-4o

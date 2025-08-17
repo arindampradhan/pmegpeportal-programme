@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0354_EnergyFoods.pdf
+Generated: 2025-08-18T03:44:48.037931
+Status: failed
+Model: gpt-4o

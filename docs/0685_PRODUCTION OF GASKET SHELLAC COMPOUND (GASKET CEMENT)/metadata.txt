@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0685_PRODUCTION OF GASKET SHELLAC COMPOUND (GASKET CEMENT).pdf
+Generated: 2025-08-18T04:00:30.223534
+Status: failed
+Model: gpt-4o

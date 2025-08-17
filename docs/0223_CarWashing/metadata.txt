@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0223_CarWashing.pdf
+Generated: 2025-08-18T03:38:25.864199
+Status: failed
+Model: gpt-4o

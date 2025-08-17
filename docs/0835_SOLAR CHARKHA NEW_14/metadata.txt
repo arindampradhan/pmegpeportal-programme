@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0835_SOLAR CHARKHA NEW_14.pdf
+Generated: 2025-08-18T04:06:19.725130
+Status: failed
+Model: gpt-4o

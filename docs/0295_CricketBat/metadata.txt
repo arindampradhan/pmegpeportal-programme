@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0295_CricketBat.pdf
+Generated: 2025-08-18T03:42:01.635059
+Status: failed
+Model: gpt-4o

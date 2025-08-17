@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0080_BAKERY PRODUCTS BIG UNIT.pdf
+Generated: 2025-08-18T01:40:34.466818
+Status: success
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0510_LEDBulb.pdf
+Generated: 2025-08-18T03:52:11.180370
+Status: failed
+Model: gpt-4o

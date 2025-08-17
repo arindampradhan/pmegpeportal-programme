@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0564_MANUFACTURING SHELLAC INSULATING VARNISH(Air-Drying).pdf
+Generated: 2025-08-18T03:54:42.801093
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0118_BambooPellets.pdf
+Generated: 2025-08-18T02:56:29.529939
+Status: success
+Model: gpt-4o

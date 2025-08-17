@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0503_LEATHER SANDAL WITH P.U.pdf
+Generated: 2025-08-18T03:51:52.290598
+Status: failed
+Model: gpt-4o

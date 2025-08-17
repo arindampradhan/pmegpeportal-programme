@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0416_GreenChilliSauce.pdf
+Generated: 2025-08-18T03:47:44.287843
+Status: failed
+Model: gpt-4o

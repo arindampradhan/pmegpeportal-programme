@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0373_Facewash.pdf
+Generated: 2025-08-18T03:45:38.555317
+Status: failed
+Model: gpt-4o

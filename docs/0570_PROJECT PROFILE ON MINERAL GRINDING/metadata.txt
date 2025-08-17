@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0570_PROJECT PROFILE ON MINERAL GRINDING.pdf
+Generated: 2025-08-18T03:54:58.018576
+Status: failed
+Model: gpt-4o

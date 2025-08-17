@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0469_Jaggery.pdf
+Generated: 2025-08-18T03:50:27.976542
+Status: failed
+Model: gpt-4o

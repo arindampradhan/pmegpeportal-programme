@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0933_ToiletCleaner.pdf
+Generated: 2025-08-18T04:11:00.152635
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0974_PROJECT PROFILE ON WOODEN PATTERNS.pdf
+Generated: 2025-08-18T04:12:51.215746
+Status: failed
+Model: gpt-4o

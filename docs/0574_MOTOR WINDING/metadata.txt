@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0574_MOTOR WINDING.pdf
+Generated: 2025-08-18T03:55:08.493014
+Status: failed
+Model: gpt-4o

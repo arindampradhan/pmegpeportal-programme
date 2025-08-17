@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0294_CottonWicks.pdf
+Generated: 2025-08-18T03:41:58.871989
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0388_GALVENIZEDIRONROOFINGSHEETS.pdf
+Generated: 2025-08-18T03:46:25.078270
+Status: failed
+Model: gpt-4o

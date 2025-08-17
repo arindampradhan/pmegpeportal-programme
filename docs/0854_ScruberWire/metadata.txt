@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0854_ScruberWire.pdf
+Generated: 2025-08-18T04:07:12.515611
+Status: failed
+Model: gpt-4o

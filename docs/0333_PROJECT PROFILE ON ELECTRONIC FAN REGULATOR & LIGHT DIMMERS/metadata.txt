@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0333_PROJECT PROFILE ON ELECTRONIC FAN REGULATOR & LIGHT DIMMERS.pdf
+Generated: 2025-08-18T03:43:47.300235
+Status: failed
+Model: gpt-4o

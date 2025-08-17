@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0419_Groundnutoil.pdf
+Generated: 2025-08-18T03:47:50.251971
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0179_PROJECT PROFILE ON CARPENTARY WORKSHOP.pdf
+Generated: 2025-08-18T03:36:28.762017
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0374_FeatherShuttlecock.pdf
+Generated: 2025-08-18T03:45:41.409186
+Status: failed
+Model: gpt-4o

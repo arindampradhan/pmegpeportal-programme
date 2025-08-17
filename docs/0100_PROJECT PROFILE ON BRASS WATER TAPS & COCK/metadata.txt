@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0100_PROJECT PROFILE ON BRASS WATER TAPS & COCK.pdf
+Generated: 2025-08-18T02:25:24.079926
+Status: success
+Model: gpt-4o

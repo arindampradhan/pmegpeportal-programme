@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0465_Ittar.pdf
+Generated: 2025-08-18T03:50:14.843855
+Status: failed
+Model: gpt-4o

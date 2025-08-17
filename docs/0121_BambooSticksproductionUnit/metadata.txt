@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0121_BambooSticksproductionUnit.pdf
+Generated: 2025-08-18T03:03:38.465576
+Status: success
+Model: gpt-4o

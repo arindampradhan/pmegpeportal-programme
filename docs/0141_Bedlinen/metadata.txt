@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0141_Bedlinen.pdf
+Generated: 2025-08-18T03:20:47.919614
+Status: failed
+Model: gpt-4o

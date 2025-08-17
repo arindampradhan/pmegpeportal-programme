@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1043_insulator.pdf
+Generated: 2025-08-18T04:16:16.952881
+Status: failed
+Model: gpt-4o

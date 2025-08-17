@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0613_MosquitoNet.pdf
+Generated: 2025-08-18T03:57:05.157712
+Status: failed
+Model: gpt-4o

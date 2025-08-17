@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/1030_frozenyogurt.pdf
+Generated: 2025-08-18T04:15:35.491086
+Status: failed
+Model: gpt-4o

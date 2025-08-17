@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0364_PROJECT PROFILE ON FILTERS FOR AIR CONDITIONERS SERVICE.pdf
+Generated: 2025-08-18T03:45:14.590528
+Status: failed
+Model: gpt-4o

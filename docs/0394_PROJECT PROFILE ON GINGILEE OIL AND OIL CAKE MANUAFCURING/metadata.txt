@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0394_PROJECT PROFILE ON GINGILEE OIL AND OIL CAKE MANUAFCURING.pdf
+Generated: 2025-08-18T03:46:41.009929
+Status: failed
+Model: gpt-4o

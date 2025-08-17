@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0770_PillowMakingDPR.pdf
+Generated: 2025-08-18T04:03:08.210050
+Status: failed
+Model: gpt-4o

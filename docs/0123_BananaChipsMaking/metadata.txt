@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0123_BananaChipsMaking.pdf
+Generated: 2025-08-18T03:08:35.623641
+Status: success
+Model: gpt-4o

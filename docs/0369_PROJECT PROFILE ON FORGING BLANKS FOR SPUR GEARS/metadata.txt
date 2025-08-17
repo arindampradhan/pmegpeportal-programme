@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0369_PROJECT PROFILE ON FORGING BLANKS FOR SPUR GEARS.pdf
+Generated: 2025-08-18T03:45:27.732845
+Status: failed
+Model: gpt-4o

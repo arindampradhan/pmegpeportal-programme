@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0756_PaperStraw.pdf
+Generated: 2025-08-18T04:02:23.543153
+Status: failed
+Model: gpt-4o

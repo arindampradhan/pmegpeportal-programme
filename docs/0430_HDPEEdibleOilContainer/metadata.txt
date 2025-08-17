@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0430_HDPEEdibleOilContainer.pdf
+Generated: 2025-08-18T03:48:30.193945
+Status: failed
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0665_PICKLE MANUFACTURING SCHEME.pdf
+Generated: 2025-08-18T03:59:37.279551
+Status: failed
+Model: gpt-4o

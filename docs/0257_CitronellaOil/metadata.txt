@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0257_CitronellaOil.pdf
+Generated: 2025-08-18T03:40:08.959238
+Status: failed
+Model: gpt-4o

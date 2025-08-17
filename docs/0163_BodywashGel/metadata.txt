@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0163_BodywashGel.pdf
+Generated: 2025-08-18T03:35:41.640774
+Status: failed
+Model: gpt-4o

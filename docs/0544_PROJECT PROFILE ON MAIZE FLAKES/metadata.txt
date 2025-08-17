@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0544_PROJECT PROFILE ON MAIZE FLAKES.pdf
+Generated: 2025-08-18T03:53:50.399264
+Status: failed
+Model: gpt-4o

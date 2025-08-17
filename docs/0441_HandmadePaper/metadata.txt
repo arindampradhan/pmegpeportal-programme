@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0441_HandmadePaper.pdf
+Generated: 2025-08-18T03:49:00.333555
+Status: failed
+Model: gpt-4o
