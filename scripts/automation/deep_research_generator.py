@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Deep Research Generator with Mermaid Diagrams
+Enterprise-Grade Deep Research Generator with Mermaid Diagrams
 
 - Scans PDFs in scripts/data/source/pdfs/
 - Creates per-PDF folders under docs/<PDF_STEM>/
-- Generates Deep-Research.md for each PDF using OpenAI with intelligent Mermaid diagrams
+- Generates Deep-Research.md for each PDF using GPT-4o with enterprise-grade business analysis
 - Uses scripts/data/templates/unified_project_analysis_template.md as the response structure
 - Creates an assets/ directory with a placeholder diagrams.svg
 - Automatically generates appropriate Mermaid diagrams for each visualization placeholder:
@@ -16,15 +16,29 @@ Deep Research Generator with Mermaid Diagrams
   * Quadrant charts for SWOT analysis and risk assessment
   * Mind maps for project overview and strategic planning
 
+Advanced Business Analysis Features:
+- Comprehensive financial modeling and projections
+- Advanced market analysis with competitive intelligence
+- Technical feasibility with industry benchmarking
+- Risk assessment with mitigation strategies
+- Geographic analysis with regional performance metrics
+- Strategic recommendations for different stakeholders
+- Sensitivity analysis and scenario planning
+- Regulatory compliance assessment
+- Technology adoption trends analysis
+- Supply chain optimization opportunities
+
 Usage:
   python scripts/automation/deep_research_generator.py \
     --pdf-dir scripts/data/source/pdfs \
     --output-root docs \
     --template scripts/data/templates/unified_project_analysis_template.md \
-    --max-pages 30
+    --max-pages 30 \
+    --model gpt-4o
 
 Env:
   OPENAI_API_KEY must be set
+  OPENAI_MODEL=gpt-4o (recommended for best results)
 """
 
 import argparse
@@ -116,25 +130,38 @@ def write_placeholder_svg(target_dir: Path, title: str) -> Path:
 
 
 def build_prompt(pdf_text: str, template_md: str, pdf_name: str) -> str:
-    """Create a robust prompt for deep research using the template structure with Mermaid diagrams."""
+    """Create a comprehensive prompt for deep business research with advanced analysis and Mermaid diagrams."""
     return f"""
-You are an expert research analyst and data visualization specialist. Perform deep research on the provided PDF content and create comprehensive visualizations.
+You are a senior business research analyst and data visualization expert with deep expertise in:
+- Financial analysis and investment evaluation
+- Market research and competitive intelligence
+- Technical feasibility assessment
+- Risk analysis and mitigation strategies
+- Geographic market analysis
+- Strategic planning and implementation
 
-TASK: Create a comprehensive Deep-Research.md file that includes both detailed analysis AND intelligent Mermaid diagrams for each visualization placeholder.
+TASK: Create a comprehensive Deep-Research.md file that provides enterprise-grade business analysis with intelligent Mermaid diagrams for each visualization placeholder.
 
 IMPORTANT: You MUST replace ALL image placeholders like ![Title](URL) with appropriate Mermaid diagrams. Do not leave any image placeholders in the final output.
 
 PDF Name: {pdf_name}
 
 PDF Extract (truncated if large):
-{pdf_text[:8000]}
+{pdf_text}
 
 Template to follow and fill (Markdown):
 {template_md}
 
 CRITICAL REQUIREMENTS:
 
-1. **Content Analysis**: Replace all placeholders like {{PROJECT_NAME}}, {{TOTAL_PROJECT_COST}}, etc. with real data from the PDF
+1. **Deep Business Analysis**: Provide comprehensive, enterprise-level analysis including:
+   - Detailed financial modeling and projections
+   - Advanced market analysis with competitive intelligence
+   - Technical feasibility with industry benchmarking
+   - Comprehensive risk assessment with mitigation strategies
+   - Geographic analysis with regional performance metrics
+   - Strategic recommendations for different stakeholders
+
 2. **Mermaid Diagrams**: For each image placeholder, create an appropriate Mermaid diagram based on the context:
 
    **Diagram Type Selection Guide:**
@@ -191,6 +218,15 @@ CRITICAL REQUIREMENTS:
 5. **Professional Quality**: Ensure diagrams are informative and visually appealing
 6. **Indian Context**: Use ₹ currency and Indian market data where applicable
 7. **CRITICAL**: Replace ALL image placeholders like ![Title](URL) with Mermaid diagrams
+8. **Business Intelligence**: Include advanced analysis such as:
+    - Sensitivity analysis for key variables
+    - Scenario planning (best case, worst case, most likely)
+    - Industry benchmarking and competitive positioning
+    - Regulatory compliance assessment
+    - Technology adoption trends
+    - Supply chain optimization opportunities
+    - Market entry strategies and timing
+    - Exit strategy considerations
 
 OUTPUT FORMAT:
 - Return a complete Markdown document with ALL placeholders replaced
@@ -279,13 +315,13 @@ mindmap
       Size: ₹4060M
 ```
 
-Generate comprehensive analysis with intelligent, data-driven Mermaid visualizations using proper syntax for each placeholder.
+Generate comprehensive, enterprise-grade business analysis with intelligent, data-driven Mermaid visualizations using proper syntax for each placeholder. Focus on providing actionable insights suitable for executive decision-making and investment evaluation.
 """
 
 
 def call_openai_generate(markdown_prompt: str, model: Optional[str] = None) -> str:
     """Call OpenAI to generate the Deep Research markdown. Attempts modern client first, then legacy."""
-    model_name = model or os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+    model_name = model or os.getenv("OPENAI_MODEL", "gpt-4o")
 
     # Try newer client
     if HAS_OPENAI_NEW:
@@ -295,10 +331,11 @@ def call_openai_generate(markdown_prompt: str, model: Optional[str] = None) -> s
             resp = client.chat.completions.create(
                 model=model_name,
                 messages=[
-                    {"role": "system", "content": "You are a senior research analyst and data visualization expert specialized in PMEGP project reports. You excel at creating comprehensive analysis with intelligent Mermaid diagrams that enhance understanding of complex business data."},
+                    {"role": "system", "content": "You are a senior business research analyst and data visualization expert with 15+ years of experience in enterprise-level project analysis. You specialize in PMEGP project reports and excel at creating comprehensive, investment-grade analysis with intelligent Mermaid diagrams. Your expertise includes financial modeling, market intelligence, risk assessment, and strategic planning. Provide detailed, actionable insights that would be suitable for executive decision-making and investment committees."},
                     {"role": "user", "content": markdown_prompt},
                 ],
-                temperature=0.2,
+                temperature=0.1,
+                max_tokens=16000,
             )
             content = resp.choices[0].message.content
             return content
@@ -312,10 +349,11 @@ def call_openai_generate(markdown_prompt: str, model: Optional[str] = None) -> s
             resp = openai.ChatCompletion.create(
                 model=model_name,
                 messages=[
-                    {"role": "system", "content": "You are a senior research analyst and data visualization expert specialized in PMEGP project reports. You excel at creating comprehensive analysis with intelligent Mermaid diagrams that enhance understanding of complex business data."},
+                    {"role": "system", "content": "You are a senior business research analyst and data visualization expert with 15+ years of experience in enterprise-level project analysis. You specialize in PMEGP project reports and excel at creating comprehensive, investment-grade analysis with intelligent Mermaid diagrams. Your expertise includes financial modeling, market intelligence, risk assessment, and strategic planning. Provide detailed, actionable insights that would be suitable for executive decision-making and investment committees."},
                     {"role": "user", "content": markdown_prompt},
                 ],
-                temperature=0.2,
+                temperature=0.1,
+                max_tokens=16000,
             )
             return resp.choices[0].message.content
         except Exception as e:
@@ -379,7 +417,7 @@ def main():
     parser.add_argument("--output-root", default=DEFAULT_OUTPUT_ROOT, help="Docs output root directory")
     parser.add_argument("--template", default=DEFAULT_TEMPLATE, help="Path to unified analysis template")
     parser.add_argument("--max-pages", type=int, default=30, help="Max pages to read per PDF")
-    parser.add_argument("--model", default=os.getenv("OPENAI_MODEL", "gpt-4o-mini"), help="OpenAI model to use")
+    parser.add_argument("--model", default=os.getenv("OPENAI_MODEL", "gpt-4o"), help="OpenAI model to use (gpt-4o recommended for deep research)")
     parser.add_argument("--limit", type=int, default=0, help="Limit number of PDFs to process (0 = all)")
 
     args = parser.parse_args()

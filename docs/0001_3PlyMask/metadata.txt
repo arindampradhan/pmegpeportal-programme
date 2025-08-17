@@ -1,4 +1,4 @@
 Source PDF: scripts/data/source/pdfs/0001_3PlyMask.pdf
-Generated: 2025-08-17T22:22:55.582062
+Generated: 2025-08-17T22:27:46.441206
 Status: success
-Model: gpt-4o-mini
+Model: gpt-4o
