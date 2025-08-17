@@ -73,8 +73,8 @@ A curated collection of analysis reports, visualizations, and insights from 1,03
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| **Report Template** | Standard markdown template for analysis reports | [📄 Template](data/templates/project_report_template.md) |
-| **Dataset Overview** | Complete project database with 1,032 entries | [📊 Data](data/source/projects_output_clean.csv) |
+| **Report Template** | Standard markdown template for analysis reports | [📄 Template](scripts/data/templates/project_report_template.md) |
+| **Dataset Overview** | Complete project database with 1,032 entries | [📊 Data](scripts/data/source/projects_output_clean.csv) |
 | **Configuration Guide** | Analysis parameters and settings | [⚙️ Config](config.yml) |
 | **Project Structure** | Framework organization guide | [📄 Structure](SIMPLIFIED_STRUCTURE.md) |
 
@@ -95,6 +95,7 @@ A curated collection of analysis reports, visualizations, and insights from 1,03
 
 ### For Developers
 - **Technical Setup**: See [Scripts Documentation](scripts/README.md) for installation and development
+- **Dependencies**: Install with `cd scripts && pip install -r requirements.txt`
 - **Create New Analysis**: Follow the development guide for custom analysis scripts
 - **API & Automation**: Technical details in the scripts folder
 
@@ -118,7 +119,7 @@ A curated collection of analysis reports, visualizations, and insights from 1,03
 We welcome analysis contributions! Here's how you can help:
 
 ### For Analysts & Researchers
-1. **Add New Analysis Reports**: Use our [report template](data/templates/project_report_template.md) to create insights
+1. **Add New Analysis Reports**: Use our [report template](scripts/data/templates/project_report_template.md) to create insights
 2. **Enhance Existing Reports**: Improve depth, add new insights, or update findings
 3. **Create Visual Diagrams**: Develop Excalidraw/Tldraw compatible SVG diagrams
 4. **Cross-reference Studies**: Connect findings across different analysis types

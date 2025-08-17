@@ -27,16 +27,16 @@ logging.basicConfig(
 class PMEGPPDFDownloader:
     """Downloads PMEGP project profile PDFs"""
     
-    def __init__(self, config_path='config/analysis_config.yml'):
+    def __init__(self, config_path='config.yml'):
         with open(config_path, 'r') as f:
             self.config = yaml.safe_load(f)
         
         self.csv_file = self.config['data_source']['csv_file']
         self.base_url = self.config['data_source']['pdf_base_url']
         self.download_dir = Path(self.config['data_source']['pdf_download_dir'])
-        self.max_workers = self.config['pdf_processing']['max_concurrent_downloads']
-        self.retry_attempts = self.config['pdf_processing']['retry_attempts']
-        self.timeout = self.config['pdf_processing']['timeout_seconds']
+        self.max_workers = self.config['processing']['max_concurrent_downloads']
+        self.retry_attempts = self.config['processing']['retry_attempts']
+        self.timeout = self.config['processing']['timeout_seconds']
         
         # Create download directory
         self.download_dir.mkdir(parents=True, exist_ok=True)

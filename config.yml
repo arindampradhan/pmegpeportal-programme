@@ -2,9 +2,9 @@
 
 # Data Source
 data_source:
-  csv_file: "data/source/projects_output_clean.csv"
+  csv_file: "scripts/data/source/projects_output_clean.csv"
   pdf_base_url: "https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/"
-  pdf_download_dir: "data/source/pdfs/"
+  pdf_download_dir: "scripts/data/source/pdfs/"
 
 # Investment Brackets (in INR)
 investment_brackets:

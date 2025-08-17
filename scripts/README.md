@@ -6,10 +6,11 @@
 
 ### Quick Start
 1. **Clone Repository**: `git clone <repo-url>`
-2. **Install Dependencies**: `pip install -r requirements.txt`
-3. **Configure Analysis**: Edit `config.yml` 
-4. **Download Data**: `python scripts/automation/pdf_downloader.py`
-5. **Generate Reports**: Choose analysis type and run corresponding script
+2. **Navigate to Scripts**: `cd scripts`
+3. **Install Dependencies**: `pip install -r requirements.txt`
+4. **Configure Analysis**: Edit `../config.yml` 
+5. **Download Data**: `python automation/pdf_downloader.py`
+6. **Generate Reports**: Choose analysis type and run corresponding script
 
 ### Analysis Workflow
 ```
@@ -57,13 +58,13 @@ Raw Data → Processing → Analysis → Report Generation → docs/ folder
 
 ## ⚙️ Configuration
 
-### Main Configuration (`config.yml`)
+### Main Configuration (`../config.yml`)
 ```yaml
 # Data Source
 data_source:
-  csv_file: "data/source/projects_output_clean.csv"
+  csv_file: "scripts/data/source/projects_output_clean.csv"
   pdf_base_url: "https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/"
-  pdf_download_dir: "data/source/pdfs/"
+  pdf_download_dir: "scripts/data/source/pdfs/"
 
 # Investment Brackets (in INR)
 investment_brackets:
@@ -94,6 +95,9 @@ pip install jupyter folium openpyxl
 
 ### Environment Setup
 ```bash
+# Navigate to scripts directory
+cd scripts
+
 # Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -218,31 +222,31 @@ mypy scripts/
 
 ### Step 1: Create Analysis Directory
 ```bash
-mkdir -p docs/your-analysis-name
+mkdir -p ../docs/your-analysis-name
 mkdir -p data/solutions/your-analysis-name/{processed-reports,insights,visualizations}
 ```
 
 ### Step 2: Develop Analysis Script
 ```bash
 # Use template from data/templates/
-cp data/templates/analyzer_template.py scripts/analysis/your_analyzer.py
+cp data/templates/analyzer_template.py analysis/your_analyzer.py
 
 # Implement your analysis logic
 # Test with sample data
-# Generate outputs in docs/your-analysis-name/
+# Generate outputs in ../docs/your-analysis-name/
 ```
 
 ### Step 3: Create Visualization
 ```bash
 # Generate charts
-python scripts/visualization/chart_generator.py --solution your-analysis-name
+python visualization/chart_generator.py --solution your-analysis-name
 
 # Create SVG diagram
-python scripts/visualization/diagram_builder.py --solution your-analysis-name
+python visualization/diagram_builder.py --solution your-analysis-name
 ```
 
 ### Step 4: Update Documentation
-- Add entry to main README.md table
+- Add entry to main README.md table (in parent directory)
 - Link to your analysis.md and diagrams.svg
 - Update this developer README if needed
 
