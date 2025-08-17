@@ -141,15 +141,11 @@ We welcome analysis contributions! Here's how you can help:
 - ✅ Follow markdown formatting standards
 - ✅ Cite data sources and methodology
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⭐ Show Your Support
 
 Give a ⭐️ if this project helped you analyze PMEGP data!
 
 ---
 
-**Created with**: Solution-centric analysis methodology | **Maintained by**: PMEGP Analysis Community
+**Created with**: Solution-centric analysis methodology | **Maintained by**: @arindampradhan
 *Last Updated: January 2025*
