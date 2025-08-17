@@ -1,0 +1,37 @@
+# 0191 Project  Profile  On  Chalk  Cryons
+
+## Page 1
+
+CCCCHHHHAAAALLLLKKKK CCCCRRRRAAAAYYYYOOOONNNNSSSS AAAA.... IIIINNNNTTTTRRRROOOODDDDUUUUCCCCTTTTIIIIOOOONNNN Chalk Crayons are widely used in schools, colleges and other educational institutions. Chalk Crayons are round shaped sticks of chalks, either in white or in colours. They are used for writing on black-boards and on colour-boards. BBBB.... PPPPRRRROOOODDDDUUUUCCCCTTTT UUUUSSSSEEEESSSS The specification for chalk crayons are IS : 2694-1963 moulded white school chalks and IS : 4222-14967 moulded coloured chalks. The product is used in all schools and colleges and educational institutions. They are also used in industries, training institutions of banks and other institutions. CCCC.... MMMMAAAARRRRKKKKEEEETTTT PPPPOOOOTTTTEEEENNNNTTTTIIIIAAAALLLL The number of school going children is increasing year after year. The students enrolled in primary levels are increasing with spread of literacy and Govt. regulation for making primary education compulsory. Another reason for increasing demand of chalk crayons is increasing popularity of adult education throughout India. DDDD.... TTTTEEEECCCCHHHHNNNNIIIICCCCAAAALLLL AAAASSSSPPPPEEEECCCCTTTTSSSS 1111.... IIIInnnnssssttttaaaalllllllleeeedddd ccccaaaappppaaaacccciiiittttyyyy The installed capacity of the unit is 96000 boxes (100 pieces per box) of chalks per annum. The daily capacity is 320 boxes. 2222.... PPPPllllaaaannnntttt aaaannnndddd MMMMaaaacccchhhhiiiinnnneeeerrrryyyy QQQQttttyyyy.... [[[[RRRRssss....]]]] Aluminium moulds 90 cavities (@ Rs.5500 each) 8 nos. 44000 Work table, Balance, Wooden trays 1set. 26000 TTTToooottttaaaallll 77770000000000000000 1
+
+---
+
+## Page 2
+
+3333.... MMMMaaaannnnuuuuffffaaaaccccttttuuuurrrriiiinnnngggg PPPPrrrroooocccceeeessssssss Cleaning of moulds applying lubricant consisting of Kerosene and Groundnut oil in ratio 4 : 1 - setting moulds in wooden frames – mixing of plaster of paris and china clay in a enamel bowl along with other additives like whitening agents / colouring agents – adding water in required quantity slowly till a homogenous mixture is formed – pouring mixture into moulds – allowing for settling – removing excess materials from moulds – slowly removing chalk sticks from moulds – placing in wooden trays for initial drying and then under sunlight. Testing for strength and smoothness in writing and packing in wooden boxes. 4444.... RRRRaaaawwww MMMMaaaatttteeeerrrriiiiaaaallllssss RRRRaaaatttteeee////MMMMTTTT.... RRRReeeeqqqquuuuiiiirrrreeeemmmmeeeennnntttt VVVVaaaalllluuuueeee pppp....mmmm.... Plaster of paris 2000 4 MT 8000 China Clay, Colour, lubricants 3000 Card board boxes (8000boxes @Rs.0.50 per box) 4000 TTTToooottttaaaallll 11115555000000000000 Raw material cost per box Rs.1.88 /- 5555.... LLLLaaaannnndddd &&&& BBBBuuuuiiiillllddddiiiinnnngggg 300 sqft. of covered area is required which could be taken on rent. Rent Rs.2400. Advance Rs.24,000. 6666.... UUUUttttiiiilllliiiittttiiiieeeessss PPPPoooowwwweeeerrrr:::: Electricity is not required for process. A single phase load is sufficient for lighting. WWWWaaaatttteeeerrrr:::: Water requirement per day is about 500 litres. 2
+
+---
+
+## Page 3
+
+MMMMaaaannnn PPPPoooowwwweeeerrrr:::: CCCCaaaatttteeeeggggoooorrrryyyy NNNNoooossss.... MMMMoooonnnntttthhhhllllyyyy TTTToooottttaaaallll Manager 1 5000 5000 Semi Skilled workers 1 3000 3000 Unskilled worker 1 2000 2000 11110000000000000000 Add: 20% benefits 2000 TTTToooottttaaaallll 11112222000000000000 Total salary per annum (Rs.lakhs) Rs.1.44 lakh 7777.... IIIImmmmpppplllleeeemmmmeeeennnnttttaaaattttiiiioooonnnn SSSScccchhhheeeedddduuuulllleeee The project can be implemented within one month. 8888.... AAAASSSSSSSSUUUUMMMMPPPPTTTTIIIIOOOONNNNSSSS − Installed capacity is 96000 boxes of chalk crayons per annum. − First year Capacity utilisation is 60%. This is increased to 70% and 80% in subsequent years. − The selling price assumed is Rs.6.00 per box. The market price is higher than this. − The raw material cost is Rs.1.88 per box. − Power charge is only for lighting. − Wages & Salaries is Rs.1.44 lakh per annum. − Repairs & Maintenance is Rs.500 per month. 3
+
+---
+
+## Page 4
+
+− Depreciation is calculated on WDV method. − Selling, General & Adm. Expenses is calculated at Rs.5000 per month. − Interest on Term Loan is calculated at 12% per annum − Working capital is proposed to be met out of own finance. − Income tax is provided at 33.99% on taxable income. LLLLIIIISSSSTTTT OOOOFFFF MMMMAAAACCCCHHHHIIIINNNNEEEERRRRYYYY SSSSUUUUPPPPPPPPLLLLIIIIEEEERRRRSSSS 1. Maneklal and Sons ( Exports), 237/239 Perin Nariman Street, Fort , Mumabi-1 2. Rainbow Candle works, No.20 A, Ponnuswamy Vudyar Street, Choolaimedu, Chennai 600 094 LLLLIIIISSSSTTTT OOOOFFFF RRRRAAAAWWWW MMMMAAAATTTTEEEERRRRIIIIAAAALLLL SSSSUUUUPPPPPPPPLLLLIIIIEEEERRRRSSSS 1. Raja Mining Works, Ariyallore, Trichy. 2. Sri Balamurugan Group of Companies, 31-A, Emperor Street, Tuticorin-628 001 4
+
+---
+
+## Page 5
+
+FFFFIIIINNNNAAAANNNNCCCCIIIIAAAALLLL AAAASSSSPPPPEEEECCCCTTTTSSSS 1111.... CCCCOOOOSSSSTTTT OOOOFFFF PPPPRRRROOOOJJJJEEEECCCCTTTT RRRRssss....llllaaaakkkkhhhhssss Building (Advance) 0.24 Plant & Machinery 0.70 Other Misc. assets 0.00 Pre-Operative expenses 0.10 Margin for WC 0.14 TTTToooottttaaaallll 1111....11118888 2222.... MMMMEEEEAAAANNNNSSSS OOOOFFFF FFFFIIIINNNNAAAANNNNCCCCEEEE Capital 0.65 Term Loan 0.53 TTTToooottttaaaallll 1111....11118888 3333.... CCCCOOOOSSSSTTTT OOOOFFFF PPPPRRRROOOODDDDUUUUCCCCTTTTIIIIOOOONNNN &&&& PPPPRRRROOOOFFFFIIIITTTTAAAABBBBIIIILLLLIIIITTTTYYYY SSSSTTTTAAAATTTTEEEEMMMMEEEENNNNTTTTSSSS YYYYeeeeaaaarrrrssss 1111 2222 3333 Installed Capacity (No. of boxes) 96000 96000 96000 Utilisation 60% 70% 80% Production/Sales (No. of boxes) 57600 67200 76800 Selling Price Rs.6.00 per box Sales Value (Rs.lakhs) 3333....44446666 4444....00003333 4444....66661111 Raw Materials 1.08 1.26 1.44 Power 0.06 0.06 0.06 Wages & Salaries 1.44 1.51 1.59 Repairs & Maintenance 0.06 0.07 0.08 Depreciation 0.11 0.09 0.08 Cost of Production 2.75 2.99 3.25 Selling, Admin, & General expenses 0.60 0.63 0.66 Interest on Term Loan 0.06 0.06 0.04 Interest on Working Capital 0.00 0.00 0.00 TTTToooottttaaaallll 3333....44441111 3333....66668888 3333....99995555 Profit Before Tax 0.05 0.35 0.66 Provision for tax 0.00 0.00 0.00 5
+
+---
+
+## Page 6
+
+Profit After Tax 0000....00005555 0000....33335555 0000....66666666 Add: Depreciation 0.11 0.09 0.08 Cash Accruals 0.16 0.44 0.74 4444.... WWWWOOOORRRRKKKKIIIINNNNGGGG CCCCAAAAPPPPIIIITTTTAAAALLLL:::: Months Values % Margin Bank Consumptions Amount Finance Raw Materials 1.00 0.09 100% 0.09 0.00 Expenses 1.00 0.05 100% 0.05 0.00 0.14 0.14 0.00 6666.... PPPPRRRROOOOFFFFIIIITTTTAAAABBBBIIIILLLLIIIITTTTYYYY RRRRAAAATTTTIIIIOOOOSSSS BBBBAAAASSSSEEEEDDDD OOOONNNN 88880000%%%% UUUUTTTTIIIILLLLIIIISSSSAAAATTTTIIIIOOOONNNN Profit after Tax 0.66 = 14% Sales 4.61 Profit before Interest and Tax 0.70 Total = 59% Investment 1.18 Profit after Tax 0.66 102% Promoters Capital 0.65 7777.... BBBBRRRREEEEAAAAKKKK EEEEVVVVEEEENNNN LLLLEEEEVVVVEEEELLLL FFFFiiiixxxxeeeedddd CCCCoooosssstttt ((((FFFFCCCC)))):::: RRRRssss....llllaaaakkkkhhhhssss Wages & Salaries 1.59 Repairs & Maintenance 0.08 Depreciation 0.08 Admin. & General expenses 0.66 Interest on TL 0.04 2.45 Profit Before Tax (P) 0.66 BEL FC x 100 2.45 80 x = x = FC +P 3.11 100 100 63% of installed capacity 6
+
+---
