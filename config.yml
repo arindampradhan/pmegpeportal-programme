@@ -1,38 +1,84 @@
-# PMEGP Analysis Configuration
+# PMEGP Portal Programme Configuration
+project:
+  name: "PMEGP Portal Programme"
+  version: "1.0.0"
+  description: "Comprehensive analysis system for PMEGP project data"
 
-# Data Source
+# Data source configuration
 data_source:
   csv_file: "scripts/data/source/projects_output_clean.csv"
-  pdf_base_url: "https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/"
-  pdf_download_dir: "scripts/data/source/pdfs/"
+  pdf_base_url: "https://pmegp.gov.in/projectprofiles/"
+  pdf_download_dir: "scripts/data/source/pdfs"
+  markdown_dir: "scripts/data/source/markdowns"
 
-# Investment Brackets (in INR)
-investment_brackets:
-  micro: [0, 500000]        # Up to 5L
-  small: [500001, 2500000]  # 5L to 25L  
-  medium: [2500001, 10000000] # 25L to 1Cr
-  large: [10000001, 50000000] # Above 1Cr
+# OpenAI API configuration
+openai:
+  api_key: "${OPENAI_API_KEY}"  # Set as environment variable
+  model: "gpt-4"
+  temperature: 0.3
+  max_tokens: 4000
 
-# Industry Categories
-industries:
-  - "AGRO BASED FOOD PROCESSING INDUSTRY"
-  - "RURAL ENGG. AND BIO-TECH INDUSTRY"
-  - "POLYMER AND CHEMICAL BASED INDUSTRY"
-  - "SERVICE AND TEXTILE INDUSTRY"
-  - "MINERAL BASED INDUSTRY"
-  - "FOREST BASED INDUSTRY"
-  - "COIR BOARD BASED INDUSTRY"
-  - "HAND MADE PAPER AND FIBRE INDUSTRY"
-
-# Output Settings
-output:
-  docs_dir: "docs/"
-  template_dir: "data/templates/"
-  diagram_format: "svg"
-  report_format: "markdown"
-
-# Processing Settings
+# Processing configuration
 processing:
   max_concurrent_downloads: 5
   retry_attempts: 3
   timeout_seconds: 30
+  batch_size: 100
+
+# Analysis configuration
+analysis:
+  output_dir: "scripts/data/solutions"
+  template_dir: "scripts/data/templates"
+  visualization_dir: "outputs/visualizations"
+
+# Output configuration
+output:
+  base_dir: "outputs"
+  reports_dir: "outputs/reports"
+  diagrams_dir: "outputs/diagrams"
+  insights_dir: "outputs/insights"
+  processed_reports_dir: "outputs/processed_reports"
+
+# Input configuration
+input:
+  research_file: "deep_research.md"
+  analysis_template: "scripts/data/templates/unified_project_analysis_template.md"
+
+# Visualization configuration
+visualization:
+  default_style: "seaborn-v0_8"
+  figure_dpi: 300
+  figure_format: "png"
+  color_palette: ["#FF6B6B", "#4ECDC4", "#45B7D1", "#96CEB4", "#FECA57", "#FF9FF3"]
+  chart_sizes:
+    small: [8, 6]
+    medium: [12, 8]
+    large: [16, 12]
+    dashboard: [20, 16]
+
+# Chart type mappings
+chart_mappings:
+  financial_data: ["bar_chart", "line_chart", "area_chart", "pie_chart"]
+  process_flow: ["flowchart", "network_diagram"]
+  timeline_data: ["gantt", "line_chart", "area_chart"]
+  hierarchical_data: ["pyramid_chart", "organization_chart", "mind_map"]
+  comparison_data: ["bar_chart", "bubble_chart", "quadrant_chart"]
+  distribution_data: ["pie_chart", "heatmap", "scatter_plot"]
+  correlation_data: ["scatter_plot", "bubble_chart", "heatmap"]
+  geographic_data: ["heatmap", "bubble_chart", "quadrant_chart"]
+  risk_analysis: ["quadrant_chart", "bubble_chart", "heatmap"]
+
+# Logging configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(levelname)s - %(message)s"
+  file: "logs/application.log"
+  max_size_mb: 10
+  backup_count: 5
+
+# Database configuration (if needed)
+database:
+  type: "sqlite"
+  path: "data/pmegp_analysis.db"
+  backup_enabled: true
+  backup_interval_hours: 24
