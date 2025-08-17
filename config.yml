@@ -1,0 +1,38 @@
+# PMEGP Analysis Configuration
+
+# Data Source
+data_source:
+  csv_file: "data/source/projects_output_clean.csv"
+  pdf_base_url: "https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/"
+  pdf_download_dir: "data/source/pdfs/"
+
+# Investment Brackets (in INR)
+investment_brackets:
+  micro: [0, 500000]        # Up to 5L
+  small: [500001, 2500000]  # 5L to 25L  
+  medium: [2500001, 10000000] # 25L to 1Cr
+  large: [10000001, 50000000] # Above 1Cr
+
+# Industry Categories
+industries:
+  - "AGRO BASED FOOD PROCESSING INDUSTRY"
+  - "RURAL ENGG. AND BIO-TECH INDUSTRY"
+  - "POLYMER AND CHEMICAL BASED INDUSTRY"
+  - "SERVICE AND TEXTILE INDUSTRY"
+  - "MINERAL BASED INDUSTRY"
+  - "FOREST BASED INDUSTRY"
+  - "COIR BOARD BASED INDUSTRY"
+  - "HAND MADE PAPER AND FIBRE INDUSTRY"
+
+# Output Settings
+output:
+  docs_dir: "docs/"
+  template_dir: "data/templates/"
+  diagram_format: "svg"
+  report_format: "markdown"
+
+# Processing Settings
+processing:
+  max_concurrent_downloads: 5
+  retry_attempts: 3
+  timeout_seconds: 30

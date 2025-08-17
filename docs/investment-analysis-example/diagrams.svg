@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="650" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="650" fill="#f8f9fa"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#2c3e50">
+    PMEGP Investment Range Analysis
+  </text>
+  
+  <!-- Investment Brackets Visualization -->
+  <text x="400" y="70" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#34495e">
+    Investment Distribution Across 1,032 Projects
+  </text>
+  
+  <!-- Micro Projects -->
+  <rect x="50" y="100" width="160" height="100" rx="5" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="130" y="125" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white" font-weight="bold">
+    MICRO PROJECTS
+  </text>
+  <text x="130" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    ₹90K - ₹5L
+  </text>
+  <text x="130" y="165" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    412 projects (40%)
+  </text>
+  <text x="130" y="185" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    Avg: ₹3.2L
+  </text>
+  
+  <!-- Small Projects -->
+  <rect x="230" y="100" width="160" height="100" rx="5" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="310" y="125" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white" font-weight="bold">
+    SMALL PROJECTS
+  </text>
+  <text x="310" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    ₹5L - ₹25L
+  </text>
+  <text x="310" y="165" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    487 projects (47%)
+  </text>
+  <text x="310" y="185" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    Avg: ₹12.8L
+  </text>
+  
+  <!-- Medium Projects -->
+  <rect x="410" y="100" width="160" height="100" rx="5" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="490" y="125" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white" font-weight="bold">
+    MEDIUM PROJECTS
+  </text>
+  <text x="490" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    ₹25L - ₹1Cr
+  </text>
+  <text x="490" y="165" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    121 projects (12%)
+  </text>
+  <text x="490" y="185" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    Avg: ₹45.6L
+  </text>
+  
+  <!-- Large Projects -->
+  <rect x="590" y="100" width="160" height="100" rx="5" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+  <text x="670" y="125" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white" font-weight="bold">
+    LARGE PROJECTS
+  </text>
+  <text x="670" y="145" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    ₹1Cr+
+  </text>
+  <text x="670" y="165" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white">
+    12 projects (1%)
+  </text>
+  <text x="670" y="185" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white">
+    Avg: ₹2.8Cr
+  </text>
+  
+  <!-- Risk-Return Analysis -->
+  <text x="400" y="250" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#34495e">
+    Risk vs Return Analysis
+  </text>
+  
+  <!-- Risk Level Boxes -->
+  <rect x="100" y="280" width="120" height="80" rx="5" fill="#2ecc71" stroke="#27ae60" stroke-width="2"/>
+  <text x="160" y="305" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">
+    LOW RISK
+  </text>
+  <text x="160" y="325" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Quick break-even
+  </text>
+  <text x="160" y="340" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    6-12 months
+  </text>
+  <text x="160" y="355" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Lower profits
+  </text>
+  
+  <rect x="260" y="280" width="120" height="80" rx="5" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="320" y="305" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">
+    MEDIUM RISK
+  </text>
+  <text x="320" y="325" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Balanced returns
+  </text>
+  <text x="320" y="340" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    12-24 months
+  </text>
+  <text x="320" y="355" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Moderate profits
+  </text>
+  
+  <rect x="420" y="280" width="120" height="80" rx="5" fill="#e67e22" stroke="#d35400" stroke-width="2"/>
+  <text x="480" y="305" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">
+    HIGH RISK
+  </text>
+  <text x="480" y="325" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Higher returns
+  </text>
+  <text x="480" y="340" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    24-36 months
+  </text>
+  <text x="480" y="355" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    High profits
+  </text>
+  
+  <rect x="580" y="280" width="120" height="80" rx="5" fill="#8e44ad" stroke="#7d3c98" stroke-width="2"/>
+  <text x="640" y="305" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="white" font-weight="bold">
+    STRATEGIC
+  </text>
+  <text x="640" y="325" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Innovation focus
+  </text>
+  <text x="640" y="340" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    36+ months
+  </text>
+  <text x="640" y="355" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Market impact
+  </text>
+  
+  <!-- Investment Flow -->
+  <text x="400" y="410" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#34495e">
+    Recommended Investment Strategy
+  </text>
+  
+  <!-- Strategy Flow -->
+  <rect x="50" y="440" width="140" height="60" rx="5" fill="#3498db" stroke="#2980b9" stroke-width="2"/>
+  <text x="120" y="465" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white" font-weight="bold">
+    First-time Entrepreneurs
+  </text>
+  <text x="120" y="485" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Start with ₹2-5L
+  </text>
+  
+  <rect x="210" y="440" width="140" height="60" rx="5" fill="#27ae60" stroke="#229954" stroke-width="2"/>
+  <text x="280" y="465" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white" font-weight="bold">
+    Experienced Owners
+  </text>
+  <text x="280" y="485" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Range: ₹10-30L
+  </text>
+  
+  <rect x="370" y="440" width="140" height="60" rx="5" fill="#f39c12" stroke="#e67e22" stroke-width="2"/>
+  <text x="440" y="465" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white" font-weight="bold">
+    Scaling Businesses
+  </text>
+  <text x="440" y="485" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Range: ₹25-75L
+  </text>
+  
+  <rect x="530" y="440" width="140" height="60" rx="5" fill="#8e44ad" stroke="#7d3c98" stroke-width="2"/>
+  <text x="600" y="465" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" fill="white" font-weight="bold">
+    Corporate Ventures
+  </text>
+  <text x="600" y="485" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="white">
+    Range: ₹1Cr+
+  </text>
+  
+  <!-- Arrows between strategy boxes -->
+  <line x1="190" y1="470" x2="210" y2="470" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="350" y1="470" x2="370" y2="470" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="510" y1="470" x2="530" y2="470" stroke="#34495e" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#34495e"/>
+    </marker>
+  </defs>
+  
+  <!-- Success Factors -->
+  <text x="400" y="550" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#2c3e50">
+    Key Investment Success Factors
+  </text>
+  <text x="200" y="575" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#7f8c8d">
+    • Market Research • Capital Planning • Risk Assessment
+  </text>
+  <text x="600" y="575" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#7f8c8d">
+    • Phased Implementation • Mentorship • Working Capital
+  </text>
+  
+  <!-- Legend -->
+  <text x="50" y="620" font-family="Arial, sans-serif" font-size="11" fill="#95a5a6">
+    Based on analysis of 1,032 PMEGP projects | Investment range: ₹90K - ₹17M
+  </text>
+</svg>
