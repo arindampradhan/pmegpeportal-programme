@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0008_PROJECT PROFILE ON ALUMINIUM FABRICATION.pdf
+Generated: 2025-08-17T22:51:42.066548
+Status: success
+Model: gpt-4o

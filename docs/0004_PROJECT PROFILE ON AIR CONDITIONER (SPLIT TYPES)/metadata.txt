@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0004_PROJECT PROFILE ON AIR CONDITIONER (SPLIT TYPES).pdf
+Generated: 2025-08-17T22:41:12.381835
+Status: success
+Model: gpt-4o

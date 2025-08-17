@@ -385,6 +385,13 @@ def process_single_pdf(pdf_path: Path, output_root: Path, template_md: str, max_
     pdf_stem = pdf_path.stem
     logger.info(f"Processing PDF: {pdf_stem}")
 
+    # Check if Deep-Research.md already exists
+    target_dir = output_root / pdf_stem
+    existing_md = target_dir / "Deep-Research.md"
+    if existing_md.exists():
+        logger.info(f"⏭️  Skipping {pdf_stem} - Deep-Research.md already exists")
+        return
+
     # Prepare output dirs
     target_dir = ensure_output_structure(output_root, pdf_stem)
     write_placeholder_svg(target_dir, pdf_stem)

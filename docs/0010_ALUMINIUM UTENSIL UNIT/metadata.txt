@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0010_ALUMINIUM UTENSIL UNIT.pdf
+Generated: 2025-08-17T22:55:30.111659
+Status: success
+Model: gpt-4o

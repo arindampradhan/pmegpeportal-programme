@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0013_ASSEMBLING OF  DISPLAY MONITOR.pdf
+Generated: 2025-08-17T23:01:50.408657
+Status: success
+Model: gpt-4o

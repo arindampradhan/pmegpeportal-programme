@@ -1,4 +1,4 @@
 Source PDF: scripts/data/source/pdfs/0002_4TLubricantsOilChemical.pdf
-Generated: 2025-08-17T21:46:07.128674
-Status: failed
-Model: gpt-4o-mini
+Generated: 2025-08-17T22:36:38.653602
+Status: success
+Model: gpt-4o

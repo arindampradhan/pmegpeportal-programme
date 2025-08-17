@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0005_PROJECT PROFILE ON  ALOE VERA GEL.pdf
+Generated: 2025-08-17T22:43:48.216626
+Status: success
+Model: gpt-4o

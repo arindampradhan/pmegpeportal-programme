@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0011_ALUMINIUM VENETIAN SCHEME.pdf
+Generated: 2025-08-17T22:57:26.140553
+Status: success
+Model: gpt-4o

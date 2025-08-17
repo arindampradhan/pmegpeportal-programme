@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0006_PROJECT PROFILE ON ALTERNATORS FOR AUTOMOBILES.pdf
+Generated: 2025-08-17T22:46:19.931903
+Status: success
+Model: gpt-4o

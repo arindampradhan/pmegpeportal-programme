@@ -1,0 +1,43 @@
+2025-08-17 22:38:52,279 - INFO - Found 997 PDF(s) to process
+2025-08-17 22:38:52,279 - INFO - Processing PDF: 0001_3PlyMask
+2025-08-17 22:38:52,279 - INFO - ⏭️  Skipping 0001_3PlyMask - Deep-Research.md already exists
+2025-08-17 22:38:52,279 - INFO - Processing PDF: 0002_4TLubricantsOilChemical
+2025-08-17 22:38:52,279 - INFO - ⏭️  Skipping 0002_4TLubricantsOilChemical - Deep-Research.md already exists
+2025-08-17 22:38:52,279 - INFO - Processing PDF: 0003_ADDONCARDSFORCOMPUTER
+2025-08-17 22:38:52,279 - INFO - ⏭️  Skipping 0003_ADDONCARDSFORCOMPUTER - Deep-Research.md already exists
+2025-08-17 22:38:52,279 - INFO - Processing PDF: 0004_PROJECT PROFILE ON AIR CONDITIONER (SPLIT TYPES)
+2025-08-17 22:41:12,372 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 22:41:12,381 - INFO - ✅ Wrote docs/0004_PROJECT PROFILE ON AIR CONDITIONER (SPLIT TYPES)/Deep-Research.md
+2025-08-17 22:41:12,382 - INFO - Processing PDF: 0005_PROJECT PROFILE ON  ALOE VERA GEL
+2025-08-17 22:41:12,415 - WARNING - Cannot set gray non-stroke color because /'P6' is an invalid float value
+2025-08-17 22:41:12,663 - WARNING - Cannot set gray non-stroke color because /'P187' is an invalid float value
+2025-08-17 22:43:48,212 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 22:43:48,216 - INFO - ✅ Wrote docs/0005_PROJECT PROFILE ON  ALOE VERA GEL/Deep-Research.md
+2025-08-17 22:43:48,216 - INFO - Processing PDF: 0006_PROJECT PROFILE ON ALTERNATORS FOR AUTOMOBILES
+2025-08-17 22:46:19,930 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 22:46:19,931 - INFO - ✅ Wrote docs/0006_PROJECT PROFILE ON ALTERNATORS FOR AUTOMOBILES/Deep-Research.md
+2025-08-17 22:46:19,932 - INFO - Processing PDF: 0007_PROJECT PROFILE ON ALUMINIUM CANS
+2025-08-17 22:49:16,685 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 22:49:16,962 - INFO - ✅ Wrote docs/0007_PROJECT PROFILE ON ALUMINIUM CANS/Deep-Research.md
+2025-08-17 22:49:16,962 - INFO - Processing PDF: 0008_PROJECT PROFILE ON ALUMINIUM FABRICATION
+2025-08-17 22:51:42,063 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 22:51:42,066 - INFO - ✅ Wrote docs/0008_PROJECT PROFILE ON ALUMINIUM FABRICATION/Deep-Research.md
+2025-08-17 22:51:42,066 - INFO - Processing PDF: 0009_PROJECT PROFILE ON ALUMINIUM FURNITURE
+2025-08-17 22:53:42,603 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 22:53:42,608 - INFO - ✅ Wrote docs/0009_PROJECT PROFILE ON ALUMINIUM FURNITURE/Deep-Research.md
+2025-08-17 22:53:42,608 - INFO - Processing PDF: 0010_ALUMINIUM UTENSIL UNIT
+2025-08-17 22:55:30,108 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 22:55:30,111 - INFO - ✅ Wrote docs/0010_ALUMINIUM UTENSIL UNIT/Deep-Research.md
+2025-08-17 22:55:30,111 - INFO - Processing PDF: 0011_ALUMINIUM VENETIAN SCHEME
+2025-08-17 22:57:26,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 22:57:26,140 - INFO - ✅ Wrote docs/0011_ALUMINIUM VENETIAN SCHEME/Deep-Research.md
+2025-08-17 22:57:26,140 - INFO - Processing PDF: 0012_PROJECT PROFILE ON AMMONIA (BLUE) PRINT
+2025-08-17 22:59:27,582 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 22:59:27,584 - INFO - ✅ Wrote docs/0012_PROJECT PROFILE ON AMMONIA (BLUE) PRINT/Deep-Research.md
+2025-08-17 22:59:27,584 - INFO - Processing PDF: 0013_ASSEMBLING OF  DISPLAY MONITOR
+2025-08-17 23:01:50,406 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:01:50,408 - INFO - ✅ Wrote docs/0013_ASSEMBLING OF  DISPLAY MONITOR/Deep-Research.md
+2025-08-17 23:01:50,408 - INFO - Processing PDF: 0014_PROJECT PROFILE ON ASSEMBLING OF ELECTRONIC GAS LIGHTERS
+2025-08-17 23:04:11,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:04:11,980 - INFO - ✅ Wrote docs/0014_PROJECT PROFILE ON ASSEMBLING OF ELECTRONIC GAS LIGHTERS/Deep-Research.md
+2025-08-17 23:04:11,980 - INFO - Processing PDF: 0015_PROJECT PROFILE ON ASSEMBLY OF BEVERAGE VENDING MACHINE

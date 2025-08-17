@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0014_PROJECT PROFILE ON ASSEMBLING OF ELECTRONIC GAS LIGHTERS.pdf
+Generated: 2025-08-17T23:04:11.980307
+Status: success
+Model: gpt-4o
