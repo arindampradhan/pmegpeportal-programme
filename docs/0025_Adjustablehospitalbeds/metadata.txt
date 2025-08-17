@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0025_Adjustablehospitalbeds.pdf
+Generated: 2025-08-17T23:30:02.556128
+Status: success
+Model: gpt-4o

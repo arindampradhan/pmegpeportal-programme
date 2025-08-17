@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0034_AlkydResin.pdf
+Generated: 2025-08-17T23:52:56.842919
+Status: success
+Model: gpt-4o

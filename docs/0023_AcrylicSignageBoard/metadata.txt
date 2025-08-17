@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0023_AcrylicSignageBoard.pdf
+Generated: 2025-08-17T23:25:42.641492
+Status: success
+Model: gpt-4o

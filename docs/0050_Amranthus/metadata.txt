@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0050_Amranthus.pdf
+Generated: 2025-08-18T00:29:10.400037
+Status: success
+Model: gpt-4o

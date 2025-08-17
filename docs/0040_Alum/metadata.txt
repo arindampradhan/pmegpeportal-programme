@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0040_Alum.pdf
+Generated: 2025-08-18T00:07:40.312868
+Status: success
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0030_AirFilter.pdf
+Generated: 2025-08-17T23:44:31.885225
+Status: success
+Model: gpt-4o

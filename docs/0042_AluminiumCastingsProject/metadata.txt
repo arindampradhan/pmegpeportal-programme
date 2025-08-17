@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0042_AluminiumCastingsProject.pdf
+Generated: 2025-08-18T00:12:54.066595
+Status: success
+Model: gpt-4o

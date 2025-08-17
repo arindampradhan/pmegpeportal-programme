@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0018_AUTO GARRAGE.pdf
+Generated: 2025-08-17T23:14:25.585478
+Status: success
+Model: gpt-4o

@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0038_AloeveraJuice.pdf
+Generated: 2025-08-18T00:02:23.512693
+Status: success
+Model: gpt-4o

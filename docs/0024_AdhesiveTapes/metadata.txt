@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0024_AdhesiveTapes.pdf
+Generated: 2025-08-17T23:27:42.541905
+Status: success
+Model: gpt-4o

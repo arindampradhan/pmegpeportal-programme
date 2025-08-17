@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0041_AlumPhitkariManufacturing.pdf
+Generated: 2025-08-18T00:10:30.482942
+Status: success
+Model: gpt-4o

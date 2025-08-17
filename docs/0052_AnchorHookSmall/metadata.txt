@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0052_AnchorHookSmall.pdf
+Generated: 2025-08-18T00:33:21.882871
+Status: success
+Model: gpt-4o

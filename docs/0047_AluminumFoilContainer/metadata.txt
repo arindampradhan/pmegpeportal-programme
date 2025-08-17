@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0047_AluminumFoilContainer.pdf
+Generated: 2025-08-18T00:23:09.400670
+Status: success
+Model: gpt-4o

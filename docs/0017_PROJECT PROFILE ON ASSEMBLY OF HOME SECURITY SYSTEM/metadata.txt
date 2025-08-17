@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0017_PROJECT PROFILE ON ASSEMBLY OF HOME SECURITY SYSTEM.pdf
+Generated: 2025-08-17T23:11:44.323357
+Status: success
+Model: gpt-4o

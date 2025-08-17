@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0015_PROJECT PROFILE ON ASSEMBLY OF BEVERAGE VENDING MACHINE.pdf
+Generated: 2025-08-17T23:06:41.425086
+Status: success
+Model: gpt-4o

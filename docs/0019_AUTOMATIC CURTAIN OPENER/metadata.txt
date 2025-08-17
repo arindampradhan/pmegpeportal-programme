@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0019_AUTOMATIC CURTAIN OPENER.pdf
+Generated: 2025-08-17T23:16:32.242611
+Status: success
+Model: gpt-4o

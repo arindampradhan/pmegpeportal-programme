@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0053_AnimalFeedfinal.pdf
+Generated: 2025-08-18T00:35:37.741049
+Status: success
+Model: gpt-4o

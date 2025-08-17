@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0044_ALuminiumFoilRewinding.pdf
+Generated: 2025-08-18T00:17:25.974518
+Status: success
+Model: gpt-4o

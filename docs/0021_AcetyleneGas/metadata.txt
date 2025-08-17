@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0021_AcetyleneGas.pdf
+Generated: 2025-08-17T23:21:11.045195
+Status: success
+Model: gpt-4o

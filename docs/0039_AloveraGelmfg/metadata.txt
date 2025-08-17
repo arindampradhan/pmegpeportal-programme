@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0039_AloveraGelmfg.pdf
+Generated: 2025-08-18T00:05:17.739076
+Status: success
+Model: gpt-4o

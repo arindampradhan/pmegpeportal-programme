@@ -41,3 +41,142 @@
 2025-08-17 23:04:11,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 2025-08-17 23:04:11,980 - INFO - ✅ Wrote docs/0014_PROJECT PROFILE ON ASSEMBLING OF ELECTRONIC GAS LIGHTERS/Deep-Research.md
 2025-08-17 23:04:11,980 - INFO - Processing PDF: 0015_PROJECT PROFILE ON ASSEMBLY OF BEVERAGE VENDING MACHINE
+2025-08-17 23:06:41,250 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:06:41,425 - INFO - ✅ Wrote docs/0015_PROJECT PROFILE ON ASSEMBLY OF BEVERAGE VENDING MACHINE/Deep-Research.md
+2025-08-17 23:06:41,425 - INFO - Processing PDF: 0016_ASSEMBLY OF DIESEL GENERATOR SET
+2025-08-17 23:09:06,915 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:09:07,194 - INFO - ✅ Wrote docs/0016_ASSEMBLY OF DIESEL GENERATOR SET/Deep-Research.md
+2025-08-17 23:09:07,194 - INFO - Processing PDF: 0017_PROJECT PROFILE ON ASSEMBLY OF HOME SECURITY SYSTEM
+2025-08-17 23:11:44,021 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:11:44,323 - INFO - ✅ Wrote docs/0017_PROJECT PROFILE ON ASSEMBLY OF HOME SECURITY SYSTEM/Deep-Research.md
+2025-08-17 23:11:44,323 - INFO - Processing PDF: 0018_AUTO GARRAGE
+2025-08-17 23:14:25,581 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:14:25,586 - INFO - ✅ Wrote docs/0018_AUTO GARRAGE/Deep-Research.md
+2025-08-17 23:14:25,586 - INFO - Processing PDF: 0019_AUTOMATIC CURTAIN OPENER
+2025-08-17 23:16:32,236 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:16:32,242 - INFO - ✅ Wrote docs/0019_AUTOMATIC CURTAIN OPENER/Deep-Research.md
+2025-08-17 23:16:32,243 - INFO - Processing PDF: 0020_PROJECT PROFILE ON AUTOMOBILE SILENCER
+2025-08-17 23:18:41,116 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:18:41,119 - INFO - ✅ Wrote docs/0020_PROJECT PROFILE ON AUTOMOBILE SILENCER/Deep-Research.md
+2025-08-17 23:18:41,119 - INFO - Processing PDF: 0021_AcetyleneGas
+2025-08-17 23:21:11,041 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:21:11,045 - INFO - ✅ Wrote docs/0021_AcetyleneGas/Deep-Research.md
+2025-08-17 23:21:11,045 - INFO - Processing PDF: 0022_AcrylicPaintsChemical
+2025-08-17 23:23:43,759 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:23:43,930 - INFO - ✅ Wrote docs/0022_AcrylicPaintsChemical/Deep-Research.md
+2025-08-17 23:23:43,930 - INFO - Processing PDF: 0023_AcrylicSignageBoard
+2025-08-17 23:25:42,638 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:25:42,641 - INFO - ✅ Wrote docs/0023_AcrylicSignageBoard/Deep-Research.md
+2025-08-17 23:25:42,641 - INFO - Processing PDF: 0024_AdhesiveTapes
+2025-08-17 23:27:42,538 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:27:42,542 - INFO - ✅ Wrote docs/0024_AdhesiveTapes/Deep-Research.md
+2025-08-17 23:27:42,542 - INFO - Processing PDF: 0025_Adjustablehospitalbeds
+2025-08-17 23:30:02,551 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:30:02,556 - INFO - ✅ Wrote docs/0025_Adjustablehospitalbeds/Deep-Research.md
+2025-08-17 23:30:02,556 - INFO - Processing PDF: 0026_Aerosol
+2025-08-17 23:32:47,855 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:32:48,106 - INFO - ✅ Wrote docs/0026_Aerosol/Deep-Research.md
+2025-08-17 23:32:48,106 - INFO - Processing PDF: 0027_Agarbatti
+2025-08-17 23:35:12,089 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:35:12,093 - INFO - ✅ Wrote docs/0027_Agarbatti/Deep-Research.md
+2025-08-17 23:35:12,093 - INFO - Processing PDF: 0028_AirBubbleSheet
+2025-08-17 23:37:54,222 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:37:54,523 - INFO - ✅ Wrote docs/0028_AirBubbleSheet/Deep-Research.md
+2025-08-17 23:37:54,523 - INFO - Processing PDF: 0029_AirCooler
+2025-08-17 23:41:49,591 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:41:49,841 - INFO - ✅ Wrote docs/0029_AirCooler/Deep-Research.md
+2025-08-17 23:41:49,842 - INFO - Processing PDF: 0030_AirFilter
+2025-08-17 23:44:31,882 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:44:31,885 - INFO - ✅ Wrote docs/0030_AirFilter/Deep-Research.md
+2025-08-17 23:44:31,885 - INFO - Processing PDF: 0031_AirFreshner
+2025-08-17 23:46:48,276 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:46:48,501 - INFO - ✅ Wrote docs/0031_AirFreshner/Deep-Research.md
+2025-08-17 23:46:48,501 - INFO - Processing PDF: 0032_AirSprings
+2025-08-17 23:48:39,856 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:48:39,859 - INFO - ✅ Wrote docs/0032_AirSprings/Deep-Research.md
+2025-08-17 23:48:39,859 - INFO - Processing PDF: 0033_AirPollutionMask
+2025-08-17 23:50:52,816 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:50:52,820 - INFO - ✅ Wrote docs/0033_AirPollutionMask/Deep-Research.md
+2025-08-17 23:50:52,820 - INFO - Processing PDF: 0034_AlkydResin
+2025-08-17 23:52:56,840 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:52:56,843 - INFO - ✅ Wrote docs/0034_AlkydResin/Deep-Research.md
+2025-08-17 23:52:56,843 - INFO - Processing PDF: 0035_AllPurposecream
+2025-08-17 23:55:19,559 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:55:19,735 - INFO - ✅ Wrote docs/0035_AllPurposecream/Deep-Research.md
+2025-08-17 23:55:19,735 - INFO - Processing PDF: 0036_AllenScrews
+2025-08-17 23:57:36,387 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:57:36,391 - INFO - ✅ Wrote docs/0036_AllenScrews/Deep-Research.md
+2025-08-17 23:57:36,391 - INFO - Processing PDF: 0037_AlmondCream
+2025-08-17 23:59:53,907 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-17 23:59:54,156 - INFO - ✅ Wrote docs/0037_AlmondCream/Deep-Research.md
+2025-08-17 23:59:54,156 - INFO - Processing PDF: 0038_AloeveraJuice
+2025-08-18 00:02:23,508 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:02:23,512 - INFO - ✅ Wrote docs/0038_AloeveraJuice/Deep-Research.md
+2025-08-18 00:02:23,513 - INFO - Processing PDF: 0039_AloveraGelmfg
+2025-08-18 00:05:17,737 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:05:17,739 - INFO - ✅ Wrote docs/0039_AloveraGelmfg/Deep-Research.md
+2025-08-18 00:05:17,739 - INFO - Processing PDF: 0040_Alum
+2025-08-18 00:07:40,310 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:07:40,312 - INFO - ✅ Wrote docs/0040_Alum/Deep-Research.md
+2025-08-18 00:07:40,313 - INFO - Processing PDF: 0041_AlumPhitkariManufacturing
+2025-08-18 00:10:30,478 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:10:30,483 - INFO - ✅ Wrote docs/0041_AlumPhitkariManufacturing/Deep-Research.md
+2025-08-18 00:10:30,483 - INFO - Processing PDF: 0042_AluminiumCastingsProject
+2025-08-18 00:12:53,822 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:12:54,066 - INFO - ✅ Wrote docs/0042_AluminiumCastingsProject/Deep-Research.md
+2025-08-18 00:12:54,066 - INFO - Processing PDF: 0043_AluminiumFabrictaion
+2025-08-18 00:15:05,220 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:15:05,224 - INFO - ✅ Wrote docs/0043_AluminiumFabrictaion/Deep-Research.md
+2025-08-18 00:15:05,224 - INFO - Processing PDF: 0044_ALuminiumFoilRewinding
+2025-08-18 00:17:25,971 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:17:25,974 - INFO - ✅ Wrote docs/0044_ALuminiumFoilRewinding/Deep-Research.md
+2025-08-18 00:17:25,975 - INFO - Processing PDF: 0045_AluminiumPowder
+2025-08-18 00:19:28,803 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:19:28,807 - INFO - ✅ Wrote docs/0045_AluminiumPowder/Deep-Research.md
+2025-08-18 00:19:28,807 - INFO - Processing PDF: 0046_AluminiumUtensils
+2025-08-18 00:21:24,136 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:21:24,388 - INFO - ✅ Wrote docs/0046_AluminiumUtensils/Deep-Research.md
+2025-08-18 00:21:24,388 - INFO - Processing PDF: 0047_AluminumFoilContainer
+2025-08-18 00:23:09,398 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:23:09,400 - INFO - ✅ Wrote docs/0047_AluminumFoilContainer/Deep-Research.md
+2025-08-18 00:23:09,401 - INFO - Processing PDF: 0048_AmaranthusDPR
+2025-08-18 00:24:49,748 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:24:49,751 - INFO - ✅ Wrote docs/0048_AmaranthusDPR/Deep-Research.md
+2025-08-18 00:24:49,752 - INFO - Processing PDF: 0049_AmlaProcessing
+2025-08-18 00:26:41,280 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:26:41,283 - INFO - ✅ Wrote docs/0049_AmlaProcessing/Deep-Research.md
+2025-08-18 00:26:41,283 - INFO - Processing PDF: 0050_Amranthus
+2025-08-18 00:29:10,148 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:29:10,400 - INFO - ✅ Wrote docs/0050_Amranthus/Deep-Research.md
+2025-08-18 00:29:10,400 - INFO - Processing PDF: 0051_AmranthusProcessing
+2025-08-18 00:31:24,439 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:31:24,442 - INFO - ✅ Wrote docs/0051_AmranthusProcessing/Deep-Research.md
+2025-08-18 00:31:24,443 - INFO - Processing PDF: 0052_AnchorHookSmall
+2025-08-18 00:33:21,635 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:33:21,882 - INFO - ✅ Wrote docs/0052_AnchorHookSmall/Deep-Research.md
+2025-08-18 00:33:21,883 - INFO - Processing PDF: 0053_AnimalFeedfinal
+2025-08-18 00:35:37,738 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:35:37,741 - INFO - ✅ Wrote docs/0053_AnimalFeedfinal/Deep-Research.md
+2025-08-18 00:35:37,741 - INFO - Processing PDF: 0054_AnimationProductionUnit
+2025-08-18 00:38:04,230 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:38:04,233 - INFO - ✅ Wrote docs/0054_AnimationProductionUnit/Deep-Research.md
+2025-08-18 00:38:04,233 - INFO - Processing PDF: 0055_AnolaAmlaJuice
+2025-08-18 00:38:04,670 - WARNING - Cannot set gray non-stroke color because /'Pattern1' is an invalid float value
+2025-08-18 00:38:04,674 - WARNING - Cannot set gray non-stroke color because /'Pattern2' is an invalid float value
+2025-08-18 00:38:04,674 - WARNING - Cannot set gray non-stroke color because /'Pattern3' is an invalid float value
+2025-08-18 00:38:04,674 - WARNING - Cannot set gray non-stroke color because /'Pattern4' is an invalid float value
+2025-08-18 00:38:04,674 - WARNING - Cannot set gray non-stroke color because /'Pattern5' is an invalid float value
+2025-08-18 00:38:04,675 - WARNING - Cannot set gray non-stroke color because /'Pattern6' is an invalid float value
+2025-08-18 00:38:04,675 - WARNING - Cannot set gray non-stroke color because /'Pattern7' is an invalid float value
+2025-08-18 00:38:04,675 - WARNING - Cannot set gray non-stroke color because /'Pattern8' is an invalid float value
+2025-08-18 00:38:04,675 - WARNING - Cannot set gray non-stroke color because /'Pattern9' is an invalid float value
+2025-08-18 00:38:04,675 - WARNING - Cannot set gray non-stroke color because /'Pattern10' is an invalid float value
+2025-08-18 00:38:04,675 - WARNING - Cannot set gray non-stroke color because /'Pattern11' is an invalid float value
+2025-08-18 00:38:04,675 - WARNING - Cannot set gray non-stroke color because /'Pattern12' is an invalid float value
+2025-08-18 00:38:04,675 - WARNING - Cannot set gray non-stroke color because /'Pattern13' is an invalid float value
+2025-08-18 00:38:04,675 - WARNING - Cannot set gray non-stroke color because /'Pattern14' is an invalid float value
+2025-08-18 00:38:04,675 - WARNING - Cannot set gray non-stroke color because /'Pattern15' is an invalid float value
+2025-08-18 00:38:04,676 - WARNING - Cannot set gray non-stroke color because /'Pattern16' is an invalid float value
+2025-08-18 00:40:28,014 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 00:40:28,266 - INFO - ✅ Wrote docs/0055_AnolaAmlaJuice/Deep-Research.md
+2025-08-18 00:40:28,266 - INFO - Processing PDF: 0056_AntiCorrosivePaints

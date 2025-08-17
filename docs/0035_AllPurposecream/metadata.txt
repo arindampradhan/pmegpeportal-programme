@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0035_AllPurposecream.pdf
+Generated: 2025-08-17T23:55:19.735697
+Status: success
+Model: gpt-4o

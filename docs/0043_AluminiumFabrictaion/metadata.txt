@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0043_AluminiumFabrictaion.pdf
+Generated: 2025-08-18T00:15:05.224628
+Status: success
+Model: gpt-4o

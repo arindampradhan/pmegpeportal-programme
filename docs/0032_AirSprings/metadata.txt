@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0032_AirSprings.pdf
+Generated: 2025-08-17T23:48:39.859760
+Status: success
+Model: gpt-4o

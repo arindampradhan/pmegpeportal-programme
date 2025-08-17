@@ -1,0 +1,4 @@
+Source PDF: scripts/data/source/pdfs/0022_AcrylicPaintsChemical.pdf
+Generated: 2025-08-17T23:23:43.929815
+Status: success
+Model: gpt-4o
