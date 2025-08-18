@@ -21,18 +21,14 @@ Our advanced AI system has automatically generated comprehensive business analys
 
 ## 📋 Table of Contents
 
-- [Analysis Reports](#analysis-reports)
-  - [Industry Analysis](#industry-analysis)
-  - [Investment & Financial Analysis](#investment--financial-analysis)
-  - [Geographic & Regional Analysis](#geographic--regional-analysis)
-  - [Market Research & Trends](#market-research--trends)
-  - [Feasibility & Viability Studies](#feasibility--viability-studies)
-- [Resources & Tools](#resources--tools)
-  - [Templates](#templates)
-  - [Automation Scripts](#automation-scripts)
-  - [Configuration](#configuration)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
+- [Analysis Reports](#-analysis-reports)
+  - [AI-Generated Deep Research Reports](#-ai-generated-deep-research-reports)
+- [Resources & Tools](#️-resources--tools)
+  - [Analysis Resources](#analysis-resources)
+  - [For Developers](#for-developers)
+- [Quick Access](#-quick-access)
+- [Dataset Overview](#-dataset-overview)
+- [Contributing](#-contributing)
 
 ## 📊 Analysis Reports
 
@@ -44,7 +40,7 @@ Our advanced AI system has automatically generated comprehensive business analys
 **AI Model**: GPT-4o with enterprise-grade analysis capabilities
 **Coverage**: Financial, Technical, Market, Geographic, Risk Analysis
 
-#### Samadhan Projects
+### Samadhan Projects
 
 | ☆ | Project Name | Sample Reports | Analysis | Status |
 |---|--------------|----------------|----------|--------|
@@ -120,6 +116,66 @@ Our advanced AI system has automatically generated comprehensive business analys
 | ★★★ | **Biodegradable Plastic Bags** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BiodegradablePlasticBags.pdf) | [Deep Research](docs/0149_BiodegradablePlasticBags/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
 | ★★★ | **Biodegradable Plastic Pellets** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BiodegradablePlasticPellets.pdf) | [Deep Research](docs/0150_BiodegradablePlasticPellets/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
 | ★★★ | **Biogas** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/Biogas.pdf) | [Deep Research](docs/0152_Biogas/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Blood Bags** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/Bloodbags.pdf) | [Deep Research](docs/0161_Bloodbags/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Cement Jalli, Doors, Windows and Allied Products** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/CEMENT%20JALLI%20,%20DOORS,%20WINDOWS%20AND%20ALLIED%20PRODUCTS.pdf) | [Deep Research](docs/0186_CEMENT JALLI , DOORS, WINDOWS AND ALLIED PRODUCTS/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Canvas Shoes** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/CanvasShoes.pdf) | [Deep Research](docs/0178_PROJECT PROFILE ON CANVAS SHOES/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Carpet Finishing Work** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/CarpetFinishingWork.pdf) | [Deep Research](docs/0226_CarpetFinishingWork/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Ceiling Fan** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/CeilingFan.pdf) | [Deep Research](docs/0233_CeilingFan/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Computer Business Center** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/Computerbusinesscenter.pdf) | [Deep Research](docs/0276_Computerbusinesscenter/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Cricket Bat** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/CricketBat.pdf) | [Deep Research](docs/0295_CricketBat/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Cold Press Coconut Oil** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/ColdpressCoconutOil.pdf) | [Deep Research](docs/0272_ColdpressCoconutOil/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Coir Fibre Extraction Unit** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/CoirFibreExtractionUnit.pdf) | [Deep Research](docs/0265_CoirFibreExtractionUnit/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Electronic Gate Security Systems** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/ELECTRONIC%20GATE%20SECURITY%20SYSTEMS.pdf) | [Deep Research](docs/0335_PROJECT PROFILE ON ELECTRONIC GATE SECURITY SYSTEMS/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Fibre Extraction DPR** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/FibreExtractionDPR.pdf) | [Deep Research](docs/0376_FibreExtractionDPR/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Food Storage Containers** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/FoodStorageContainers.pdf) | [Deep Research](docs/0383_FoodStorageContainers/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Gaur Stone Handicraft** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/GaurastoneHandicraft.pdf) | [Deep Research](docs/0403_GaurastoneHandicraft/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Ginger and Garlic Processing** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/GINGER%20AND%20GARLIC%20PROCESSING.pdf) | [Deep Research](docs/0393_PROJECT PROFILE ON GINGER AND GARLIC PROCESSING/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Gunny Bag** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/GunnyBag.pdf) | [Deep Research](docs/0422_GunnyBag/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Herbal Toothpaste** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/HerbalToothpaste.pdf) | [Deep Research](docs/0448_HerbalToothpaste/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Honey Packaging Unit** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/HoneyPackagingUnit.pdf) | [Deep Research](docs/0454_HoneyPackagingUnit/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **HDPE Bucket** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/hdpebucket.pdf) | [Deep Research](docs/1040_hdpebucket/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Helmet** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/helmet.pdf) | [Deep Research](docs/1041_helmet/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Imla Sauce** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/imlisauce.pdf) | [Deep Research](docs/1042_imlisauce/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Insulator** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/insulator.pdf) | [Deep Research](docs/1043_insulator/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Ittar** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/Ittar.pdf) | [Deep Research](docs/0465_Ittar/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Jam Jelly Murabba Manufacturing Scheme** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/JAM%20JELLY%20MURABBA%20MANUFACTURING%20SCHEME.pdf) | [Deep Research](docs/0467_JAM JELLY MURABBA MANUFACTURING SCHEME/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Jeggings** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/Jeggings.pdf) | [Deep Research](docs/0473_Jeggings/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Keyboard** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/keyboard.pdf) | [Deep Research](docs/1044_keyboard/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Kitchen Chimney** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/kitchenchimney.pdf) | [Deep Research](docs/1045_kitchenchimney/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Knitted Lace** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/knittedlace.pdf) | [Deep Research](docs/1046_knittedlace/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Kurkure Snacks** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/kurkuresnacks.pdf) | [Deep Research](docs/1047_kurkuresnacks/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Laminate Wood Flooring** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/LaminateWoodFlooring.pdf) | [Deep Research](docs/1048_LaminateWoodFlooring/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Leather Bag** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/leatherbag.pdf) | [Deep Research](docs/1049_leatherbag/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Leather Sandal with P.U** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/LEATHER%20SANDAL%20WITH%20P.U.pdf) | [Deep Research](docs/0503_LEATHER SANDAL WITH P.U/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Leather Jewellery** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/LEATHER%20JEWELLERY.pdf) | [Deep Research](docs/0501_PROJECT PROFILE ON LEATHER JEWELLERY/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **LED Lighting System** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/LEDLightingSystem.pdf) | [Deep Research](docs/0512_LEDLightingSystem/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Laundry Soap** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/LAUNDRY%20SOAP.pdf) | [Deep Research](docs/0496_PROJECT PROFILE ON LAUNDRY SOAP/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Lubricant Spray** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/lubricantspray.pdf) | [Deep Research](docs/1050_lubricantspray/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Madeups** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/Madeups.pdf) | [Deep Research](docs/0579_Madeups/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Manufacturing of Agarbatti** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/MANUFACTURING%20OF%20AGARBATTI.pdf) | [Deep Research](docs/0695_MANUFACTURING OF AGARBATTI/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Massage Oil** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/massageoil.pdf) | [Deep Research](docs/1051_massageoil/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Mica Paper** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/micapaper.pdf) | [Deep Research](docs/1052_micapaper/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Mosquito Net** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/MosquitoNet.pdf) | [Deep Research](docs/0613_MosquitoNet/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Mosquito Racket** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/MosquitoRacket.pdf) | [Deep Research](docs/0614_MosquitoRacket/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Mustard Oil** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/mustardoil.pdf) | [Deep Research](docs/1053_mustardoil/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Papad** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/Papad.pdf) | [Deep Research](docs/0751_Papad/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Phenyle** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/Phenyle.pdf) | [Deep Research](docs/0768_Phenyle/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Phosphor Bronze Bushes** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/PHOSPHOR%20BRONZE%20BUSHES.pdf) | [Deep Research](docs/0664_PROJECT PROFILE ON PHOSPHOR BRONZE BUSHES/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Plastic Raincoats** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/PlasticRaincoats.pdf) | [Deep Research](docs/0781_PlasticRaincoats/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **PP Box Strapping** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/PPBoxStrapping.pdf) | [Deep Research](docs/0677_PPBoxStrapping/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Production of Bamboo Mat Board Unit** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/PRODUCTION%20OF%20BAMBOO%20MAT%20BOARD%20UNIT.pdf) | [Deep Research](docs/0682_PRODUCTION OF BAMBOO MAT BOARD UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **R-PET Bottle Recycling** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/rPetBottleRecycling.pdf) | [Deep Research](docs/1054_rPetBottleRecycling/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Roasted Flavoured Peanuts** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/RoastedFlavouredPeanuts.pdf) | [Deep Research](docs/0818_RoastedFlavouredPeanuts/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Rubber Moulding Coir Matting** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/RubberMouldingCoirMatting.pdf) | [Deep Research](docs/0826_RubberMouldingCoirMatting/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Sattu Manufacturing** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/SATTU%20MANUFACTURING.pdf) | [Deep Research](docs/0830_PROJECT PROFILE ON SATTU MANUFACTURING/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Shaving Cream** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/SHAVING%20CREAM.pdf) | [Deep Research](docs/0831_PROJECT PROFILE ON SHAVING CREAM/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Socks Manufacturing Unit** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/socksManufacturingUnit.pdf) | [Deep Research](docs/1055_socksManufacturingUnit/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Soldering Wire** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/solderingwire.pdf) | [Deep Research](docs/1056_solderingwire/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Sports Footwear** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/SportsFootwear.pdf) | [Deep Research](docs/0883_SportsFootwear/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Stone Handicraft Final** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/StoneHandicraftFinal.pdf) | [Deep Research](docs/0890_StoneHandicraftFinal/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Trumock Shoe with TPR Sole** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/TRUMOCK%20SHOE%20WITH%20TPR%20SOLE.pdf) | [Deep Research](docs/0914_PROJECT PROFILE ON TRUMOCK SHOE WITH TPR SOLE/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Yogurt** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/Yogurt.pdf) | [Deep Research](docs/1002_Yogurt/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **Zari Silk Embroidery DPR** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/ZariSilkEmbroideryDPR.pdf) | [Deep Research](docs/1003_ZariSilkEmbroideryDPR/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
 
 #### Unknown
 
@@ -173,42 +229,42 @@ Our advanced AI system has automatically generated comprehensive business analys
 
 | ☆ | Project Name | Sample Reports | Analysis | Status |
 |---|--------------|----------------|----------|--------|
-| ★★★ | **ALUMINIUM UTENSIL UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/ALUMINIUM UTENSIL UNIT.pdf) | [Deep Research](docs/0010_ALUMINIUM UTENSIL UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
-| ★★★ | **ALUMINIUM VENETIAN SCHEME** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/ALUMINIUM VENETIAN SCHEME.pdf) | [Deep Research](docs/0011_ALUMINIUM VENETIAN SCHEME/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
-| ★★★ | **ASSEMBLY OF DIESEL GENERATOR SET** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/ASSEMBLY OF DIESEL GENERATOR SET.pdf) | [Deep Research](docs/0016_ASSEMBLY OF DIESEL GENERATOR SET/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
-| ★★★ | **AUTOMATIC CURTAIN OPENER** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/AUTOMATIC CURTAIN OPENER.pdf) | [Deep Research](docs/0019_AUTOMATIC CURTAIN OPENER/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
-| ★★★ | **BEE BOX MANUFACTURING UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BEE BOX MANUFACTURING UNIT.pdf) | [Deep Research](docs/0090_BEE BOX MANUFACTURING UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **ALUMINIUM UTENSIL UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/ALUMINIUM%20UTENSIL%20UNIT.pdf) | [Deep Research](docs/0010_ALUMINIUM UTENSIL UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **ALUMINIUM VENETIAN SCHEME** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/ALUMINIUM%20VENETIAN%20SCHEME.pdf) | [Deep Research](docs/0011_ALUMINIUM VENETIAN SCHEME/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **ASSEMBLY OF DIESEL GENERATOR SET** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/ASSEMBLY%20OF%20DIESEL%20GENERATOR%20SET.pdf) | [Deep Research](docs/0016_ASSEMBLY OF DIESEL GENERATOR SET/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **AUTOMATIC CURTAIN OPENER** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/AUTOMATIC%20CURTAIN%20OPENER.pdf) | [Deep Research](docs/0019_AUTOMATIC CURTAIN OPENER/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **BEE BOX MANUFACTURING UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BEE%20BOX%20MANUFACTURING%20UNIT.pdf) | [Deep Research](docs/0090_BEE BOX MANUFACTURING UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
 
 #### SERVICE & TEXTILE
 
 | ☆ | Project Name | Sample Reports | Analysis | Status |
 |---|--------------|----------------|----------|--------|
-| ★★★ | **AUTO GARRAGE** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/AUTO GARRAGE.pdf) | [Deep Research](docs/0018_AUTO GARRAGE/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
-| ★★★ | **BARBER SHOP** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BARBER SHOP.pdf) | [Deep Research](docs/0086_BARBER SHOP/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **AUTO GARRAGE** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/AUTO%20GARRAGE.pdf) | [Deep Research](docs/0018_AUTO GARRAGE/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **BARBER SHOP** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BARBER%20SHOP.pdf) | [Deep Research](docs/0086_BARBER SHOP/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
 
 #### AGRO Based FOOD PROCESSING
 
 | ☆ | Project Name | Sample Reports | Analysis | Status |
 |---|--------------|----------------|----------|--------|
-| ★★★ | **BAKERY PRODUCTS** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BAKERY PRODUCTS.pdf) | [Deep Research](docs/0079_BAKERY PRODUCTS/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
-| ★★★ | **BAKERY PRODUCTS BIG UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BAKERY PRODUCTS BIG UNIT.pdf) | [Deep Research](docs/0080_BAKERY PRODUCTS BIG UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
-| ★★★ | **BAKERY PRODUCTS UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BAKERY PRODUCTS UNIT.pdf) | [Deep Research](docs/0081_BAKERY PRODUCTS UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
-| ★★★ | **BESAN MANUFACTURING UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BESAN MANUFACTURING UNIT.pdf) | [Deep Research](docs/0092_BESAN MANUFACTURING UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
-| ★★★ | **BEVERAGE MANUFACTURING SCHEME** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BEVERAGE MANUFACTURING SCHEME.pdf) | [Deep Research](docs/0093_BEVERAGE MANUFACTURING SCHEME/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **BAKERY PRODUCTS** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BAKERY%20PRODUCTS.pdf) | [Deep Research](docs/0079_BAKERY PRODUCTS/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **BAKERY PRODUCTS BIG UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BAKERY%20PRODUCTS%20BIG%20UNIT.pdf) | [Deep Research](docs/0080_BAKERY PRODUCTS BIG UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **BAKERY PRODUCTS UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BAKERY%20PRODUCTS%20UNIT.pdf) | [Deep Research](docs/0081_BAKERY PRODUCTS UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **BESAN MANUFACTURING UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BESAN%20MANUFACTURING%20UNIT.pdf) | [Deep Research](docs/0092_BESAN MANUFACTURING UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **BEVERAGE MANUFACTURING SCHEME** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BEVERAGE%20MANUFACTURING%20SCHEME.pdf) | [Deep Research](docs/0093_BEVERAGE MANUFACTURING SCHEME/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
 
 #### FOREST Based
 
 | ☆ | Project Name | Sample Reports | Analysis | Status |
 |---|--------------|----------------|----------|--------|
-| ★★★ | **BAMBOO ARTICLE MANUFACTURING UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BAMBOO ARTICLE MANUFACTURING UNIT.pdf) | [Deep Research](docs/0083_BAMBOO ARTICLE MANUFACTURING UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **BAMBOO ARTICLE MANUFACTURING UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BAMBOO%20ARTICLE%20MANUFACTURING%20UNIT.pdf) | [Deep Research](docs/0083_BAMBOO ARTICLE MANUFACTURING UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
 
 #### POLYMER & CHEMICAL Based
 
 | ☆ | Project Name | Sample Reports | Analysis | Status |
 |---|--------------|----------------|----------|--------|
-| ★★★ | **BINDI MANUFACTURING UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BINDI MANUFACTURING UNIT.pdf) | [Deep Research](docs/0094_BINDI MANUFACTURING UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
-| ★★★ | **BUBBLE PACKING PAPER** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BUBBLE PACKING PAPER.pdf) | [Deep Research](docs/0103_BUBBLE PACKING PAPER/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
-| ★★★ | **BUBBLE PACKING PAPER** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BUBBLE PACKING PAPER.pdf) | [Deep Research](docs/0104_BUBBLE PACKING PAPER/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **BINDI MANUFACTURING UNIT** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BINDI%20MANUFACTURING%20UNIT.pdf) | [Deep Research](docs/0094_BINDI MANUFACTURING UNIT/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **BUBBLE PACKING PAPER** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BUBBLE%20PACKING%20PAPER.pdf) | [Deep Research](docs/0103_BUBBLE PACKING PAPER/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
+| ★★★ | **BUBBLE PACKING PAPER** | [PDF](https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/BUBBLE%20PACKING%20PAPER.pdf) | [Deep Research](docs/0104_BUBBLE PACKING PAPER/Deep-Research.md) | Financial modeling, Market analysis, Risk assessment, Strategic planning | ✅ Complete |
 
 
 <!-- ### Industry Analysis
@@ -316,7 +372,7 @@ Our advanced AI system has automatically generated comprehensive business analys
 We welcome analysis contributions! Here's how you can help:
 
 ### For Analysts & Researchers
-1. **Add New Analysis Reports**: Use our [report template](scripts/data/templates/project_report_template.md) to create insights
+1. **Add New Analysis Reports**: Use our [report template](scripts/data/templates/unified_project_analysis_template.md) to create insights
 2. **Enhance Existing Reports**: Improve depth, add new insights, or update findings
 3. **Create Visual Diagrams**: Develop Excalidraw/Tldraw compatible SVG diagrams
 4. **Cross-reference Studies**: Connect findings across different analysis types
@@ -360,10 +416,10 @@ Give a ⭐️ if this project helped you analyze PMEGP data!
 2. **Sample Reports by Category**: 
    - **Medical**: [Surgical 3 Ply Mask](docs/0001_3PlyMask/Deep-Research.md) | [Air Pollution Mask](docs/0033_AirPollutionMask/Deep-Research.md)
    - **Chemical**: [4T Lubricants Oil Chemical](docs/0002_4TLubricantsOilChemical/Deep-Research.md) | [Acrylic Paints](docs/0022_AcrylicPaintsChemical/Deep-Research.md)
-   - **Electronics**: [Add-on Cards for Computer](docs/0003_ADDONCARDSFORCOMPUTER/Deep-Research.md) | [Display Monitor Assembly](docs/0013_ASSEMBLING%20OF%20%20DISPLAY%20MONITOR/Deep-Research.md)
-   - **Food Processing**: [Aloe Vera Gel](docs/0005_PROJECT%20PROFILE%20ON%20%20ALOE%20VERA%20GEL/Deep-Research.md) | [Banana Chips](docs/0084_PROJECT%20PROFILE%20ON%20BANANA%20CHIPS/Deep-Research.md)
-   - **Manufacturing**: [Aluminium Fabrication](docs/0008_PROJECT%20PROFILE%20ON%20ALUMINIUM%20FABRICATION/Deep-Research.md) | [Air Conditioner](docs/0004_PROJECT%20PROFILE%20ON%20AIR%20CONDITIONER%20(SPLIT%20TYPES)/Deep-Research.md)
-   - **Automotive**: [Automobile Silencer](docs/0020_PROJECT%20PROFILE%20ON%20AUTOMOBILE%20SILENCER/Deep-Research.md) | [Auto Clutch Plate](docs/0065_AutoClutchPlate/Deep-Research.md)
+   - **Electronics**: [Add-on Cards for Computer](docs/0003_ADDONCARDSFORCOMPUTER/Deep-Research.md) | [Display Monitor Assembly](docs/0013_ASSEMBLING OF  DISPLAY MONITOR/Deep-Research.md)
+   - **Food Processing**: [Aloe Vera Gel](docs/0005_PROJECT PROFILE ON  ALOE VERA GEL/Deep-Research.md) | [Banana Chips](docs/0084_PROJECT PROFILE ON BANANA CHIPS/Deep-Research.md)
+   - **Manufacturing**: [Aluminium Fabrication](docs/0008_PROJECT PROFILE ON ALUMINIUM FABRICATION/Deep-Research.md) | [Air Conditioner](docs/0004_PROJECT PROFILE ON AIR CONDITIONER (SPLIT TYPES)/Deep-Research.md)
+   - **Automotive**: [Automobile Silencer](docs/0020_PROJECT PROFILE ON AUTOMOBILE SILENCER/Deep-Research.md) | [Auto Clutch Plate](docs/0065_AutoClutchPlate/Deep-Research.md)
    - **Traditional**: [Agarbatti](docs/0027_Agarbatti/Deep-Research.md) | [Bamboo Furniture](docs/0117_BambooFurniture/Deep-Research.md)
    - **Healthcare**: [Adjustable Hospital Beds](docs/0025_Adjustablehospitalbeds/Deep-Research.md) | [Baby Diaper](docs/0107_BabyDiaper/Deep-Research.md)
 3. **Generate New Reports**: Use the AI generator script for additional projects
