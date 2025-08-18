@@ -426,6 +426,7 @@ def main():
     parser.add_argument("--max-pages", type=int, default=30, help="Max pages to read per PDF")
     parser.add_argument("--model", default=os.getenv("OPENAI_MODEL", "gpt-4o"), help="OpenAI model to use (gpt-4o recommended for deep research)")
     parser.add_argument("--limit", type=int, default=0, help="Limit number of PDFs to process (0 = all)")
+    parser.add_argument("--project-id", help="Process only the PDF with this specific project ID (e.g., '0001_3PlyMask')")
 
     args = parser.parse_args()
 
@@ -446,6 +447,29 @@ def main():
     template_md = load_template(template_path)
 
     pdf_files = sorted([p for p in pdf_dir.glob("*.pdf")])
+    
+    # Filter by project ID if specified
+    if args.project_id:
+        # Look for PDF that matches the project ID pattern
+        target_pdf = None
+        for pdf_path in pdf_files:
+            # Check if the PDF name contains the project ID
+            if args.project_id in pdf_path.stem:
+                target_pdf = pdf_path
+                break
+        
+        if target_pdf:
+            pdf_files = [target_pdf]
+            logger.info(f"Found PDF for project ID '{args.project_id}': {target_pdf.name}")
+        else:
+            logger.error(f"No PDF found matching project ID '{args.project_id}'")
+            logger.info("Available PDFs:")
+            for pdf_path in pdf_files[:10]:  # Show first 10 PDFs as examples
+                logger.info(f"  - {pdf_path.stem}")
+            if len(pdf_files) > 10:
+                logger.info(f"  ... and {len(pdf_files) - 10} more")
+            sys.exit(1)
+    
     if args.limit > 0:
         pdf_files = pdf_files[:args.limit]
 
