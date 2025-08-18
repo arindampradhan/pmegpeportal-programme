@@ -1,4 +1,4 @@
-```markdown
+
 # 0074_AutomobileSilencer - Automobile Silencer Manufacturing Unit Analysis Report
 
 ## 📋 Project Overview

@@ -1,4 +1,4 @@
-```markdown
+
 # 0060_ArecaLeafPlates Analysis Report
 
 ## 📋 Project Overview

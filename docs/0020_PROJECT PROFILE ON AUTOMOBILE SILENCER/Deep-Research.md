@@ -1,4 +1,4 @@
-```markdown
+
 # 0020 - AUTOMOBILE SILENCER Analysis Report
 
 ## 📋 Project Overview

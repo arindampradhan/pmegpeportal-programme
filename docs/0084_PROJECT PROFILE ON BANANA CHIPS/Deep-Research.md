@@ -1,4 +1,4 @@
-```markdown
+
 # 0084 - Banana Chips Analysis Report
 
 ## 📋 Project Overview

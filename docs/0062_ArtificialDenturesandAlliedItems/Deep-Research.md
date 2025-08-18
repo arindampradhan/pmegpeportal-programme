@@ -1,4 +1,4 @@
-```markdown
+
 # 0062_ArtificialDenturesandAlliedItems Analysis Report
 
 ## 📋 Project Overview

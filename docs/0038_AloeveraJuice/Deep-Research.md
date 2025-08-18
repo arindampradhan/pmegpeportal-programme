@@ -1,4 +1,4 @@
-```markdown
+
 # 0038_AloeveraJuice Analysis Report
 
 ## 📋 Project Overview

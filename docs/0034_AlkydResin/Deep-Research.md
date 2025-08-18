@@ -1,4 +1,4 @@
-```markdown
+
 # 0034_AlkydResin - Alkyd Resin Manufacturing Analysis Report
 
 ## 📋 Project Overview

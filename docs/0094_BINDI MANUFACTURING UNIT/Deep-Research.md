@@ -1,4 +1,4 @@
-```markdown
+
 # PCBI-07 - Bindi Manufacturing Unit Analysis Report
 
 ## 📋 Project Overview

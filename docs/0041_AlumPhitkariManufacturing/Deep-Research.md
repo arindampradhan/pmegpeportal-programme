@@ -1,4 +1,4 @@
-```markdown
+
 # 0041_AlumPhitkariManufacturing Analysis Report
 
 ## 📋 Project Overview

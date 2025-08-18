@@ -1,4 +1,4 @@
-```markdown
+
 # 0011_ALUMINIUM VENETIAN SCHEME Analysis Report
 
 ## 📋 Project Overview

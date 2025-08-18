@@ -1,4 +1,4 @@
-```markdown
+
 # 0120_BambooshootProducts - Bamboo Shoot Products Analysis Report
 
 ## 📋 Project Overview

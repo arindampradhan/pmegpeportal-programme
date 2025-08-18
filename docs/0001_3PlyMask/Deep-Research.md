@@ -1,4 +1,4 @@
-```markdown
+
 # 0001 - Surgical 3 Ply Mask Analysis Report
 
 ## 📋 Project Overview

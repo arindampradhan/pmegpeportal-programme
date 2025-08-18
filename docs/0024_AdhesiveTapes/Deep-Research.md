@@ -1,4 +1,4 @@
-```markdown
+
 # 0024_AdhesiveTapes - Adhesive BOPP Tapes Analysis Report
 
 ## 📋 Project Overview

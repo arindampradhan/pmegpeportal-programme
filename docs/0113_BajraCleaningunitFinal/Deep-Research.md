@@ -1,4 +1,4 @@
-```markdown
+
 # 0113_BajraCleaningunitFinal - Bajra Cleaning Unit Analysis Report
 
 ## 📋 Project Overview

@@ -1,4 +1,4 @@
-```markdown
+
 # 0026_Aerosol Analysis Report
 
 ## 📋 Project Overview

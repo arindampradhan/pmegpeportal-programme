@@ -1,4 +1,4 @@
-```markdown
+
 # 0119 - Bamboo Shoot Pickle Unit Analysis Report
 
 ## 📋 Project Overview

@@ -1,4 +1,4 @@
-```markdown
+
 # 0065 - Assembly of Auto Clutch Plate Analysis Report
 
 ## 📋 Project Overview

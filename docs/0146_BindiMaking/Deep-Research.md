@@ -1,4 +1,4 @@
-```markdown
+
 # 0146 - Bindi Making Analysis Report
 
 ## 📋 Project Overview

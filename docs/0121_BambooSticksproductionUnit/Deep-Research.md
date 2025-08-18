@@ -1,4 +1,4 @@
-```markdown
+
 # 0121_BambooSticksproductionUnit - Bamboo Sticks Production Unit Analysis Report
 
 ## 📋 Project Overview

@@ -1,4 +1,4 @@
-```markdown
+
 # 0066 - Auto Control Cables Manufacturing Analysis Report
 
 ## 📋 Project Overview

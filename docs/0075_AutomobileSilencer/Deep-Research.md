@@ -1,4 +1,4 @@
-```markdown
+
 # 0075_AutomobileSilencer Analysis Report
 
 ## 📋 Project Overview

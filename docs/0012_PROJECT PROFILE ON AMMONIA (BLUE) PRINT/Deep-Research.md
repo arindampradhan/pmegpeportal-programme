@@ -1,4 +1,4 @@
-```markdown
+
 # 0012_PROJECT PROFILE ON AMMONIA (BLUE) PRINT Analysis Report
 
 ## 📋 Project Overview

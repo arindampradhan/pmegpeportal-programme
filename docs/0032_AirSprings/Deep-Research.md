@@ -1,4 +1,4 @@
-```markdown
+
 # 0032_AirSprings - Air Spring Manufacturing Unit Analysis Report
 
 ## 📋 Project Overview

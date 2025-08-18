@@ -1,4 +1,4 @@
-```markdown
+
 # 0118_BambooPellets - Bamboo Pellets Manufacturing Unit Analysis Report
 
 ## 📋 Project Overview

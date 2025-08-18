@@ -1,4 +1,4 @@
-```markdown
+
 # 0046 - Aluminium Utensils Analysis Report
 
 ## 📋 Project Overview

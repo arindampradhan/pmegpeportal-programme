@@ -1,4 +1,4 @@
-```markdown
+
 # 0054 - Animation Production Unit Analysis Report
 
 ## 📋 Project Overview

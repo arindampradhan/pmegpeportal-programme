@@ -1,4 +1,4 @@
-```markdown
+
 # 0044 - Aluminium Foil Rewinding Analysis Report
 
 ## 📋 Project Overview

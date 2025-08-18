@@ -1,4 +1,4 @@
-```markdown
+
 # 0148 - Biodegradable Starch Bags Analysis Report
 
 ## 📋 Project Overview

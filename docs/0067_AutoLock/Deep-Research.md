@@ -1,4 +1,4 @@
-```markdown
+
 # 0067 - Auto Lock Analysis Report
 
 ## 📋 Project Overview

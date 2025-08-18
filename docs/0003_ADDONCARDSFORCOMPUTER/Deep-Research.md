@@ -1,4 +1,4 @@
-```markdown
+
 # 0003_ADDONCARDSFORCOMPUTER - Add-On Cards For Computer Analysis Report
 
 ## 📋 Project Overview

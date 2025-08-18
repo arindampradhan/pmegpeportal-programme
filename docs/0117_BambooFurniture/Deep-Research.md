@@ -1,4 +1,4 @@
-```markdown
+
 # 0117_BambooFurniture Analysis Report
 
 ## 📋 Project Overview

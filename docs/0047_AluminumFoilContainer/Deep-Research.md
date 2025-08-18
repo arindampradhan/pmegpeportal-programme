@@ -1,4 +1,4 @@
-```markdown
+
 # 0047_AluminumFoilContainer - Aluminum Foil Container Analysis Report
 
 ## 📋 Project Overview

@@ -1,4 +1,4 @@
-```markdown
+
 # 0073 - Automobile Piston Analysis Report
 
 ## 📋 Project Overview

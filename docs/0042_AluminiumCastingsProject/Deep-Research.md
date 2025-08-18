@@ -1,4 +1,4 @@
-```markdown
+
 # 0042 - Aluminium Castings Project Analysis Report
 
 ## 📋 Project Overview

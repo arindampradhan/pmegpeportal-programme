@@ -1,4 +1,4 @@
-```markdown
+
 # 0023 - Acrylic Signage Board Analysis Report
 
 ## 📋 Project Overview

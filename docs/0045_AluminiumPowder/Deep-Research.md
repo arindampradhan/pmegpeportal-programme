@@ -1,4 +1,4 @@
-```markdown
+
 # 0045 - Aluminium Powder Analysis Report
 
 ## 📋 Project Overview

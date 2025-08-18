@@ -1,4 +1,4 @@
-```markdown
+
 # 0078_AyurvedicOil Analysis Report
 
 ## 📋 Project Overview

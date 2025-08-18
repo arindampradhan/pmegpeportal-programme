@@ -1,4 +1,4 @@
-```markdown
+
 # 0022_AcrylicPaintsChemical - Acrylic Paint Manufacturing Analysis Report
 
 ## 📋 Project Overview

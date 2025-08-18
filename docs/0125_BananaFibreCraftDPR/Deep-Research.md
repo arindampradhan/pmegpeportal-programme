@@ -1,4 +1,4 @@
-```markdown
+
 # 0125 - Banana Fibre Craft Unit Analysis Report
 
 ## 📋 Project Overview

@@ -1,4 +1,4 @@
-```markdown
+
 # 0029_AirCooler - Air Cooler Manufacturing Unit Analysis Report
 
 ## 📋 Project Overview

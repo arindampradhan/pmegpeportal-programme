@@ -1,4 +1,4 @@
-```markdown
+
 # 0114 - Baked Beans Production Unit Analysis Report
 
 ## 📋 Project Overview

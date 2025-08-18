@@ -1,4 +1,4 @@
-```markdown
+
 # 0056 - Anti-Corrosive Paints Analysis Report
 
 ## 📋 Project Overview

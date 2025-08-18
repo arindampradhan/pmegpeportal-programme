@@ -1,4 +1,4 @@
-```markdown
+
 # 0018_AUTO GARRAGE Analysis Report
 
 ## 📋 Project Overview

@@ -1,4 +1,4 @@
-```markdown
+
 # 0150 - Biodegradable Plastic Pellets Analysis Report
 
 ## 📋 Project Overview

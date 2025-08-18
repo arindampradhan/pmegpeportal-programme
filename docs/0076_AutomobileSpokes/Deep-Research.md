@@ -1,4 +1,4 @@
-```markdown
+
 # 0076 - Automobile Spokes Analysis Report
 
 ## 📋 Project Overview

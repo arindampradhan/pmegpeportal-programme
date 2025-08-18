@@ -1,4 +1,4 @@
-```markdown
+
 # 0039_AloveraGelmfg - Aloe Vera Gel Manufacturing Analysis Report
 
 ## 📋 Project Overview

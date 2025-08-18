@@ -223,7 +223,7 @@ Your custom prompt for AI chart selection...
 ### Research Document Structure
 The AI analyzes markdown documents with these sections:
 
-```markdown
+
 # Main Title
 
 ## Section 1: Financial Data

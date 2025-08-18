@@ -1,4 +1,4 @@
-```markdown
+
 # 0070 - Automobile Tyre Retreading Analysis Report
 
 ## 📋 Project Overview

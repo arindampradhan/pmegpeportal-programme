@@ -1,4 +1,4 @@
-```markdown
+
 # 0069 - Automatic Voltage Stabilizer Analysis Report
 
 ## 📋 Project Overview

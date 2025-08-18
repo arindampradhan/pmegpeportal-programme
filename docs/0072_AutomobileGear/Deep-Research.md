@@ -1,4 +1,4 @@
-```markdown
+
 # 0072_AutomobileGear Analysis Report
 
 ## 📋 Project Overview

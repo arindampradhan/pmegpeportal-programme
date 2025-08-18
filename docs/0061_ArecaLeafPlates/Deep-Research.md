@@ -1,4 +1,4 @@
-```markdown
+
 # 0061 - Areca Leaf Plates Analysis Report
 
 ## 📋 Project Overview

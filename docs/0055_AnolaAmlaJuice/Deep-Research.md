@@ -1,4 +1,4 @@
-```markdown
+
 # 0055 - Anola (Amla) Juice Analysis Report
 
 ## 📋 Project Overview

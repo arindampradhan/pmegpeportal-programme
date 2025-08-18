@@ -1,4 +1,4 @@
-```markdown
+
 # 0043 - Aluminium Fabrication Analysis Report
 
 ## 📋 Project Overview

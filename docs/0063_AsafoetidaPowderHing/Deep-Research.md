@@ -1,4 +1,4 @@
-```markdown
+
 # 0063 - Asafoetida Powder (Hing) Analysis Report
 
 ## 📋 Project Overview

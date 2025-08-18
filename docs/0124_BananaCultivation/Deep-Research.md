@@ -1,4 +1,4 @@
-```markdown
+
 # 0124 - Banana Cultivation Analysis Report
 
 ## 📋 Project Overview

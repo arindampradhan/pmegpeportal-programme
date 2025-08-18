@@ -1,4 +1,4 @@
-```markdown
+
 # 0010_ALUMINIUM UTENSIL UNIT Analysis Report
 
 ## 📋 Project Overview

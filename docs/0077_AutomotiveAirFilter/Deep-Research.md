@@ -1,4 +1,4 @@
-```markdown
+
 # 0077 - Automotive Air Filter Production Analysis Report
 
 ## 📋 Project Overview

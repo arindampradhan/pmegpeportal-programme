@@ -1,4 +1,4 @@
-```markdown
+
 # 0007_PROJECT PROFILE ON ALUMINIUM CANS Analysis Report
 
 ## 📋 Project Overview

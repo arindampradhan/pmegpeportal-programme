@@ -1,4 +1,4 @@
-```markdown
+
 # 0008_PROJECT PROFILE ON ALUMINIUM FABRICATION Analysis Report
 
 ## 📋 Project Overview

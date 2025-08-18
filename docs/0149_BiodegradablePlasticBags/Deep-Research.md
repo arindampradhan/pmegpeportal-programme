@@ -1,4 +1,4 @@
-```markdown
+
 # 0149 - Biodegradable Plastic Bags Analysis Report
 
 ## 📋 Project Overview

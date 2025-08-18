@@ -1,4 +1,4 @@
-```markdown
+
 # 0071 - Automobile Control Cables Analysis Report
 
 ## 📋 Project Overview

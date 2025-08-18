@@ -1,4 +1,4 @@
-```markdown
+
 # 0037_AlmondCream - Almond Cream Production Unit Analysis Report
 
 ## 📋 Project Overview

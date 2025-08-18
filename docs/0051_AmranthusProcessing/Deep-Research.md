@@ -1,4 +1,4 @@
-```markdown
+
 # 0051_AmranthusProcessing - Amranthus Processing Unit Analysis Report
 
 ## 📋 Project Overview

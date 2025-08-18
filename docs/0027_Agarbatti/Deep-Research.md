@@ -1,4 +1,4 @@
-```markdown
+
 # 0027_Agarbatti - Incense Sticks Manufacturing Analysis Report
 
 ## 📋 Project Overview

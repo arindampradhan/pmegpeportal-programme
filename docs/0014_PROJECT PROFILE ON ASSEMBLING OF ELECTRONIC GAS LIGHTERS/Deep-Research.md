@@ -1,4 +1,4 @@
-```markdown
+
 # 0014 - Assembling of Electronic Gas Lighters Analysis Report
 
 ## 📋 Project Overview
